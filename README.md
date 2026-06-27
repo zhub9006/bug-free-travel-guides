@@ -4,41 +4,59 @@
 
 A community for **bug-phobic travelers** to share safe, insect-free travel destinations, seasonal guides, and tips. Whether you're terrified of mosquitoes, creeped out by ants, or just want to enjoy your vacation without any six-legged surprises — you're in the right place.
 
-## 🗺️ Destination Guides
+## 📚 Destination Guides
 
 | Guide | Description | Destinations | Status |
 |---|---|---|---|
 | 📖 **[Guide #1 →](./DESTINATION_GUIDE_1_BUG_FREE_TRAVEL.md)** | Community-curated — 15 destinations across all continents | Iceland, NZ, Fiji/Samoa, Dubai, Antarctica, Svalbard, Ireland, Azores, Patagonia, Grenada, Singapore, Faroe Islands, Hawaii, Canary Islands, Seychelles | ✅ Live |
-| 🔬 **[Guide #2 (Research-Enhanced) →](./ENHANCED_DESTINATION_GUIDE_RESEARCH.md)** | Verified web research — deep-dive seasonal analysis + 3 new destinations | Maldives, Montserrat, Curaçao + enhanced data | ✅ Live |
-| 📝 **[Guide #3 (New Research) →](./guides/destination-1-iceland-and-top-bug-free-destinations.md)** | Extended research — 6 destinations with seasonal breakdowns + community template | Iceland, Atacama, Maldives, Montserrat, Hawaii Kona, Curaçao | 🆕 Added |
+| 🔍 **[Guide #2 (Research-Enhanced) →](./ENHANCED_DESTINATION_GUIDE_RESEARCH.md)** | Verified web research — deep-dive seasonal analysis + 3 new destinations | Maldives, Montserrat, Curaçao + enhanced data | ✅ Live |
+| 📝 **[Guide #3 (New Research) →](./guides/destination-1-iceland-and-top-bug-free-destinations.md)** | Extended research — 6 destinations with seasonal breakdowns + community template | Iceland, Atacama, Maldives, Montserrat, Hawaii Kona, Curaçao | ✅ Live |
+| 📕 **[Guide #4 (Research-Backed 2025) →](./guides/research-backed-destination-guide-2025.md)** | **ALL-NEW** — 18 destinations with verified seasonal research from Explore.com, RustourismNews, Cheapism, MosquitoJoe, GOV.UK, and more | Antarctica, Iceland, Svalbard, Faroe Islands, Atacama, Maldives, Montserrat, Curaçao, Aruba, Bonaire, Hawaii Kona, BVI, Cayman Islands, Bahamas, Dubai/UAE, Singapore, Patagonia, New Zealand | ✅ Live |
 
 ## 🌟 Featured Destinations at a Glance
 
 | Destination | Best Season | Bug Level |
 |---|---|---|
-| 🇮🇸 Iceland | June–Aug | ⭐ Virtually None |
-| 🏜️ Atacama, Chile | Apr–May / Sep–Nov | ⭐ Virtually None |
-| 🏝️ Maldives | Dec–Apr | ⭐⭐ Very Low (resort-treated) |
-| 🌋 Montserrat | Dec–Apr | ⭐⭐ Very Low (volcanic terrain) |
-| 🌺 Hawaii (Kona) | Apr–Oct | ⭐⭐ Low (dry coastal) |
-| 🏖️ Curaçao | Jan–Apr | ⭐⭐ Low (trade winds) |
-| 🇳🇿 New Zealand | Dec–Feb | ⭐ Very Low |
-| 🇫🇯 Fiji / 🇼🇸 Samoa | May–Oct | ⭐ Low |
-| 🇦🇪 Dubai / UAE | Nov–Mar | ⭐ Very Low |
-| 🇦🇶 Antarctica | Nov–Mar | ⭐ None |
-| 🇳🇴 Svalbard | June–Aug | ⭐ None |
-| 🇮🇪 Ireland | May–Sep | ⭐ Very Low |
-| 🇵🇹 Azores | May–Oct | ⭐ Low |
-| 🇨🇱 Patagonia | Dec–Feb | ⭐ Very Low |
-| 🇬🇩 Grenada | Jan–May | ⭐ Low |
-| 🇸🇬 Singapore | Feb–Apr | ⭐ Low (urban) |
-| 🇫🇴 Faroe Islands | June–Aug | ⭐ None |
-| 🇮🇹 Canary Islands | Nov–Apr | ⭐ Low |
-| 🇸🇨 Seychelles | May–Oct | ⭐ Very Low |
+| 🇦🇶 Antarctica | Nov–Mar | ⭐ Zero |
+| 🇮🇸 Iceland | June–Aug | ⭐ Zero |
+| 🇳🇴 Svalbard | June–Aug | ⭐ Zero |
+| 🇫🇴 Faroe Islands | June–Aug | ⭐ Zero |
+| 🏜️ Atacama, Chile | Apr–May / Sep–Nov | ⭐ Zero |
+| 🇲🇻 Maldives | Dec–Apr | ⭐⭐ Very Low (resort-treated) |
+| 🇲🇸 Montserrat | Dec–Apr | ⭐⭐ Very Low (volcanic terrain) |
+| 🇨🇼 Curaçao | Jan–Apr | ⭐⭐ Very Low (trade winds) |
+| 🇦🇼 Aruba | Year-round | ⭐⭐ Very Low (arid climate) |
+| 🇧🇶 Bonaire | Year-round | ⭐⭐ Very Low (desert-like) |
+| 🇺🇸 Hawaii (Kona) | Apr–Oct | ⭐⭐ Low (dry coastal) |
+| 🇬🇧 British Virgin Islands | Nov–Apr | ⭐⭐ Very Low (breezy, well-drained) |
+| 🇰🇾 Cayman Islands | Nov–Apr | ⭐⭐ Very Low (limestone terrain) |
+| 🇧🇸 Bahamas | Nov–Apr | ⭐⭐ Very Low (porous limestone) |
+| 🇦🇪 Dubai / UAE | Nov–Mar | ⭐⭐ Very Low (winter) |
+| 🇸🇬 Singapore (Urban) | Feb–Apr | ⭐⭐ Low (urban core) |
+| 🇦🇷🇨🇱 Patagonia | Dec–Feb | ⭐ Very Low |
+| 🇳🇿 New Zealand (North Is.) | Dec–Feb | ⭐ Very Low |
 
 Each destination includes **why it's bug-free**, **best visiting seasons**, **top spots**, **rare bug caveats**, and **pro tips** from fellow bug-avoiders!
 
-## 🤝 How to Contribute
+## 🌡️ Quick Seasonal Reference
+
+| Region | Safest Months | Why It Works |
+|--------|---------------|--------------|
+| Caribbean | Dec–Apr | Dry season, trade winds, low humidity |
+| Tropical Islands | Dry monsoon season | Low rain, lower humidity, ocean breezes |
+| Deserts | Apr–May / Sep–Nov | Zero rain, zero insects |
+| Arctic | Jun–Aug | Midnight sun, no bugs |
+| Middle East | Nov–Mar | Cool, dry, minimal pests |
+
+## 📊 Bug Risk Index
+
+| Rating | Meaning |
+|---|---|
+| ⭐ | **Zero bugs** — completely insect-free or virtually so |
+| ⭐⭐ | **Nearly zero** — might encounter 1-2 insects rarely, easily avoidable |
+| ⭐⭐⭐ | **Very low** — minimal, easily avoidable with basic precautions |
+
+## 📖 How to Contribute
 
 We welcome all contributions! See our full [Contribution Guidelines](CONTRIBUTING.md) for details.
 
@@ -52,13 +70,19 @@ We welcome all contributions! See our full [Contribution Guidelines](CONTRIBUTIN
 - Have additional tips? We want them!
 - Spotted a bug (pun intended) in our research? Let us know!
 
-## 📋 Repository Structure
+### 📣 Get Involved
+- [💬 Share Your Bug-Free Travel Story](https://github.com/zhub9006/bug-free-travel-guides/issues/2)
+- [🗺️ Suggest a New Destination](https://github.com/zhub9006/bug-free-travel-guides/issues/3)
+- [🛠️ Help Improve Existing Guides](https://github.com/zhub9006/bug-free-travel-guides/issues/4)
+
+## 📂 Repository Structure
 
 ```
 bug-free-travel-guides/
-├── README.md                                  ← You're here!
+├── README.md                                    ← You're here!
 ├── guides/
-│   └── destination-1-iceland-and-top-bug-free-destinations.md   ← New research-based guide!
+│   └── destination-1-iceland-and-top-bug-free-destinations.md   ← Extended research guide
+│   └── research-backed-destination-guide-2025.md               ← NEW: Verified research guide
 ├── DESTINATION_GUIDE_1_BUG_FREE_TRAVEL.md     ← Community guide (15 destinations)
 ├── ENHANCED_DESTINATION_GUIDE_RESEARCH.md      ← Research-enhanced guide (+3 destinations)
 ├── DESTINATIONS.md                            ← All destinations directory (by region)
@@ -83,14 +107,6 @@ bug-free-travel-guides/
 | Book AC/screened accommodations | Sealed environments keep bugs out |
 | Windy destinations are your friend | Wind is nature's best repellent |
 
-## 📊 Bug Risk Index
-
-| Rating | Meaning |
-|---|---|
-| ⭐ | **Zero bugs** — completely insect-free or virtually so |
-| ⭐⭐ | **Nearly zero** — might encounter 1-2 insects rarely, easily avoidable |
-| ⭐⭐⭐ | **Very low** — minimal, easily avoidable with basic precautions |
-
 ## 🎯 Destinations We Are Looking For
 
 Help us expand the guide! We especially need:
@@ -99,6 +115,16 @@ Help us expand the guide! We especially need:
 - 🏙️ **Northern European cities** — Helsinki, Oslo, Stockholm
 - 🏝️ **Oceanic islands** — Tonga, Cook Islands, Tuvalu
 - 🌊 **Off-season Caribbean** — Anguilla, Bonaire, St. Barts
+
+---
+
+## 🗺️ Current Open Community Issues
+
+| # | Issue | Labels |
+|---|---|---|
+| **#2** | [📣 Share Your Bug-Free Travel Story](https://github.com/zhub9006/bug-free-travel-guides/issues/2) | `community`, `stories` |
+| **#3** | [🗺️ Suggest a New Destination](https://github.com/zhub9006/bug-free-travel-guides/issues/3) | `contribute`, `new-destination` |
+| **#4** | [🛠️ Improve Existing Guides](https://github.com/zhub9006/bug-free-travel-guides/issues/4) | `improvement`, `maintenance` |
 
 ---
 
