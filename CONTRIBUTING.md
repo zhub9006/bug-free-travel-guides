@@ -1,115 +1,71 @@
-# Contributing to Bug-Free Travel Guides 🌍
+# 🤝 Contributing to Bug-Free Travel Guides
 
-Thank you for wanting to help make the world safer for bug-phobic travelers! Here's everything you need to know to contribute.
+Welcome! We're building the world's most comprehensive guide for bug-phobic travelers. Every contribution helps someone enjoy travel without the stress of creepy-crawlies.
 
-## 🐛 How to Add a New Destination
+## How to Contribute
 
-### Step 1: Open a GitHub Issue
-Create a new issue with the title format:
-```
-New Destination: [Place Name]
-```
+### 🆕 Add a New Destination Guide
 
-### Step 2: Include This Information
-In your issue, please provide:
+1. **Fork the repo** and create a new branch from `main`
+2. **Create a new file** in the `guides/` folder: `guides/destination-N-destination-name.md`
+3. **Follow our Destination Template** (see below)
+4. **Submit a Pull Request** with a clear description of what you added
 
-- **Location**: Country, region, and how accessible it is (flights, visas, etc.)
-- **Why it's bug-free**: The science behind it! (Cold climate, desert dryness, island isolation, wind patterns, altitude, pest control laws, etc.)
-- **Best visiting months (low bugs)**: Specific months when insect activity is lowest
-- **Worst visiting months (high bugs)**: When to avoid or what extra precautions to take
-- **Rare bug caveats**: Are there any mosquitoes, midges, sandflies, or other insects in specific areas or seasons? Honesty is crucial!
-- **Top stuff to do**: What makes this place worth visiting?
-- **Your personal experience**: Have you been there? What was your bug situation? Or cite credible sources if you're researching.
-- **Budget tier**: Roughly $ to $$$$$
-
-### Step 3: We Review & Format
-The maintainers will review your submission, verify the information, format it into our standard guide style, and add it to the destination list!
-
----
-
-## ✏️ How to Improve Existing Guides
-
-### Fixing Errors
-- Found outdated seasonal info? Open a **Pull Request** with the correction
-- Typos, formatting issues, broken links — all welcome as PRs
-- Please include your source for any factual claims
-
-### Adding Tips
-- Have a specific trick for a destination listed in our guides? We want it!
-- Tell us: what works, what doesn't, and what surprised you
-- Mention the season/time of year your tip applies to
-
-### Checking Sources
-- Help us verify that our destinations are still bug-free
-- Are there new developments (pest control programs, climate changes, new insect species)?
-- Flag any concerns as GitHub Issues
-
----
-
-## 📋 Contribution Checklist
-
-Before submitting, make sure:
-
-- [ ] I have **verified** this destination personally OR cited credible research sources
-- [ ] I have included **both** best and worst seasons for insects
-- [ ] I noted any **rare bug exceptions** — no destination is 100% perfect
-- [ ] My info is **seasonally specific** (e.g., "June–August" not just "summer")
-- [ ] I didn't include **scary stories** — we're solution-oriented here 😅
-- [ ] The destination isn't already in the guides (check all guide files!)
-- [ ] My formatting follows the existing guide templates
-
----
-
-## 📝 Guide Format Template
-
-When contributing a destination, use this structure:
+### 📝 Destination Guide Template
 
 ```markdown
-### #[Number] 🇨🇳 [Country] — [Catchy Title]
-**Bug Index:** ⭐ [None / Very Low / Low]
+# 🌍 Destination Name — Bug-Free Travel Guide
 
-**Why it's bug-free:**
-- [Factor 1: e.g., "Extreme cold (-30°C) makes insect survival impossible"]
-- [Factor 2: e.g., "Island isolation 1,000+ km from mainland insect populations"]
+**Bug Rating:** ⭐⭐☆☆☆ (X out of 5 bugs — lower is better!)
 
-**Safest Season to Visit:**
-| Season | Months | Bug Risk | Notes |
-|--------|--------|----------|-------|
-| **Dry Season** | Jan – Apr | Very low | [Details] |
-| **Wet Season** | May – Dec | Low | [Details] |
+## Overview
+Brief description of why this destination is good for bug-phobic travelers.
 
-**Rare Bug Notes:**
-- [Any exceptions: specific areas, times of day, seasons]
+## 🌤️ Safest Seasons to Visit
 
-**Top Bug-Free Activities:**
-- [Activity 1]
-- [Activity 2]
+| Season | Months | Description |
+|--------|--------|-------------|
+| **🥇 Best** | **MM – MM** | Key details |
+| **🥈 Good** | **MM – MM** | Key details |
+| **🥉 Avoid** | **MM – MM** | Why (if applicable) |
 
-**💡 Travel Tip:**
-[A specific, practical tip from experience]
+## ✅ What Makes This Destination Bug-Light
+- Key factor 1
+- Key factor 2
+- Key factor 3
+
+## 🎯 Top Bug-Free Activities
+- Activity 1
+- Activity 2
+- Activity 3
+
+## ⚠️ Tips for Bug-Phobic Travelers
+- Tip 1
+- Tip 2
 ```
 
+### 🔍 What We Look For in a Destination
+
+- **Low or zero mosquito/insect populations** — backed by research
+- **Clear seasonal information** — when to go and when to avoid
+- **Practical tips** — real advice for people who dread bugs
+- **Accurate bug rating** — honest assessment (not every place is 100% bug-free!)
+
+### 📋 Review Process
+
+1. All PRs will be reviewed for accuracy and completeness
+2. Seasonal information should be current for the current year
+3. We prefer destinations with **multiple sources** confirming low bug presence
+4. Be honest — if a destination has bugs in certain areas/months, say so!
+
+### 🐛 Bug Reports
+
+If you find outdated or incorrect information in an existing guide, please open an Issue or submit a PR with the correction.
+
+### 💬 Questions?
+
+Open an Issue with the tag `question` — we're happy to help!
+
 ---
 
-## 🚦 Types of Contributions We Accept
-
-| Type | Examples | Difficulty |
-|---|---|---|
-| 🆕 New Destination | Complete guide for a new bug-free location | Medium |
-| ✏️ Seasonal Update | Correct/improve best/worst months | Easy |
-| 💡 Pro Tip | Practical advice for a specific destination | Easy |
-| 🔍 Source Verification | Confirm info is still current | Easy |
-| 📊 Table Update | Add new destination to summary tables | Easy |
-| 🌐 Translation | Translate guides into other languages | Medium |
-| 🐛 Bug Report | Found an error in our guides | Easy |
-| 💬 FAQ Answer | Answer a question in the FAQ | Easy |
-
----
-
-## 💬 Questions?
-
-Don't hesitate to open an issue labeled `question` — there are no silly questions when it comes to bug-free travel!
-
----
-
-*Let's build the world's most comprehensive bug-free travel resource — together! 🌍✈️*
+*Thank you for helping bug-phobic travelers explore the world safely! 🌍✨*
