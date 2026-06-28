@@ -1,12 +1,21 @@
-# 🌍 Bug-Free Travel Guides
+# 🐛❌ Bug-Free Travel Guides
 
-> *"No bugs, no worries — just adventures!"*
+> A community for bug-phobic travelers to share safe, insect-free travel destinations, seasonal guides, and tips — so you can explore the world without creepy-crawlies ruining your trips!
 
-A community for **bug-phobic travelers** to share safe, insect-free travel destinations, seasonal guides, and tips. Whether you're terrified of mosquitoes, creeped out by ants, or just want to enjoy your vacation without any six-legged surprises — you're in the right place.
+Are you terrified of bugs? Do mosquitoes, spiders, or ticks turn your dream vacation into a nightmare? You're not alone. This repo is built for bug-phobic travelers who want to explore the world without worrying about creepy-crawlies sneaking into their hotel room, their food, or their sleeping bag.
 
 ---
 
-## 📖 How to Use This Repo
+## 📖 What's Inside
+
+- 🌍 **Destination Guides** — Detailed breakdowns of the world's safest, bug-free travel spots
+- 📅 **Seasonal Advice** — The best (and worst) times to visit each destination
+- 💡 **Pro Tips** — Insider knowledge from bug-phobic travelers
+- 🚫 **No-Bug Red Flags** — Destinations and seasons to avoid due to high insect activity
+
+---
+
+## 📚 How to Use This Repo
 
 We have **multiple destination guides** at different levels of research depth. Start here:
 
@@ -16,6 +25,7 @@ We have **multiple destination guides** at different levels of research depth. S
 | 📗 **[Guide #2 → `DESTINATION_GUIDE_1_BUG_FREE_TRAVEL.md`](#)** | Community-curated guide with 19 destinations across all continents | Quick reference & budget tiers |
 | 📙 **[Guide #3 → `guides/research-backed-destination-guide-2025.md`](#)** | 18 destinations with deep-dive seasonal analysis from Explore.com, RustourismNews, Cheapism & more | Verified research + expanded destinations |
 | 📕 **[Guide #4 → `guides/destination-1-iceland-and-top-bug-free-destinations.md`](#)** | 6 destination profiles with seasonal tables & community tips template | Detailed templates you can replicate |
+| 📒 **[Guide #5 → `guides/research-verified-bug-free-destinations-seasonal-guide.md`](#)** | New research-verified guide with detailed seasonal tiers, decision tree & deep-dive destination profiles | **Latest verified research** with clear seasonal recommendations |
 
 ---
 
@@ -33,9 +43,9 @@ We have **multiple destination guides** at different levels of research depth. S
 | 🇨🇼 Curaçao | Jan–Apr | ⭐⭐ Very Low | ❌ Trade winds |
 | 🇦🇪 Dubai/UAE (winter) | Nov–Mar | ⭐⭐ Very Low | ❌ Seasonal |
 | 🇳🇿 New Zealand (North Is.) | Dec–Feb | ⭐⭐ Low | ❌ Sandflies in South |
-| 🇭🇮 Hawaii (Kona coast) | Apr–Oct | ⭐⭐ Low | ❌ Elsewhere worse |
-| 🇦🇦 Aruba & Bonaire | Year-round | ⭐⭐ Very Low | ❌ Seasonal |
-| 🇬🇧 British Virgin Islands | Nov–Apr | ⭐⭐ Very Low | ❌ Seasonal |
+| 🇺🇸 Hawaii (Kona coast) | Apr–Oct | ⭐⭐ Low | ❌ Elsewhere worse |
+| 🇦🇼 Aruba & Bonaire | Year-round | ⭐⭐ Very Low | ❌ Seasonal |
+| 🇧🇸 British Virgin Islands | Nov–Apr | ⭐⭐ Very Low | ❌ Seasonal |
 | 🇰🇾 Cayman Islands | Nov–Apr | ⭐⭐ Very Low | ❌ Seasonal |
 | 🇧🇸 Bahamas (Outer Cays) | Nov–Apr | ⭐⭐ Very Low | ❌ Seasonal |
 | 🇸🇬 Singapore (Urban core) | Feb–Apr | ⭐⭐ Low | ❌ Dengue risk |
@@ -57,7 +67,7 @@ We have **multiple destination guides** at different levels of research depth. S
 
 ---
 
-## 🗓️ Quick Seasonal Safety Reference
+## 📊 Quick Seasonal Safety Reference
 
 | Region | Safest Months | Why It Works | Seasons to Avoid |
 |--------|---------------|--------------|------------------|
@@ -109,7 +119,7 @@ We welcome all contributions! Here's how you can help grow this community:
 | # | Issue | Labels |
 |---|-------|--------|
 | **#2** | [📢 Share Your Bug-Free Travel Story](https://github.com/zhub9006/bug-free-travel-guides/issues/2) | `community`, `stories` |
-| **#3** | [🗺️ Suggest a New Destination](https://github.com/zhub9006/bug-free-travel-guides/issues/3) | `contribute`, `new-destination` |
+| **#3** | [📺 Suggest a New Destination](https://github.com/zhub9006/bug-free-travel-guides/issues/3) | `contribute`, `new-destination` |
 | **#4** | [🔧 Help Improve Existing Guides](https://github.com/zhub9006/bug-free-travel-guides/issues/4) | `improvement`, `maintenance` |
 
 ---
@@ -135,8 +145,8 @@ We welcome all contributions! Here's how you can help grow this community:
 
 Community-maintained. Content sourced from Explore.com, RustourismNews.com, Cheapism.com, MosquitoJoe.com, GOV.UK Travel Health Pro, CDC Travelers' Health, Numbeo, MosquitoIndex.com, and community reports.
 
-**Last Research Update:** January 2025 — *Please verify with latest advisories before travel*
+**Last Research Update:** June 2025 — *Please verify with latest advisories before travel*
 
 ---
 
-*Made with ❤️ for bug-free adventures everywhere! 🌍✈️🪲❌*
+*Made with ❤️ for bug-free adventures everywhere! 🌍✈️🐛❌*
