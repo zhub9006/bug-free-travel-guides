@@ -20,28 +20,29 @@
 | ❓ `FAQ.md` | Common questions about bug-phobic travel |
 | 📝 `CONTRIBUTING.md` | How to add your own destination guide |
 | 📄 `SUBMISSION_TEMPLATE.md` | Template for submitting a new destination |
-| 📚 `RESEARCH_SOURCES.md` | Verified sources we trust |
-| 🧳 `TRAVEL_TIPS.md` | Universal bug-avoidance tips |
+| 📊 `RESEARCH_SOURCES.md` | Verified sources we trust |
+| 🧣 `TRAVEL_TIPS.md` | Universal bug-avoidance tips |
 
 ---
 
-## 🏝️ Current Destinations (13 Total)
+## 🏝️ Current Destinations (14 Total)
 
 | # | Destination | Safest Season | Bug Level |
 |---|-------------|---------------|-----------|
 | 1 | 🇮🇸 Iceland | Jun – Aug | ⭐ Nearly Zero* |
 | 2 | 🏔️ Patagonia | Dec – Feb | ⭐ Very Low |
 | 3 | 🏜️ Atacama Desert, Chile | Mar – Nov | ⭐ Near Zero |
-| 4 | 🦋 New Zealand | Nov – Apr | ⭐ Very Low |
+| 4 | 🧭 New Zealand | Nov – Apr | ⭐ Very Low |
 | 5 | ❄️ Antarctica | Nov – Mar | ⭐ Zero |
 | 6 | 🌊 Scotland | Sep – Oct | ⭐ Very Low |
-| 7 | 🏛️ Jordan (Desert) | Mar–May, Oct–Nov | ⭐ Very Low |
+| 7 | 🏜️ Jordan (Desert) | Mar–May, Oct–Nov | ⭐ Very Low |
 | 8 | ❄️ Svalbard, Norway | Jun – Aug | ⭐ Zero |
-| 9 | 🌋 Mongolia (Ulaanbaatar) | Sep–Oct, Jun–Aug | ⭐ Very Low |
+| 9 | 🏜️ Mongolia (Ulaanbaatar) | Sep–Oct, Jun–Aug | ⭐ Very Low |
 | 10 | 🏝️ The Maldives | Nov – Apr | ⭐⭐ Very Low |
-| 11 | 🌋 Montserrat | Jan – Apr | ⭐⭐ Very Low |
-| 12 | 🏖️ Curaçao | Jan – Jun | ⭐⭐ Very Low |
+| 11 | 🏝️ Montserrat | Jan – Apr | ⭐⭐ Very Low |
+| 12 | 🏝️ Curaçao | Jan – Jun | ⭐⭐ Very Low |
 | 13 | 🌺 Hawaii | Apr–May, Sep–Oct | ⭐⭐ Low |
+| **14** | **🌊 Faroe Islands** | **May – Oct** | **⭐ Zero** |
 
 *\*Iceland: 3 wild mosquitoes found Oct 2025 — still very rare*
 
@@ -64,4 +65,4 @@
 
 ---
 
-*Happy bug-free travels! 🌎✈️ No creepy-crawlies allowed! 🦗🚫*
+*Happy bug-free travels! ✈️ No creepy-crawlies allowed! 🕷️🚫*
