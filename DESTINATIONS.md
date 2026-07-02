@@ -40,7 +40,7 @@ As of October 2025, scientists have confirmed **3 wild mosquitoes** found in Ice
 
 ---
 
-## 🦋 4. New Zealand
+## 🧭 4. New Zealand
 
 **Why it's bug-free:** **No snakes, no fleas, no ticks**, and very few biting insects. Only the sandfly in Fiordland is notable — and it's manageable.
 
@@ -70,7 +70,7 @@ As of October 2025, scientists have confirmed **3 wild mosquitoes** found in Ice
 
 ---
 
-## 🏛️ 7. Jordan (Desert Regions)
+## 🏜️ 7. Jordan (Desert Regions)
 
 **Why it's bug-free:** Arid conditions in **Wadi Rum** and **Dana Biosphere Reserve** keep insect populations extremely low. Petra and the Dead Sea region are very manageable.
 
@@ -90,7 +90,7 @@ As of October 2025, scientists have confirmed **3 wild mosquitoes** found in Ice
 
 ---
 
-## 🌋 9. Ulaanbaatar & Western Mongolia
+## 🏜️ 9. Ulaanbaatar & Western Mongolia
 
 **Bug Index:** ⭐⭐⭐☆☆ (3 out of 5 — Very Low)
 
@@ -114,7 +114,7 @@ As of October 2025, scientists have confirmed **3 wild mosquitoes** found in Ice
 
 ---
 
-## 🌋 11. Montserrat — The Volcanic Bug-Free Gem
+## 🏝️ 11. Montserrat — The Volcanic Bug-Free Gem
 
 **Bug Index:** ⭐⭐⭐☆☆ (3 out of 5 — Very Low)
 
@@ -126,7 +126,7 @@ As of October 2025, scientists have confirmed **3 wild mosquitoes** found in Ice
 
 ---
 
-## 🏖️ 12. Curaçao — Where Mosquitoes Are Rare
+## 🏝️ 12. Curaçao — Where Mosquitoes Are Rare
 
 **Bug Index:** ⭐⭐☆☆☆ (2 out of 5 — Very Low)
 
@@ -150,6 +150,18 @@ As of October 2025, scientists have confirmed **3 wild mosquitoes** found in Ice
 
 ---
 
+## 🌊 14. Faroe Islands — Invisible Bug Haven
+
+**Bug Index:** ⭐ (Zero — No native mosquito species)
+
+**Why it's bug-free:** The Faroe Islands' extreme Atlantic gales (30–60 km/h sustained winds) physically prevent flying insects from establishing populations. No standing warm water, cold maritime climate, and volcanic/rocky terrain with instant drainage make it impossible for mosquitoes, fleas, or ticks to survive. The only "bugs" encountered are rare sheep ticks in coastal grassland — easily prevented.
+
+**Safest Season:** **May – October** (full accessibility). **Peak: June – August** (midnight sun, all ferries/tours running). **Shoulder: May & Sep–Oct** (fewer tourists, dramatic weather). **Winter: Nov–Apr** (Northern Lights, limited access).
+
+**Pro Tips:** Skip bug spray entirely — there's nothing to repel! Embrace the wind that does the bug-killing work for you. Book traditional *hjallur* (outdoor wooden cabins) for bug-free sanctuaries. Hike mountain ridges where wind speeds make even the hardiest midges impossible to survive.
+
+---
+
 ## 📋 Quick Reference Table
 
 | # | Destination | Safest Season | Bugs? | Repellent Needed? |
@@ -167,12 +179,13 @@ As of October 2025, scientists have confirmed **3 wild mosquitoes** found in Ice
 | 11 | Montserrat | Jan – Apr | Very low | ❌ No |
 | 12 | Curaçao | Jan – Jun | Very low | ❌ No |
 | 13 | Hawaii | Apr–May, Sep–Oct | Low | ⚠️ Optional (light) |
+| **14** | **Faroe Islands** | **May – Oct** | **None** | **❌ No** |
 
-*\*Iceland: 3 wild mosquitoes confirmed Oct 2025 — still extremely rare.*
+*Iceland: 3 wild mosquitoes confirmed Oct 2025 — still extremely rare.*
 
 ---
 
-## 🌎 New: Monthly Bug Risk Heatmap
+## 🌐 Monthly Bug Risk Heatmap
 
 | / | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -180,23 +193,25 @@ As of October 2025, scientists have confirmed **3 wild mosquitoes** found in Ice
 | **Iceland** | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Virt-none | ✅ Virt-none | ✅ Virt-none | ✅ Virt-none | ✅ Zero | ✅ Zero | ✅ Zero |
 | **Atacama Desert** | ✅ None | ✅ None | ✅ None | ✅ None | ✅ None | ✅ None | ✅ None | ⚠️ Monsoon | ⚠️ Monsoon | ✅ None | ✅ None | ✅ None |
 | **Patagonia** | ⚠️ Zero | ⚠️ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ⚠️ Low | ⚠️ Low | ✅ Zero | ✅ Zero | ✅ Zero | ⚠️ Zero |
-| **New Zealand (cities)** | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ Low | ⚠️ Low | ⚠️ Low | ⚠️ Low | ✅ Low | ✅ V.Low | ✅ V.Low | ✅ V.Low |
+| **New Zealand (cities)** | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ Low | ⚠️ Low | ⚠️ Low | ⚠️ Low | ⚠️ Low | ✅ Low | ✅ V.Low | ✅ V.Low | ✅ V.Low |
 | **Maldives** | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ V.Low | ⚠️ Low | ⚠️ Mod | ⚠️ High | ⚠️ High | ⚠️ Mod | ⚠️ Low | ⚠️ Low | ✅ V.Low |
-| **Curaçao** | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ V.Low | ⚠️ Moderate | ⚠️ High | ⚠️ High | ⚠️ High | ⚠️ Moderate | ✅ V.Low | ✅ V.Low |
-| **Hawaii (leeward)** | ✅ Low | ✅ Low | ✅ Low | ✅ Very Low | ✅ Very Low | ⚠️ Moderate | ⚠️ High | ⚠️ High | ✅ Very Low | ✅ Very Low | ✅ Low | ⚠️ Moderate |
-| **Jordan (desert)** | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ V.Low | ⚠️ Low | 🔥 Extreme | 🔥 Extreme | 🔥 Extreme | ⚠️ Low | ✅ V.Low | ✅ V.Low | ✅ V.Low |
+| **Curaçao** | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ V.Low | ⚠️ Moderate | ⚠️ High | ⚠️ High | ⚠️ High | ⚠️ Moderate | ⚠️ Moderate | ✅ V.Low | ✅ V.Low |
+| **Hawaii** | ✅ Low | ✅ Low | ✅ Low | ✅ V.Low | ✅ V.Low | ⚠️ Mod | ⚠️ High | ⚠️ High | ✅ V.Low | ✅ V.Low | ✅ Low | ⚠️ Mod |
 | **Svalbard** | ❌ None | ❌ None | ❌ None | ❌ None | ❌ None | ✅ Zero | ✅ Zero | ✅ Zero | ❌ None | ❌ None | ❌ None | ❌ None |
-| **Mongolia (steppe)** | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ⚠️ Low | ⚠️ Very Low | ⚠️ Very Low | ⚠️ Low | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero |
+| **Faroe Islands** | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero |
+| **Jordan (desert)** | ✅ V.Low | ✅ V.Low | ✅ V.Low | ✅ V.Low | ⚠️ Low | 🔴 Extreme | 🔴 Extreme | 🔴 Extreme | ⚠️ Low | ✅ V.Low | ✅ V.Low | ✅ V.Low |
+| **Mongolia (steppe)** | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero | ⚠️ Low | ⚠️ VL | ⚠️ VL | ⚠️ Low | ✅ Zero | ✅ Zero | ✅ Zero | ✅ Zero |
 
-**Legend:** ✅ = Minimal/No bugs | ⚠️ = Some bugs possible | 🔥 = High bug activity | V.Low = Very Low | Mod = Moderate
+**Legend:** ✅ = Minimal/No bugs | ⚠️ = Some bugs possible | 🔴 = High bug activity | V.Low = Very Low | Mod = Moderate | None = Zero bugs ever possible
 
 ---
 
-## 💡 How to Read This Guide
+## 📖 How to Read This Guide
 
 - ⭐ = Zero to almost no bugs — your safest bets
 - ⭐⭐ = Very low bugs — manageable with basic awareness
 - ⭐⭐⭐ = Low bugs — occasional encounters, but easy to avoid with seasonal timing
+- ❌ Zero = No insects can survive under any conditions (Arctic/Antarctic)
 - Always read the "Rare Bug Notes" section in each destination guide (see `guides/` folder!)
 
 ---
@@ -207,4 +222,4 @@ Fork this repo, create a branch, add your destination guide, and open a PR! See 
 
 ---
 
-*Happy bug-free travels! 🌎✈️ No creepy-crawlies allowed!*
+*Happy bug-free travels! ✈️ No creepy-crawlies allowed!*
