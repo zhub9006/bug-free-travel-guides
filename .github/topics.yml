@@ -1,0 +1,21 @@
+name: bug-free-travel
+description: A community-driven travel guide for bug-phobic travelers — find the safest, bug-free destinations and seasonal travel tips worldwide.
+homepage: https://github.com/zhub9006/bug-free-travel-guides
+license: mit
+topics:
+  - travel
+  - bugs
+  - mosquitoes
+  - entomophobia
+  - travel-guides
+  - destination-guides
+  - insect-free
+  - traveler-tips
+  - seasonal-travel
+  - bug-free
+
+cover:
+use(open-graph): true
+
+---
+empty-README: true
