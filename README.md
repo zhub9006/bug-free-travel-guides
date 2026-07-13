@@ -1,3 +1,19 @@
+name: "bug-free-travel-guides"
+description: "Community-driven travel guide for bug-phobic travelers — find the safest, bug-free destinations and seasonal travel tips worldwide."
+topics:
+  - travel
+  - bugs
+  - mosquitoes
+  - entomophobia
+  - travel-guides
+  - destination-guides
+  - insect-free
+  - traveler-tips
+  - seasonal-travel
+  - bug-free
+
+---
+
 # 🐛 Bug-Free Travel Guides
 
 > **A community for bug-phobic travelers: safe, insect-free travel destinations, seasonal guides, and tips so creepy-crawlies never ruin a vacation.**
