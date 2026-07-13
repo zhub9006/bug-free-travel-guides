@@ -1,6 +1,6 @@
 # 📖 First Destination Research Guide — Bug-Free Travel
 
-Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2026.
+Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2026. Updated July 2026 with New Caledonia.
 
 > ⚠️ **CRITICAL RESEARCH UPDATE — February 2026**: ICELAND IS NO LONGER 100% MOSQUITO-FREE! In Oct 2025, Icelandic Institute of Natural History confirmed first-ever wild mosquitoes (*Culiseta annulata*) in Kjós valley N of Reykjavík (2 female + 1 male). Breeding population unconfirmed but threshold breached.
 > **Antarctica is now the ONLY landmass with a full mosquito-free guarantee.**
@@ -18,10 +18,11 @@ Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2
 6. 🏜️ Atacama Desert, Chile
 7. 🏔️ Patagonia Winter (AR/CL)
 8. 🌴 French Polynesia (Society Islands)
-9. 🏜️ UAE/Oman Desert
-10. 📊 Seasonal Safety Matrix
-11. 🔬 Verification Protocol
-12. 💡 Quick Cheat Sheet
+9. 🏝️ New Caledonia *(NEW)*
+10. 🏜️ UAE/Oman Desert
+11. 📊 Seasonal Safety Matrix
+12. 🔬 Verification Protocol
+13. 💡 Quick Cheat Sheet
 
 ---
 
@@ -141,8 +142,8 @@ Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2
 
 | Attribute | Detail |
 |---|---|
-| **Status** | ⚠️ Low but not zero — significantly fewer mosquitoes than similar tropical climates |  
-| **Why** | Island isolation helps control populations; luxury resorts (e.g. The Brando) employ aggressive pest management |  
+| **Status** | ⚠️ Low but not zero — significantly fewer mosquitoes than similar tropical climates |
+| **Why** | Island isolation helps control populations; luxury resorts (e.g. The Brando) employ aggressive pest management |
 | **Caution** | Bora Bora and low-lying atolls have more mosquitoes during wet season; Society Islands generally better |
 | **Best season** | **May – October** (dry season) — fewer mosquitoes, lower dengue risk |
 | **Avoid** | November – April (wet season = peak mosquito activity; dengue risk increases) |
@@ -153,7 +154,29 @@ Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2
 
 ---
 
-## 9. 🏜️ UAE/Oman Desert — Arid Fortress
+## 9. 🏝️ New Caledonia — Bug-Free Volcanic Island Paradise *(NEW)*
+
+| Attribute | Detail |
+|---|---|
+| **Status** | ✅ Significantly fewer mosquitoes than any comparable tropical destination. Not 100% guaranteed but effectively negligible on Grand Terre in dry season |
+| **Why (triple barrier)** | (1) Extreme island isolation ~1,200 km east of Australia prevents colonization; (2) Volcanic soil leaches sulfur/minerals into water → kill larvae; (3) Endemic native plants evolved natural insect-repellent oils/saps that incidentally suppress mosquito populations |
+| **Insects** | Mosquitoes: minimal to none on Grand Terre dry season. Sandflies: rare. Ticks: none. Spiders: harmless only. |
+| **Disease risk** | No malaria. Dengue very rare and localized. No chikungunya on main islands. |
+| **Best season** | **May – October** (dry season / *hivernage*) — southeast trade winds keep air moving; 20–28°C; minimal rain; peak insect-free period |
+| **Moderate** | April / November (shoulder seasons — acceptable) |
+| **Avoid** | **December – March** (wet season / *été austral*) — higher humidity, more standing water, brief tropical downpours, mosquito activity rises on outer islands |
+| **Weather** | Tropical oceanic; distinct wet/dry; warm year-round |
+| **Budget** | $$ – $$$$ (more affordable than Tahiti; luxury resorts $$$$) |
+| **Travel style** | Beach, snorkeling, diving, hiking, French cuisine, luxury + quaint small guesthouses |
+| **Bug score (0–10)** | **1.5** (near-bug-free on Grand Terre dry season) |
+| **Visa** | Visa-free for EU, US, Canada, Australia; 90-day stays |
+| **Sources** | Rustourism News (2025); Eco-Savvy Blog (2025); World Population Review (2026); Explore.com; Travel & Leisure; unique endemic botany research |
+
+> 📝 **Verdict: One of the world's most unique mosquito-free (or near) tropical paradises. The triple ecologic barrier — volcanic soil, endemic plant repellents, geographic isolation — makes it superior to French Polynesia for bug-phobic travelers. Grand Terre west coast, Isle of Pines (dry season), and Loyalty Islands (Jun–Sep) are the tip-top spots. Pack DEET for wet season or outer islands.**
+
+---
+
+## 10. 🏜️ UAE/Oman Desert — Arid Fortress
 
 | Attribute | Detail |
 |---|---|
@@ -179,6 +202,7 @@ Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2
 | Faroe Islands | May–Sep ⭐ | — | Oct–Apr |
 | Hokkaido | Dec–Mar ⭐ | Apr–May | Jun+ |
 | Atacama | Mar–May, Sep–Nov ⭐ | Dec–Feb (oasis bugs) | — |
+| **New Caledonia** | **May–Oct ⭐** | Apr (OK) / Nov (transition) | **Dec–Mar ⚠️** |
 | Patagonia | Jun–Aug ⭐ ONLY | Sep (cold, improving) | Nov–Mar ⚠️⚠️⚠️ |
 | French Polynesia | May–Oct ⭐ | — | Nov–Apr |
 | UAE/Oman Desert | Oct–Apr ⭐ | — | May–Sep |
@@ -207,19 +231,36 @@ Every destination guide in this repository follows strict verification standards
 | Feb | Amazon, SE Asia tropics | Madeira, Atacama | Hokkaido / Patagonia winter / Antarctica |
 | Mar | Amazon warming | Atacama, Madeira | Atacama driest / Antarctica season start / Faroe |
 | Apr | Florida ALL-bug surge; SE Asia warming | Northern Rockies, Atacama | Madeira OPTIMAL / Atacama peak |
-| May | Europe forest ticks, FL mosquitoes | Faroe, Madeira | Faroe / Madeira OPTIMAL / Hokkaido |
-| Jun | Amazon, SE Asia, US NE mosquito peak | Patagonia shoulder, Iceland | Iceland mid-summer, Atacama PRIME, Madeira, Faroe |
-| Jul | EU forests (ticks), US NE; Patagonia HELL | Canaries, Madeira, Costa Rica highlands | Atacama PRIME, Madeira, Costa Rica highlands, Hokkaido |
-| Aug | SE Asia dengue, tropics peak | Iceland, Atacama | Antarctica end, Atacama, Madeira early autumn |
-| Sep | All tropics peak, FL, Patagonia PRIME START | Faroe (pre-wind shift) | Patagonia PRIME, Atacama PRIME, Antarctica closing |
-| Oct | Amazon, tropics peak, chilly Europe nights | Patagonia PRIME (peak!) | Patagonia PRIME, Atacama PRIME, Madeira autumn |
-| Nov | Amazon, tropics humid; subtropical runoff | Madeira PERFECT, Atacama | Madeira OPTIMAL, Patagonia deep winter, Antarctica trips ending |
-| Dec | Tropics residual, India monsoon | Madeira, Atacama | Patagonia DEEP WINTER, Madeira OPTIMAL, Hokkaido |
-
-> ✅ = Green light (book confidently) | ⚠️ = Pack DEET always | ❌ = Red (avoid if bug-phobic)
+| May | Europe forest ticks, FL mosquitoes | Faroe, Madeira | **New Caledonia (start)** / Faroe / Madeira OPTIMAL |
+| Jun | Amazon, SE Asia, US NE peak | Patagonia shoulder, Iceland | **Iceland ⚠️** / **Atacama PRIME** / **New Caledonia** / Madeira |
+| Jul | EU broadleaf forests (ticks), Patagonia HELL | Canaries, Madeira | **New Caledonia** / **Atacama PRIME** / Madeira / Hokkaido |
+| Aug | SE Asia dengue, tropics peak | Iceland, Atacama | Antarctica ending / **New Caledonia** / Atacama / Madeira |
+| Sep | All tropics peak; FL; Patagonia START | Faroe | **New Caledonia** / **Patagonia PRIME** / Atacama |
+| Oct | Amazon, tropics cooling; Europe nights | Patagonia PRIME | **New Caledonia (last month)** / **Patagonia** / Atacama |
+| Nov | Tropics humid; subtropical runoff | Madeira perfection | **Madeira OPTIMAL** / **Patagonia DEEP WINTER** 🏔️ |
+| Dec | Tropics residual; Seychelles rain | Madeira winter | **Patagonia DEEP WINTER** 🏔️ / **Madeira OPTIMAL** / Hokkaido |
 
 ---
 
-> 🪰➡️❌ **Bug-free travels start here!**
+## 📊 Destination Best Window Cheat Sheet (Quick Reference)
 
-*All data verified as of January 2026. Always re-verify within 12 months of booking. Climate change is shifting insect territories — help us keep this guide current by submitting updates via PR!*
+| Destination | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Antarctica | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Madeira | ⚠️ | ⚠️ | ✅ | ✅ | ✅ | ⚠️ | ❌ | ⚠️ | ⚠️ | ✅ | ✅ | ✅ |
+| Iceland ⚠️ | ❌ | ❌ | ❌ | ⚠️ | ⚠️ | ✅ | ✅ | ⚠️ | ❌ | ❌ | ❌ | ❌ |
+| Faroe | ❌ | ❌ | ❌ | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ❌ | ❌ |
+| Hokkaido | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ❌ | ⚠️ | ❌ | ❌ | ❌ | ✅ |
+| Atacama | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **New Caledonia** | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️ |
+| Patagonia | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| French Polynesia | ❌ | ❌ | ❌ | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+| UAE/Oman Desert | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+
+> ✅ = Green light (book confidently) | ⚠️ = Yellow caution / pack DEET always | ❌ = Red (avoid if bug-phobic)
+
+---
+
+> 🐛➡️❌ **Bug-free travels start here!**
+>
+> *Research covers 10 destinations. See guides/3-new-caledonia-research.md for the full New Caledonia deep-dive with bug-assessment matrix, sources, and seasonal detail. Updated July 2026.*
