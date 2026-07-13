@@ -14,7 +14,7 @@ topics:
 
 ---
 
-# 🐛 Bug-Free Travel Guides
+# 🪲 Bug-Free Travel Guides
 
 > **A community for bug-phobic travelers: safe, insect-free travel destinations, seasonal guides, and tips so creepy-crawlies never ruin a vacation.**
 
@@ -23,11 +23,12 @@ topics:
 ## 🚀 Quick Start
 
 1. **New here?** → Read our [Community Welcome Guide](guides/00-welcome.md)
-2. **Planning a trip?** → Browse our [First Destination Research Guide](guides/1-first-destination-research.md) (9 deep-dive destinations)
+2. **Planning a trip?** → Browse our [First Destination Research Guide](guides/1-first-destination-research.md) (10 deep-dive destinations)
 3. **More destinations?** → Check the [Additional Destination Research Guide](guides/2-additional-destination-research.md) (Maldives, Hawaii, Atacama expansion)
-4. **When to go?** → Check the [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md)
-5. **Want to contribute?** → Use the [Submission Template](guides/submission-template.md) and open a PR!
-6. **Critical updates?** → Read our [Research Updates & Corrections](guides/research-updates.md)
+4. **Deep dive on New Caledonia?** → See the [New Caledonia Research Guide](guides/3-new-caledonia-research.md) — volcanic isolation paradise with near-zero bugs
+5. **When to go?** → Check the [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md)
+6. **Want to contribute?** → Use the [Submission Template](guides/submission-template.md) and open a PR!
+7. **Critical updates?** → Read our [Research Updates & Corrections](guides/research-updates.md)
 
 ---
 
@@ -135,7 +136,7 @@ Quick cheat sheet: **May–October** is your best bug-free window for most warm 
 
 ## 🚨 Key Research Findings
 
-- 🛑 **Seychelles has mosquitoes** (despite being malaria-free). Best traveled May–October with DEET as insurance. See [Research Updates](guides/research-updates.md).
+- 🔴 **Seychelles has mosquitoes** (despite being malaria-free). Best traveled May–October with DEET as insurance. See [Research Updates](guides/research-updates.md).
 - 🦟 **Iceland is no longer 100% mosquito-free**: *Culiseta annulata* discovered Oct 2025 in Kjós valley. Breeding unconfirmed but threshold breached. Verify before booking.
 - ✅ **New Caledonia** is genuinely near-bug-free due to triple barriers: geographic isolation, volcanic soil, and endemic plant repellents. New dedicated guide → guides/3-new-caledonia-research.md.
 - 📉 All bug-free claims have a **12-month expiry** — climate change is shifting insect ranges. See Iceland's 2025 discovery as a warning.
@@ -147,7 +148,7 @@ Quick cheat sheet: **May–October** is your best bug-free window for most warm 
 | Guide | Description |
 |---|---|
 | 🏠 [Community Welcome](guides/00-welcome.md) | Intro, FAQ, packing checklist, getting started |
-| 📖 [First Destination Research Guide](guides/1-first-destination-research.md) | 9 deep-dive destinations with verified sources |
+| 📖 [First Destination Research Guide](guides/1-first-destination-research.md) | 10 deep-dive destinations with verified sources |
 | 🌍 [Additional Destination Research Guide](guides/2-additional-destination-research.md) | Maldives, Hawaii, and Atacama expansion with seasonal data |
 | 🏝️ [New Caledonia Research](guides/3-new-caledonia-research.md) | Deep dive: volcanic soils, endemic plant repellents, geo-isolation |
 | 📅 [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md) | Month-by-month planner with worst-to-best rankings |
@@ -158,7 +159,7 @@ Quick cheat sheet: **May–October** is your best bug-free window for most warm 
 
 ---
 
-## 🐛 What Bug Categories We Cover
+## 🪲 What Bug Categories We Cover
 
 - Mosquitoes
 - Sandflies / No-See-Ums
@@ -180,7 +181,7 @@ Quick cheat sheet: **May–October** is your best bug-free window for most warm 
 
 ---
 
-> 🐛➡️❌ **Bug-free travels start here!**
+> 🪲➡️❌ **Bug-free travels start here!**
 >
 > *Built for every traveler who has ever swatted away a mosquito mid-vacation. Help us grow — submit your own destination and earn the trust of the bug-phobic community.* ✨
 >
