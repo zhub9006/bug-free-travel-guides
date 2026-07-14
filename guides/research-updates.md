@@ -1,4 +1,4 @@
-# 🔬 Critical Research Updates & Corrections
+# 🔮 Critical Research Updates & Corrections
 
 > **Published: January 2026** — Ongoing corrections and nuanced findings from updated research.
 > **Last updated: July 2026**
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚨 Iceland — Mosquito Discovery (Oct 2025)
+## 🧟 Iceland — Mosquito Discovery (Oct 2025)
 
 **UPDATE:** Iceland is **no longer 100% mosquito-free**.
 
@@ -63,13 +63,82 @@ New Caledonia deserves far more than a single-line mention. Key ecological facto
 
 ---
 
+## 🌋 Montserrat — New Caribbean Mosquito-Free Discovery *(NEW — July 2026)*
+
+**UPDATE:** Research reveals Montserrat is one of the very few Caribbean islands with practically zero mosquitoes.
+
+| Fact | Detail |
+|---|---|
+| **Mosquito status** | ❌ Practically none — lowest in the entire Caribbean |
+| **Why** | Volcanic ash soil drains water instantly; tiny island (~16 km) means no large water bodies; mountain terrain keeps coastal areas breezy |
+| **Bug score** | **0.5/10** — closest to zero-bug in the Caribbean |
+| **Best travel window** | December – April (dry season) |
+| **Wet season note** | Even July–November, mosquito levels are far lower than the rest of the Caribbean |
+| **Key advantage** | Affordable, off-the-beaten-path, volcano adventure, no hurricane belt core |
+| **Caution** | Hurricane risk Jul–Nov; volcanic activity still ongoing (Soufrière Hills) — respect exclusion zones |
+
+> **See also:** `guides/5-bug-free-island-destinations.md` for full Montserrat deep dive with bug matrix and seasonal data.
+
+**Source:** Citizen Daily Post (2026); CDC Travelers' Health; US State Dept; Visit Montserrat Tourism Authority; BestTimesToVisit.com (2026)
+
+---
+
+## 🌴 Curaçao — Lowest Mosquito Density Major Caribbean Island *(NEW — July 2026)*
+
+**UPDATE:** Curaçao offers the lowest mosquito density of any major Caribbean island — far lower than Jamaica, Dominican Republic, Barbados, or Puerto Rico.
+
+| Fact | Detail |
+|---|---|
+| **Mosquito status** | ⚠️ Low — arid interior + trade winds + outside hurricane belt = naturally bug-lean |
+| **Bug score** | **2.0/10** — significantly lower than typical Caribbean destinations |
+| **Best travel window** | December – April (dry season) |
+| **Wet season note** | July–September sees highest mosquito activity; Dec–Apr is gold standard |
+| **Key advantage** | Direct flights from US/Europe; diverse landscapes; outside hurricane belt; 300+ sunny days/year |
+| **Caution** | Some mosquitoes near coastal lagoons in wet season; standard cockroach presence in urban areas |
+
+> **See also:** `guides/5-bug-free-island-destinations.md` for full Curaçao deep dive with bug matrix and seasonal data.
+
+**Source:** Rustourism News (2025); MosquitoSquad (2023); TravellersWorldWide.com; Majestic Curacao (2026); Bonbini Seaside Resort (2026)
+
+---
+
+## 🏝️ Caribbean Bug-Free Destination Pairing
+
+**NEW:** Montserrat and Curaçao are now available as a paired "Caribbean bug-free" travel option:
+
+- **Montserrat** = ultra-low bug score (0.5), off-beat, volcano adventure, affordable
+- **Curaçao** = low bug score (2.0), diverse, direct flights, cultural capital, outside hurricane belt
+- **Both** = best Dec–Apr; both remain far safer than any other Caribbean island year-round
+- **Combined trip** = Fly into Antigua → short flight to Montserrat → flight to Curaçao → back to US/Europe
+
+---
+
 ## 📋 Quick Corrections Applied
 
 | Destination | Correction | Applied In |
 |---|---|---|
-| Seychelles | Not truly bug-free; has mosquitoes especially in wet season | `README.md` (pending), `guides/00-welcome.md` (FAQ) |
-| Iceland | Oct 2025 definitive mosquito discovery; no longer 100% guaranteed | `guides/1-first-destination-research.md` (already flagged ⚠️), enhance warning |
-| New Caledonia | Add volcanic soil + endemic plant compound detail | `guides/3-new-caledonia-research.md` (NEW), `README.md` (pending) |
-| Madeira | Confirm slight mosquito presence in irrigated gardens only | Already reflected in README ✅ |
+| Seychelles | Not truly bug-free; has mosquitoes especially in wet season | `README.md`, `guides/00-welcome.md`, `guides/research-updates.md` |
+| Iceland | Oct 2025 definitive mosquito discovery; no longer 100% guaranteed | `guides/1-first-destination-research.md` (already flagged ⚠️), `guides/research-updates.md` |
+| New Caledonia | Add volcanic soil + endemic plant compound detail | `guides/3-new-caledonia-research.md`, `README.md` |
+| Madeira | Confirm slight mosquito presence in irrigated gardens only | Already reflected ✅ |
 | Atacama | Deep interior 2,400–5,000m has truly near-zero insects | Already accurate ✅ |
 | Patagonia | WINTER ONLY = bug-free; SUMMER = one of the world's worst bug seasons | Already emphasized ✅ |
+| Montserrat | NEW: Practically zero mosquitoes in the Caribbean | `guides/5-bug-free-island-destinations.md`, `guides/4-community-research-guide.md`, `README.md` |
+| Curaçao | NEW: Lowest mosquito density major Caribbean island | `guides/5-bug-free-island-destinations.md`, `guides/4-community-research-guide.md`, `README.md` |
+
+---
+
+## 📌 Upcoming Research Priorities
+
+- [ ] Deep-dive on other Caribbean islands (Turks & Caicos, Bonaire) for comparison
+- [ ] Seasonal data for Southeast Asian bug-free windows
+- [ ] Climate change impact assessment: how are insect ranges shifting across all destinations?
+- [ ] Community field reports: real traveler experiences with bug encounters at each destination
+
+> **ⓘ Always re-verify conditions ≤12 months before traveling.**
+
+---
+
+> 🔮➡️🚫 **Research never stops — and neither should your bug-free adventures.**
+
+*Built for every traveler who has ever swatted away a mosquito mid-vacation.* 🌍✨
