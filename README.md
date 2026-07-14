@@ -14,7 +14,7 @@ topics:
 
 ---
 
-# 🦠 Bug-Free Travel Guides
+# 🧠 Bug-Free Travel Guides
 
 > **A community for bug-phobic travelers: safe, insect-free travel destinations, seasonal guides, and tips so creepy-crawlies never ruin a vacation.**
 
@@ -27,9 +27,10 @@ topics:
 3. **More destinations?** → Check the [Additional Destination Research Guide](guides/2-additional-destination-research.md) (Maldives, Hawaii, Atacama expansion)
 4. **Deep dive on New Caledonia?** → See the [New Caledonia Research Guide](guides/3-new-caledonia-research.md) — volcanic isolation paradise with near-zero bugs
 5. **Community-researched destinations?** → See the [Community Researched Destination Guide](guides/4-community-research-guide.md) — 10 destinations with full seasonal safety data ⭐ *NEW!*
-6. **When to go?** → Check the [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md)
-7. **Want to contribute?** → Use the [Submission Template](guides/submission-template.md) and open a PR!
-8. **Critical updates?** → Read our [Research Updates & Corrections](guides/research-updates.md)
+6. 🏝️ **Caribbean bug-free picks?** → Check the [Montserrat & Curaçao Guide](guides/5-bug-free-island-destinations.md) — two nearly mosquito-free Caribbean islands
+7. **When to go?** → Check the [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md)
+8. **Want to contribute?** → Use the [Submission Template](guides/submission-template.md) and open a PR!
+9. **Critical updates?** → Read our [Research Updates & Corrections](guides/research-updates.md)
 
 ---
 
@@ -38,17 +39,19 @@ topics:
 | Destination | Why Bug-Free | Best Season | Mosquitoes? |
 |---|---|---|---|
 | ❄️ **Antarctica** | Extreme cold — ONLY guaranteed mosquito-free landmass | Nov–Feb (summer) | **NONE — 100% guarantee** |
+| 🌋 **Montserrat** (UK) | Volcanic island — porous ash soil drains water, no standing pools, oceanic breezes | **Dec–Apr** (dry season) | **Practically none** — lowest in the Caribbean |
+| 🌴 **Curaçao** (Netherlands) | Hyper-arid interior, constant trade winds, outside hurricane belt | **Dec–Apr** (dry season) | **Very low** — much lower than typical Caribbean |
 | 🇵🇹 **Madeira** (Portugal) | Steep volcanic terrain; no standing water; oceanic breezes | **Dec–Mar** optimal (cool, dry) | **Virtually none** on main island |
 | 🇮🇸 **Iceland** ⚠️ | Oceanic climate; 3 freeze-thaw cycles/year | Jun–Aug *(double-check latest!)* | **Likely safe** (3 Culiseta annulata found Oct 2025 — breeding status unclear) |
 | 🇫🇴 **Faroe Islands** | Cool, windy, treeless North Atlantic; zero wetlands | May–Sep long days | **None documented** |
 | ✨ **Hokkaido, Japan** | Deep snow kills all insects | **Dec–Mar** winter/skating/onsens | **Low to none** |
 | 🏜️ **Atacama Desert** (Chile) | Driest place on Earth — zero standing water anywhere | Mar–May / Sep–Nov | **Minimal** in deep interior |
-| 🇫🇷 **New Caledonia** (France) | Extreme isolation + volcanic soil barriers + endemic plant natural repellents | **May–Oct** (dry season) | **Minimal–None** on Grand Terre |
+| 🇳🇨 **New Caledonia** (France) | Extreme isolation + volcanic soil barriers + endemic plant natural repellents | **May–Oct** (dry season) | **Minimal–None** on Grand Terre |
 | 🇲🇻 **Maldives** (Private Resorts) | Eco-friendly mosquito control on private islands; luxury air-con | Dec–Apr (dry season) | **Low** (resort-controlled) |
 | 🇺🇸 **Hawaii** (US State) | Acidic land, little standing water, strong ocean breezes | Apr–Oct (dry season) | **Low** (vs. other tropical destinations) |
 | 🇦🇷🇨🇱 **Patagonia Winter** (AR/CL) | Sub-zero temps kill insects; snow covers sandfly breeding | **Jun–Aug** (their winter!) | **Very low** |
-| 🇲🇫 **French Polynesia** (Soc. Is.) | Fewer mosquitoes than similar climates; luxury resorts with pest control | May–Oct (dry season) | **Low** (resort-controlled) |
-| 🏜️ **UAE/Oman Desert** | Hyper-arid; near-zero standing water; hot-dry kills insects | Oct–Apr (cooler months) | **Very low** |
+| 🇵🇫 **French Polynesia** (Soc. Is.) | Fewer mosquitoes than similar climates; luxury resorts with pest control | May–Oct (dry season) | **Low** (resort-controlled) |
+| 🇦🇪🇴🇲 **UAE/Oman Desert** | Hyper-arid; near-zero standing water; hot-dry kills insects | Oct–Apr (cooler months) | **Very low** |
 
 > ⚠️ **Important**: Seychelles has mosquitoes (especially Dec–Feb)! It is malaria-free but NOT mosquito-free. Best visit: May–October with DEET as insurance.
 
@@ -61,6 +64,24 @@ topics:
 - **Best season:** November – February (austral summer). Expedition cruises run from South America and New Zealand.
 - **Budget:** $$$$ (expedition cruises from $8,000+ USD for 10 days)
 - **Top experience:** Penguin colonies, massive icebergs, Northern Lights (winter)
+
+### 🌋 Montserrat — The Volcanic Mosquito-Free Caribbean Gem *(NEW!)*
+- **Practically zero mosquitoes** — one of the very few Caribbean islands where bugs are virtually non-existent. Volcanic ash soil drains standing water instantly, and mountain terrain prevents pooling.
+- **Bug score:** 0.5/10 (closest to zero-bug in the entire Caribbean)
+- **Best season:** December – April (dry season, low humidity, ~50mm rain/month, 27–29°C)
+- **Avoid:** July – November (wet season + hurricane risk; though mosquito levels remain low even in wet season)
+- **Budget:** $ – $$ (more affordable than most Caribbean destinations)
+- **Top experience:** Visit the abandoned capital Plymouth buried by volcanic ash, hike to the Soufrière Hills exclusion zone, snorkel Little Bay, explore Centre Hills forest trails
+- ⚠️ **Note:** Even in wet season, mosquito populations are far lower than the rest of the Caribbean. Pack DEET as basic insurance.
+
+### 🌴 Curaçao — The Dry Caribbean Island Where Mosquitoes Are Rare *(NEW!)*
+- **Very low mosquito density** — the arid interior, constant trade winds, and outside-hurricane-belt location make this one of the few Caribbean destinations where you can reliably avoid swarms.
+- **Bug score:** 2.0/10 (significantly lower than Jamaica, Dominican Republic, Barbados, or Puerto Rico)
+- **Best season:** December – April (dry season, sunny, 27–29°C, 300+ sunny days/year)
+- **Avoid:** July – September (wettest + hottest, mosquito activity peaks)
+- **Budget:** $$ – $$$ (moderate to upscale; more affordable than Aruba or St. Barts)
+- **Top experience:** Explore colorful Willemstad (UNESCO World Heritage), snorkel at Klein Curaçao, hike Christoffel National Park, beach-hop on Palm Beach and Eagle Beach
+- **Key advantage:** Direct flights from the US and Europe — no connecting flights needed!
 
 ### 🇵🇹 Madeira, Portugal — Best Warm Bug-Free Pick
 - Virtually pest-free on the main island. No venomous spiders. No snakes. No swarms.
@@ -89,7 +110,7 @@ topics:
 - **Best seasons:** March – May (autumn) / September – November (spring) — 20–25°C, world-class stargazing
 - **Budget:** $$ ($50–80 USD B&Bs)
 
-### 🇫🇷 New Caledonia — Volcanic Isolation Paradise *(NEW)*
+### 🇳🇨 New Caledonia — Volcanic Isolation Paradise *(NEW)*
 - Extreme island isolation (~1,200 km from Australia), volcanic soil leaches sulfur into water (killing larvae), and endemic plants produce natural insect-repellent oils. Significantly fewer mosquitoes than comparable tropical destinations.
 - **Best season:** May – October (dry season, southeast trade winds keep air moving, 20–28°C)
 - **Budget:** $$ – $$$$ (more affordable than Tahiti)
@@ -114,7 +135,7 @@ topics:
 - **AVOID:** November – March (sandflies swarm aggressively)
 - **Budget:** $$–$$$
 
-### 🇲🇫 French Polynesia — Tropical Comfort Zone
+### 🇵🇫 French Polynesia — Tropical Comfort Zone
 - Island isolation helps control populations; luxury resorts employ aggressive pest management.
 - **Best season:** May – October (dry season, fewer mosquitoes, lower dengue risk)
 - **Avoid:** November – April (wet season = peak mosquito activity; dengue risk increases)
@@ -133,14 +154,18 @@ See the complete month-by-month planner → [Seasonal Safety Calendar](guides/se
 
 Quick cheat sheet: **May–October** is your best bug-free window for most warm destinations; **December–March** favors cool-climate spots (Hokkaido, Madeira, Atacama); **June–August** is Antarctic season; **Patagonia ONLY in winter (Jun–Aug)**.
 
+For Caribbean travel, **December–April** is the bug-free sweet spot for both Montserrat and Curaçao.
+
 ---
 
 ## 🚨 Key Research Findings
 
 - 🔴 **Seychelles has mosquitoes** (despite being malaria-free). Best traveled May–October with DEET as insurance. See [Research Updates](guides/research-updates.md).
-- 🦟 **Iceland is no longer 100% mosquito-free**: *Culiseta annulata* discovered Oct 2025 in Kjós valley. Breeding unconfirmed but threshold breached. Verify before booking.
+- 🧟 **Iceland is no longer 100% mosquito-free**: *Culiseta annulata* discovered Oct 2025 in Kjós valley. Breeding unconfirmed but threshold breached. Verify before booking.
 - ✅ **New Caledonia** is genuinely near-bug-free due to triple barriers: geographic isolation, volcanic soil, and endemic plant repellents. New dedicated guide → guides/3-new-caledonia-research.md.
-- 📉 All bug-free claims have a **12-month expiry** — climate change is shifting insect ranges. See Iceland's 2025 discovery as a warning.
+- 🏝️ **Montserrat** is one of the few Caribbean islands with practically zero mosquitoes — volcanic soil and tiny island footprint make it a hidden gem for bug-phobic travelers.
+- 🌴 **Curaçao** offers the lowest mosquito density of any major Caribbean island — its arid interior and trade winds keep bugs minimal, especially Dec–Apr.
+- 📅 All bug-free claims have a **12-month expiry** — climate change is shifting insect ranges. See Iceland's 2025 discovery as a warning.
 
 ---
 
@@ -151,17 +176,18 @@ Quick cheat sheet: **May–October** is your best bug-free window for most warm 
 | 🌐 [Community Welcome](guides/00-welcome.md) | Intro, FAQ, packing checklist, getting started |
 | 📖 [First Destination Research Guide](guides/1-first-destination-research.md) | 10 deep-dive destinations with verified sources |
 | 🌍 [Additional Destination Research Guide](guides/2-additional-destination-research.md) | Maldives, Hawaii, and Atacama expansion with seasonal data |
-| 🇫🇷 [New Caledonia Research](guides/3-new-caledonia-research.md) | Deep dive: volcanic soils, endemic plant repellents, geo-isolation |
-| 🧭 [Community Research Guide](guides/4-community-research-guide.md) | 10 destinations with full seasonal safety data, source verification, and monthly bug calendar |
+| 🇳🇨 [New Caledonia Research](guides/3-new-caledonia-research.md) | Deep dive: volcanic soils, endemic plant repellents, geo-isolation |
+| 🧠 [Community Research Guide](guides/4-community-research-guide.md) | 10 destinations with full seasonal safety data, source verification, and monthly bug calendar |
+| 🏝️ [Montserrat & Curaçao Guide](guides/5-bug-free-island-destinations.md) | Two nearly mosquito-free Caribbean islands with seasonal safety data |
 | 📅 [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md) | Month-by-month planner with worst-to-best rankings |
-| 🔬 [Research Updates & Corrections](guides/research-updates.md) | Critical findings: Seychelles correction, Iceland 2025 alert |
+| 🔮 [Research Updates & Corrections](guides/research-updates.md) | Critical findings: Seychelles correction, Iceland 2025 alert |
 | 📝 [Submission Template](guides/submission-template.md) | Form to add your own destination guide |
 | 🤝 [Contributing Guide](guides/contributing.md) | PR workflow, research standards, review criteria |
 | 📋 [Bug-Avoid Packing Checklist](guides/packing-checklist.md) | Essential gear for bug-free trips |
 
 ---
 
-## 🦠 What Bug Categories We Cover
+## 🧠 What Bug Categories We Cover
 
 - Mosquitoes
 - Sandflies / No-See-Ums
@@ -183,7 +209,7 @@ Quick cheat sheet: **May–October** is your best bug-free window for most warm 
 
 ---
 
-> 🦠➡️❌ **Bug-free travels start here!**
+> 🧠➡️🚫 **Bug-free travels start here!**
 >
 > *Built for every traveler who has ever swatted away a mosquito mid-vacation. Help us grow — submit your own destination and earn the trust of the bug-phobic community.* ✨
 >
