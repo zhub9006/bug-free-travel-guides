@@ -7,6 +7,8 @@ Welcome to Bug-Free Travel Guides — the community designed for bug-phobic trav
 - **Seychelles is NOT mosquito-free** — it has mosquitoes, especially Dec–Feb (rainy season). Best window: May–October. Pack DEET as insurance. See [Research Updates](research-updates.md) for details.
 - **Iceland is no longer 100% mosquito-free** — *Culiseta annulata* discovered Oct 2025. Still best warm bug-free option but verify before booking.
 - **New Caledonia** is effectively bug-free on Grand Terre (dry season) due to volcanic soil barriers + endemic plant repellents + extreme geographic isolation — now has a dedicated deep-dive guide.
+- **Montserrat** is one of the few Caribbean islands with practically zero mosquitoes — volcanic soil and tiny island footprint make it a hidden gem.
+- **Curaçao** offers the lowest mosquito density of any major Caribbean island — arid interior, trade winds, outside the hurricane belt.
 
 ## Why Does This Community Exist?
 
@@ -18,6 +20,7 @@ Many of us live with entomophobia (intense fear of insects/arachnids). Others si
 - [ ] Read **Critical Corrections (⚠️ above)** — avoid Belize-level surprises!
 - [ ] Browse the [First Destination Research Guide](1-first-destination-research.md) (10 deep-dive destinations)
 - [ ] Check the [Seasonal Safety Calendar](seasonal-safety-calendar.md)
+- [ ] Read the [New Caribbean Bug-Free Guide](5-bug-free-island-destinations.md) — Montserrat & Curaçao
 - [ ] Read the [Research Updates & Corrections](research-updates.md)
 - [ ] Read the [Contributing Guide](contributing.md)
 - [ ] Submit a new destination via the [Submission Template](submission-template.md) → open a PR!
@@ -27,8 +30,8 @@ Many of us live with entomophobia (intense fear of insects/arachnids). Others si
 **Q: I have a severe phobia — will this help me?**
 A: Every guide starts from an entomophobic lens and covers all major bug categories including mosquitoes, sandflies, ticks, spiders, wasps, cockroaches, and fleas.
 
-**Q: Tropical beach vacation — can you help?**
-A: Yes! We cover warm bug-free options like New Caledonia (May–Oct dry season), Madeira, and Haleakalā (Maui) at altitude with proper DEET insurance. Most tropical destinations have low-bug windows — find them in our research guides.
+**Q: Tropical beach vacation — can you help me?**
+A: Absolutely! We now cover two nearly mosquito-free Caribbean destinations (Montserrat & Curaçao, Dec–Apr) and warm bug-free options like New Caledonia (May–Oct dry season), Madeira, and Haleakalā (Maui) at altitude with proper DEET insurance. Most tropical destinations have low-bug windows — find them in our research guides.
 
 **Q: Bug spray/netting isn't enough — can anything guarantee zero bites?**
 A: We cannot guarantee anything — climate change shifts insect territory (see: Iceland's 2025 mosquito discovery). Every guide flags "known unknowns." Pack DEET as insurance.
@@ -39,7 +42,18 @@ A: All covered. Every guide includes a full 7-category bug assessment matrix.
 **Q: My destination isn't listed — can I request it?**
 A: Absolutely. Submit via the [Submission Template](submission-template.md) and open a PR.
 
-## 🏠 Essential Packing Checklist (Even for "Bug-Free" Trips)
+## 🏖️ Caribbean Bug-Free Quick Reference
+
+If you're dreaming of a tropical beach vacation without the bugs:
+
+| Destination | Bug Score | Best Period | Flight Access |
+|---|---|---|---|
+| 🌋 Montserrat | 0.5/10 | Dec–Apr | Via Antigua (short connecting flight) |
+| 🌴 Curaçao | 2.0/10 | Dec–Apr | Direct from US/Europe/LatAm |
+
+Both are far safer than any other Caribbean island year-round. Pack DEET as basic insurance.
+
+## 🎒 Essential Packing Checklist (Even for "Bug-Free" Trips)
 
 Carry these basics as travel insurance:
 
@@ -51,7 +65,7 @@ Carry these basics as travel insurance:
 - **Pre-treated gaiters** for tick-heavy transitional zones
 - **Wasp/hornet spray** for urban markets & restaurants
 
-## 📬 Join the Community
+## 🌍 Join the Community
 
 - Open a [Discussion](https://github.com/zhub9006/bug-free-travel-guides/discussions) for trip-planning chat and Q&A
 - Open an [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues) to flag outdated info or climate anomalies
@@ -59,4 +73,4 @@ Carry these basics as travel insurance:
 
 You deserve a vacation free of stress from creepy-crawlies. Welcome to the sanctuary!
 
-🏔️🦋✨
+🏖️🐛✨
