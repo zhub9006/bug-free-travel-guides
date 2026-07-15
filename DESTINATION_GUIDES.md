@@ -1,6 +1,16 @@
-# 🐛🚫 Bug-Free Destination Guides
+# 🐛🛡️ Bug-Free Destination Guides
 
 > *Welcome, bug-phobic travelers! This is your ultimate guide to the world's most insect-free destinations. No mosquitoes, no ticks, no creepy-crawlies — just pure peace of mind on your travels.*
+
+---
+
+## ⚠️ CRITICAL CORRECTIONS (Read First!)
+
+- **Seychelles is NOT mosquito-free** — it has mosquitoes year-round, especially Dec–Feb (rainy season). Avoid if entomophobic.
+- **Iceland is no longer 100% mosquito-free** — *Culiseta annulata* confirmed Oct 2025 in Kjós valley. Still best warm option but **verify before booking**.
+- **Antarctica is now the ONLY landmass with a full mosquito-free guarantee.**
+- **Patagonia = June–August ONLY** (Nov–Mar = sandfly hell, DO NOT visit if phobic).
+- **Montserrat & Curaçao** are the only nearly-zero-bug Caribbean destinations.
 
 ---
 
@@ -8,172 +18,182 @@
 
 ---
 
-### 1. 🇮🇸 Iceland — The Ultimate Bug-Free Paradise
-
-**Why it's bug-free:**
-Iceland is one of the only places on Earth with virtually **zero mosquitoes** and very few other insects. Its cold subarctic climate, volcanic soil, and lack of standing water make it inhospitable to most crawling and flying pests.
-
-**Safest seasons to visit:**
-- **June – August (Summer):** Midnight sun, mild temperatures (10–15°C), and the longest days on Earth. Peak bug-free season with all roads and trails open.
-- **September – October (Autumn):** Northern lights begin appearing, cooler but still very few bugs. Fewer tourists too!
-- **Winter (Dec–Feb):** Very few tourists, magical snowy landscapes, and still essentially zero insects. Northern lights are spectacular.
-
-**Top spots:** Reykjavik, the Golden Circle, Jökulsárlón Glacier Lagoon, Westfjords, Blue Lagoon
-
-**Pro tip:** Even in summer, you may see the occasional midge near rivers, but it's extremely rare compared to anywhere else in Europe.
-
----
-
-### 2. 🇦🇷 Patagonia (Chile & Argentina) — Southern Ice and Freedom from Creepers
-
-**Why it's bug-free:**
-Patagonia's cold, windy, and arid climate keeps insect populations extremely low. Below the Andes tree line, you'll encounter almost no biting insects. The southern regions (Torres del Paine, Tierra del Fuego) are especially pristine.
-
-**Safest seasons to visit:**
-- **November – March (Southern Summer):** Warmest months (5–15°C), all hiking trails open, and insects are at their lowest. This is the sweet spot.
-- **April – May (Autumn):** Stunning fall foliage, fewer crowds, and still very bug-free. Temperatures drop but are manageable.
-
-**Top spots:** Torres del Paine National Park, Perito Moreno Glacier, El Chaltén, Ushuaia, Nahuel Huapi National Park
-
-**Pro tip:** At Torres del Paine, the famous W Trek is virtually bug-free year-round. Wear layers — it can be windy!
-
----
-
-### 3. 🇳🇿 New Zealand — No Snakes, Very Few Bugs
-
-**Why it's bug-free:**
-New Zealand has **no native snakes** and very few harmful insects. The country's island isolation means there are almost no mosquitoes, no malaria, and no deadly spiders (the rare katipo is extremely rare and found only in specific coastal areas). The most you might encounter is a weta (giant cricket) in caves — but only in the dark!
-
-**Safest seasons to visit:**
-- **December – February (Summer):** Best weather (20–30°C), longest days, warmest ocean for swimming. Peak travel season.
-- **March – May (Autumn):** Beautiful fall colors, fewer tourists, mild temperatures. Still very bug-free.
-
-**Top spots:** Queenstown, Fiordland National Park, Hobbiton, Tongariro Alpine Crossing, Bay of Islands, Kaikōura
-
-**Pro tip:** Weta Cave in Te Anau is a fun (and bug-safe) attraction celebrating New Zealand's giant insects behind glass!
-
----
-
-### 4. 🇦🇪 Arabian Peninsula (Dubai, Abu Dhabi, Oman) — The Desert Void
-
-**Why it's bug-free:**
-The hyper-arid desert climate means virtually **no mosquitoes or flying insects**. Sand dunes and dry landscapes are the last place bugs want to be. Indoor environments are heavily air-conditioned and sealed.
-
-**Safest seasons to visit:**
-- **November – March (Winter):** Pleasant temperatures (20–30°C), perfect for outdoor exploring. This is the absolute best time.
-- **Avoid June – September:** Temperatures exceed 45°C (113°F). While bugs are even rarer, you'll be roasting instead of enjoying!
-
-**Top spots:** Dubai Marina, Palm Jumeirah, Wadi Rum (Jordan), Abu Dhabi Grand Mosque, Muscat souks, Al Hajar Mountains
-
-**Pro tip:** Desert safaris in winter are a must — you'll be wrapped in blankets under the stars with not a bug in sight!
-
----
-
-### 5. 🇨🇱 Antarctica — The Ultimate Bug-Free Zone
-
-**Why it's bug-free:**
-Antarctica has **literally zero insects or arachnids** naturally. It's the only continent with no native bug population. The only creatures you'll see are penguins, seals, and seabirds.
-
-**Safest seasons to visit:**
-- **November – March (Antarctic Summer):** Temperatures up to 5–10°C along the coast, 24-hour daylight, peak wildlife season. This is the ONLY time expedition ships operate.
-
+### 1. ❄️ Antarctica — The Ultimate Bug-Free Zone
+**Why it's bug-free:** Antarctica has literally zero insects or arachnids naturally. It's the only continent with no native bug population. Sub-50°C ground temps, no standing water, no flowering nectar for larvae, and no flight possible below −50°C.
+**Safest season:** **Nov–March** (austral summer). Expedition cruises run from Ushuaia, Punta Arenas, and New Zealand. This is the ONLY time expedition ships operate.
+**Budget:** $$$$ (cruises from ~$8,000+ USD for 10 days)
 **Top spots:** Antarctic Peninsula, South Shetland Islands, Deception Island, Paradise Bay
-
-**Pro tip:** Expedition cruises depart from Ushuaia (Argentina) or Punta Arenas. Expect cold decks but zero eight-legged roommates!
-
----
-
-### 6. 🇲🇳 Mongolia — Vast Steppes, Virtually No Bugs
-
-**Why it's bug-free:**
-Mongolia's dry steppe climate and low humidity make it extremely inhospitable to mosquitoes and other insects. The Gobi Desert region is particularly pest-free.
-
-**Safest seasons to visit:**
-- **June – August (Summer):** Warm temperatures (15–25°C), lush green steppe, Naadam Festival season. Very few bugs.
-- **September – October (Autumn):** Golden landscapes, cool but pleasant, still bug-free.
-
-**Top spots:** Ulaanbaatar, Gorkhi-Terelj National Park, Flaming Cliffs (Bayanzag), Khövsgöl Lake, Altai Mountains
-
-**Pro tip:** Stay in a ger (yurt) camp — open-air but high above the ground and breezy enough that any rare bugs get blown away.
+**Bug score:** 0/10 ✅
 
 ---
 
-### 7. 🇰🇪 Kenya (High Elevation Safaris) — Bug-Free Above the Clouds
-
-**Why it's bug-free:**
-While lowland tropical Africa is notorious for mosquitoes, **high-elevation Kenyan savannas (1,500–2,500m)** are significantly cooler and much drier, reducing mosquito populations dramatically. Many luxury safari lodges are located at these elevations.
-
-**Safest seasons to visit:**
-- **July – October (Dry Season):** The Great Migration crosses the Mara River! Low humidity, cool mornings (10–20°C), and mosquitoes are minimal at high elevations.
-- **January – February (Short Dry):** Also good, slightly warmer.
-
-**Top spots:** Maasai Mara (highland camps), Amboseli, Samburu, Lewa Downs, Laikipia Plateau
-
-**Pro tip:** Choose lodges above 1,800m (like Lewa Downs) for the best bug-free experience. Avoid Nairobi National Park at night. Always use DEET at lower elevations.
+### 2. ✨ Madeira, Portugal — Best Warm Bug-Free Pick
+**Why it's bug-free:** Volcanic terrain blocks standing water; mountain dry airflow; unique island ecology. No venomous spiders on main island. No snakes. No swarms.
+**Safest season:** **December–March** — cooler temps (15–22°C), minimal irrigation, virtually zero mosquitoes.
+**Budget:** $$ (significantly cheaper than mainland Europe)
+**Top spots:** Funchal, Levada walks, Pico do Arieiro, Camara de Lobos
+**⚠️ Caution:** Desertas Island has *Segestria saeva* spider — avoid if phobic
+**Bug score:** 0.5/10 ⭐
 
 ---
 
-### 8. 🇳🇴 Northern Norway (Lofoten, Tromsø) — Arctic Cleanliness
-
-**Why it's bug-free:**
-The Arctic and sub-Arctic regions of Norway have extremely short insect seasons. By September, most bugs are gone. Coastal areas like Lofoten and Tromsø are especially breezy and bug-minimal.
-
-**Safest seasons to visit:**
-- **May – June (Spring/early Summer):** Midnight sun begins, wildflowers bloom, and insects haven't emerged yet. Temperatures 5–15°C.
-- **September – October (Autumn):** Northern lights season, crisp air, and virtually no bugs.
-- **Winter (Nov–Mar):** Northern lights, snow activities, zero bugs (except maybe a cozy indoor spider or two).
-
-**Top spots:** Lofoten Islands, Tromsø, Senja Island, Northern Light retreats, Lyngen Alps
-
-**Pro tip:** The best hiking in Lofoten is in June and September — long days, no bugs, and uncrowded trails.
+### 3. ❄️ Hokkaido, Japan (Winter) — Snowy Sanctorum
+**Why it's bug-free:** Deep snowpack kills all insect larvae; subarctic cold prevents overwintering; insufficient deciduous fuel for larvae vs Honshu.
+**Safest season:** **December–March** — powder skiing, onsens, snow festivals
+**Budget:** $$–$$$
+**Top spots:** Niseko ski resorts, Sapporo Snow Festival, Furano lavender fields (Jul), hot springs
+**Bug score:** 0/10 ✅ (winter); ~2/10 (Jun–Aug)
 
 ---
 
-### 9. 🇿🇦 South Africa (Western Cape & Garden Route) — Coastal Breeze, Fewer Bugs
-
-**Why it's bug-free:**
-The **Western Cape (Cape Town, Stellenbosch)** and the **Garden Route (Knysna, Plettenberg Bay)** experience strong ocean breezes and a Mediterranean climate that keeps mosquito populations very low compared to the Kruger Lowveld.
-
-**Safest seasons to visit:**
-- **November – March (Cape Summer):** Warm, sunny, and dry — the best months to visit. Mosquitoes are minimal on the west coast and garden route.
-- **March – May (Autumn):** Beautiful, fewer crowds, still very few bugs.
-
-**Top spots:** Cape Town, Table Mountain, Stellenbosch wine lands, Garden Route, Franschhoek, Hermanus (whale watching)
-
-**Pro tip:** **Avoid the Kruger Lowveld in summer** (Dec–Mar) — that's malaria and mosquito season. Stick to the west coast and garden route for a bug-free South African adventure!
+### 4. 🏝️ Faroe Islands — Wind Fortress
+**Why it's bug-free:** Bare granite islands at 62°N; avg wind ~10 m/s on exposed coasts; no standing freshwater wetlands; treeless landscape. Zero mosquitoes documented.
+**Safest season:** **May–September** — 20-hour daylight, wildflowers, puffins, 8–13°C
+**Budget:** $$–$$$
+**Top spots:** Gásadalur village, Mykines puffin cliffs, Sørvágsvatn "floating lake"
+**Bug score:** 0/10 ✅
 
 ---
 
-### 10. 🇯🇵 Japan — Alpine Highlands & Island Getaways
-
-**Why it's bug-free:**
-While Tokyo and Kyoto in summer can have mosquitoes, Japan's **alpine highlands** (above 800m) and **northern regions** (Hokkaido) are remarkably bug-free. Okinawa has more tropical bugs, so stick to the north!
-
-**Safest seasons to visit:**
-- **May – June (Golden Week & early autumn):** Before the rainy season, bugs are minimal. Cherry blossoms or lush green landscapes.
-- **September – November (Autumn):** Crisp air, fall foliage, and mosquitoes have mostly disappeared after the rainy season ends.
-- **December – February (Winter):** Sapporo Snow Festival, Hokkaido skiing, zero bugs!
-
-**Top spots:** Hokkaido ski resorts, Kamikōchi (alpine valley), Hakuba, Nikkō, Okinawa only in winter
-
-**Pro tip:** Japanese convenience stores sell pocket-sized insect repellent patches — but in Hokkaido and the Japanese Alps, you won't need them!
+### 5. 🏜️ Atacama Desert, Chile — Zero-Water No-Bug Zone
+**Why it's bug-free:** Annual rainfall <1 mm/year; elevation 2,400–5,000 m; near-total absence of standing water; hyper-arid conditions prevent insect breeding.
+**Safest season:** **March–May** (autumn) / **September–November** (spring) — 20–25°C, world-class stargazing
+**Budget:** $$ ($50–80 USD B&Bs)
+**Top spots:** San Pedro de Atacama, Rainbow Valley, El Tatio Geysers, Moon Valley (Valle de la Luna)
+**Bug score:** 0/10 ✅
 
 ---
 
-## 🗺️ Quick Reference: At a Glance
+### 6. ⚠️ Patagonia Winter (Argentina & Chile) — THE SEASONAL TRAP
+**Why it's variable:** This is a bi-annual destination with a DANGEROUS seasonal split. **June–August (winter) = superbly bug-free. November–March (summer) = sandfly HELL.**
+**SAFEST season:** **June–August** — Torres del Paine, El Chaltén, Ushuaia with virtually zero insects
+**AVOID:** **November–March** — aggressive sandflies (*Culicoides*) swarm everywhere near waterways
+**Budget:** $$–$$$
+**Top spots:** Torres del Paine, El Chaltén, Perito Moreno Glacier
+**⚠️ CRITICAL WARNING:** Patagonia is the single most dangerous destination for entomophobic travelers if visited in the wrong season. June–August ONLY.
+**Bug score:** 0/10 ✅ (Jun–Aug) / 10/10 🛑 (Nov–Mar)
 
-| Destination | Temp Range (Best Season) | Mosquitoes? | Worst Time to Avoid |
+---
+
+### 7. 🌺 Montserrat — Volcanic Mosquito-Free Caribbean Gem
+**Why it's bug-free:** Volcanic ash deposits create porous, well-draining soil; tiny island footprint (~16 km) means few ponds/marshes; mountain terrain keeps coastal areas breezy and dry.
+**Safest season:** **December–April** — low humidity, ~50mm rain/month, 27–29°C, calm seas
+**Avoid:** July–November (wet season + hurricane risk)
+**Budget:** $–$$
+**Top spots:** Western coastal strip (Brades, Little Bay), Centre Hills hiking, Rendezvous Bay snorkeling, volcano tours
+**Bug score:** 0.5/10 ⭐ — lowest in the Caribbean
+
+---
+
+### 8. 🌊 Curaçao — The Dry Caribbean Island Where Mosquitoes Are Rare
+**Why it's bug-free:** Hyper-arid interior; constant easterly trade winds (15–25 km/h) prevent water pooling; outside the hurricane belt; leeward western coast is dry and sunny.
+**Safest season:** **December–April** — sunny, low humidity, 27–29°C, 300+ sunny days/year
+**Avoid:** July–September (wettest + hottest, mosquito peak)
+**Budget:** $$–$$$
+**Top spots:** Palm Beach, Eagle Beach, Christoffel National Park, Willemstad (Punda/Otrobanda), Carnival (Feb–Mar)
+**Bug score:** 2/10
+
+---
+
+### 9. ✨ New Caledonia — Volcanic Isolation Paradise
+**Why it's bug-free:** Extreme island isolation (~1,200 km from Australia) prevents colonization; volcanic soil leaches sulfur/minerals into water killing larvae; endemic native plants evolved natural insect-repellent oils/saps.
+**Safest season:** **May–October** (dry season / *hivernage*) — 20–28°C, SE trade winds, minimal rain
+**Avoid:** December–March (wet season / *été austral*)
+**Budget:** $$–$$$$
+**Top spots:** Grand Terre (dry season), Nouméa, Isle of Pines, Blue River Park, snorkeling at Haute Roch
+**Bug score:** 1.5/10 (Grand Terre dry season)
+**Disease risk:** No malaria. Dengue very rare and localized. No chikungunya on main islands.
+
+---
+
+### 10. ♨️ French Polynesia — Tropical Comfort Zone
+**Why it's bug-free:** Island isolation helps control populations; luxury resorts employ aggressive pest management.
+**Safest season:** **May–October** (dry season) — fewer mosquitoes, lower dengue risk
+**Avoid:** November–April (wet season = peak mosquito activity)
+**Budget:** $$$$
+**Top spots:** Tahiti, Moorea (avoid low-lying atolls in wet season), The Brando resort
+**Bug score:** 3/10 (best case, dry season) / 6+/10 (wet season)
+
+---
+
+### 11. 🕌 UAE / Oman Desert — The Desert Void
+**Why it's bug-free:** Hyper-arid desert climate with extreme heat and near-zero standing water. Indoor environments are heavily air-conditioned and sealed.
+**Safest season:** **November–March** — pleasant 20–30°C, perfect for outdoor exploring
+**Avoid:** June–September (temperatures exceed 45°C)
+**Budget:** $$–$$$
+**Top spots:** Dubai Marina, Palm Jumeirah, Wadi Rum (Jordan), Muscat souks, Al Hajar Mountains
+**Bug score:** 1/10
+
+---
+
+### 12. 🌴 Hawaii (Kona Coast) — Breezy Leeward Side
+**Why it's bug-free:** Acidic volcanic land; little standing water; strong Kona (Pacific) trade winds; southern leeward position.
+**Safest season:** **April–October** — dry Trade Wind season
+**⚠️ AVOID:** Hilo side / Puna district (wet side — significantly more mosquitoes)
+**Budget:** $$–$$$
+**Top spots:** Kona coffee farms, South Point coastline, Puʻuhonua o Hōnaunau National Park, Kealakekua Bay
+**Bug score:** 2/10 (Kona coast) / 5+/10 (Hilo/Puna side)
+
+---
+
+### 13. 🏝️ Maldives Resorts — Private-Island Bug-Free
+**Why it's bug-friendly:** Eco-controlled private islands with aggressive resort pest management; ocean breezes.
+**Safest season:** **December–April** — dry season
+**Caution:** Local islands are risky year-round, especially wet season
+**Budget:** $$$$
+**Top resorts:** All-inclusive resorts with documented pest control programs
+**Bug score:** 2/10 (resorts) / 4+/10 (local islands)
+
+---
+
+## 📊 Quick Reference: At-a-Glance Safety Table
+
+| Destination | Temp Range (Best Season) | Mosquitoes? | Worst Time to Avoid | Bug Score |
+|---|---|---|---|---|
+| ❄️ Antarctica | 5–10°C (Nov–Mar) | Zero | Winter (no ships) | **0/10** ✅ |
+| ✨ Madeira | 15–22°C (Dec–Mar) | Rare | Apr–May (wildflowers) | **0.5/10** ⭐ |
+| ❄️ Hokkaido (Winter) | Sub-zero (Dec–Mar) | Zero | Jun–Aug (summers) | **0/10** ✅ |
+| 🏝️ Faroe Islands | 8–13°C (May–Sep) | None | Oct–Apr (winter winds) | **0/10** ✅ |
+| 🏜️ Atacama Desert | 20–25°C (Mar–May/Sep–Nov) | None year-round | N/A | **0/10** ✅ |
+| ⚠️ Patagonia (Winter) | −5–2°C (Jun–Aug) | None | **Nov–Mar** 🛑 | **0/10** ✅ / **10/10** 🛑 |
+| 🌺 Montserrat | 27–29°C (Dec–Apr) | Practically none | Jul–Nov (wet) | **0.5/10** ⭐ |
+| 🌊 Curaçao | 27–29°C (Dec–Apr) | Low | Jul–Sep (wet) | **2/10** |
+| ✨ New Caledonia | 20–28°C (May–Oct) | Minimal | Dec–Mar (wet) | **1.5/10** |
+| ♨️ French Polynesia | 25–30°C (May–Oct) | Low (3/10) | Nov–Apr (wet) | **3/10** |
+| 🕌 UAE/Oman | 20–30°C (Nov–Mar) | Near zero | Jun–Sep (extreme heat) | **1/10** |
+| 🌴 Hawaii (Kona) | 22–28°C (Apr–Oct) | Low (Kona) | **Hilo/Puna side** | **2/10** |
+| 🏝️ Maldives Resorts | 26–30°C (Dec–Apr) | Low (resorts) | Local islands any time | **2/10** |
+
+---
+
+## 🌡️ Seasonal Cheat Sheet
+
+| Season | ✅ Go Here | 🛑 Avoid |
+|---|---|---|
+| **Jan–Feb** | Antarctica, Madeira, Hokkaido, Atacama, Montserrat, Curaçao, UK Cities | Africa wet season, Seychelles, French Polynesia wet |
+| **Mar–Apr** | Atacama spring, Madeira, Hokkaido end, UAE/Oman, Curaçao | Seychelles, Patagonia MELTDOWN starts |
+| **May–Jun** | New Caledonia dry begins, Faroe Islands, Atacama autumn, UAE/Oman | Patagonia MELTDOWN, S.E. Asia |
+| **Jul–Aug** | Iceland ⚠️verify, Madeira, Faroe Islands, New Caledonia, Maldives, Kona Hawaii | **Patagonia WORST**, Africa, S.E. Asia |
+| **Sep–Oct** | New Caledonia peak dry, French Polynesia early dry, Atacama autumn, Montserrat | Seychelles wet start, French Polynesia late wet |
+| **Nov–Dec** | Atacama late, UAE/Oman, Madeira, Montserrat, Curaçao, UK Cities | French Polynesia wet, Seychelles peak |
+
+---
+
+## 🛡️ Regional Quick Picks
+
+| Region | Best Pick | Best Season | Budget |
 |---|---|---|---|
-| 🇮🇸 Iceland | 10–15°C (Summer) | Near zero | — |
-| 🇦🇷 Patagonia | 5–15°C (Nov–Mar) | Very low | Avoid austral winter (Jul) |
-| 🇳🇿 New Zealand | 20–30°C (Dec–Feb) | Very low | Avoid lowlands at dusk |
-| 🇦🇪 Arabian Desert | 20–30°C (Nov–Mar) | Near zero | Summer (Jun–Sep) |
-| 🇨🇱 Antarctica | 5–10°C (Nov–Mar) | Zero | Winter (no ships) |
-| 🇲🇳 Mongolia | 15–25°C (Jun–Aug) | Very low | Wet spring |
-| 🇰🇪 Kenya Highlands | 10–20°C (Jul–Oct) | Low | Lowland wet season |
-| 🇳🇴 Northern Norway | 5–15°C (May–Jun) | Very low | Late Sep (brief hatch) |
-| 🇿🇦 Western Cape SA | 15–25°C (Nov–Mar) | Low | Kruger lowveld summer |
-| 🇯🇵 Japan (Hokkaido) | 10–25°C (May–Jun) | Very low | Okinawa in summer |
+| **Caribbean** | Montserrat ⭐ | Dec–Apr | $–$$ |
+| **Caribbean** | Curaçao | Dec–Apr | $$–$$$ |
+| **Tropical Heat** | Atacama Desert, Chile | Mar–May / Sep–Nov | $$ |
+| **Warm Europa** | Madeira | Dec–Mar | $$ |
+| **Pacific Island** | Easter Island | Nov–Mar | $$–$$$ |
+| **African Safari** | Namibia (dry season) | May–Oct | $$–$$$ |
+| **Alpine** | Hokkaido (winter) | Dec–Mar | $$–$$$ |
+| **Arctic** | Faroe Islands | May–Sep | $$–$$$ |
+| **Desert** | UAE/Oman | Nov–Mar | $$–$$$ |
+| **US Domestic** | Phoenix/Sedona/Las Vegas | Oct–Apr | $$ |
+| **Polar** | Antarctica | Nov–Mar | $$$$ |
 
 ---
 
@@ -185,21 +205,28 @@ While Tokyo and Kyoto in summer can have mosquitoes, Japan's **alpine highlands*
 4. **Use DEET as backup:** Even in "bug-free" zones, a light spray adds peace of mind.
 5. **Check malaria maps:** Always verify if your destination is malaria-free before booking.
 6. **Book accommodations with screens:** Good mosquito nets and window screens are your last line of defense.
+7. **Verify before booking:** Climate change is shifting insect ranges. Always re-verify within 12 months.
 
 ---
 
-## 🤝 Contributing to This Guide
+## 🔬 Critical Research Updates
 
-Feeling brave enough to explore? Contribute your own bug-free discoveries! Please include:
-
-1. **Destination name and country**
-2. **Why it's bug-free** (climate, altitude, geography)
-3. **Safest seasons to visit**
-4. **Top things to do there**
-5. **Your personal bug-free travel tips**
-
-Together, we can map the entire bug-free world! 🗺️✨
+| Update | Date | Impact |
+|---|---|---|
+| Antarctica = only guaranteed mosquito-free landmass | Feb 2026 | Antarctica confirmed; Iceland questionable |
+| Iceland: *Culiseta annulata* confirmed Oct 2025 | Feb 2026 | Verify before booking; no longer 100% mosquito-free |
+| Seychelles is NOT mosquito-free | Jan 2026 | Removed from all recommended lists |
+| Patagonia seasonal trap identified | Jan 2026 | Jun–Aug ONLY; Nov–Mar = NO GO |
+| Montserrat & Curaçao verified as lowest-bug Caribbean | Jul 2026 | New Caribbean safe picks |
 
 ---
 
-*Remember: No bugs. No fear. Just freedom. Happy travels!* 🧳🌟
+## 🤝 Contributing
+
+Want to add a destination? Please read our [Contributing Guide](guides/contributing.md) and use the [Submission Template](guides/submission-template.md). Open an [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues) to discuss first!
+
+---
+
+> **🛡️✨ Bug-free travels for bug-phobic travelers. Because you deserve a vacation without the stress of creepy-crawlies!**
+
+*Last updated: July 2026*
