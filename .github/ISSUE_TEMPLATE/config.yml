@@ -1,0 +1,117 @@
+name: Bug-Free Travel Guides Issues
+description: Community issue categories for bug-phobic travel research
+
+## Bug report
+about: Report unexpected insects at a "bug-free" destination
+title: "[Bug Report] "
+labels: ["bug-report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ⚠️ **Report unexpected insects here!** Note: Mosquito ranges are expanding due to climate change. Even "safe" destinations can change.
+        Please check [Critical Updates in README](https://github.com/zhub9006/bug-free-travel-guides#pull-request) before filing.
+  - type: textarea
+    id: destination
+    attributes:
+      label: Where did you see bugs?
+      description: Destination name and specific area (city, beach, park, hotel name)
+      placeholder: "e.g., East coast of Tenerife near Playa Jardín"
+    validations:
+      required: true
+  - type: textarea
+    id: when
+    attributes:
+      label: When did you see them?
+      description: Month, date, time of day, and weather conditions
+      placeholder: "e.g., March 2025, dawn around 6:30am, cool and breezy"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What did you see?
+      description: Bug types, severity, and worse-than-expected details
+      placeholder: "e.g., Mosquitoes swarming at dawn — much worse than the guide's 0/10 winter assessment"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Proof or sources?
+      description: Photos, local forum links, or news articles
+      placeholder: "e.g., https://www.tripadvisor.com/..."
+  - type: checkboxes
+    id: labels
+    attributes:
+      label: What labels apply?
+      options:
+        - label: bug-report
+          required: true
+        - label: climate-anomaly
+        - label: critical-correction
+        - label: research-needed
+
+## Destination request
+about: Request research on a specific destination
+title: "[Destination Request] "
+labels: ["destination-request"]
+body:
+  - type: textarea
+    id: destination
+    attributes:
+      label: Destination name
+      placeholder: "e.g., Zanzibar, Tanzania"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why are you asking?
+      description: Travel plans or phobia context
+      placeholder: "e.g., Planning a December honeymoon — need to know if it's safe"
+    validations:
+      required: true
+  - type: textarea
+    id: specific
+    attributes:
+      label: Specific questions you want answered
+      placeholder: "e.g., Best months? Mosquito density? Sandflies? Month-by-month?"
+
+## Climate anomaly
+about: Report unusual insect activity linked to climate change
+title: "[Climate Anomaly] "
+labels: ["climate-anomaly"]
+body:
+  - type: textarea
+    id: destination
+    attributes:
+      label: Destination
+      placeholder: "e.g., Madeira, Portugal"
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What changed?
+      placeholder: "e.g., Mosquitoes appeared in Feb (there should be zero)"
+    validations:
+      required: true
+  - type: textarea
+    id: possible-cause
+    attributes:
+      label: Possible climate cause?
+      placeholder: "e.g., Record southern European warmth this winter"
+
+## General community question
+about: Ask the community about bug-free travel
+title: "[Community Q&A] "
+labels: ["discussion"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      placeholder: "e.g., 'How does Hawaii compare to Curaçao for bug-phobes on a budget?'"
+    validations:
+      required: true
