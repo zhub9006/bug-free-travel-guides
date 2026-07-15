@@ -1,89 +1,94 @@
-# 📝 Destination Submission Template
+# 📝 Destination Guide Submission Template
 
-> **Use this template when submitting a new destination for review.** Every submission must be thoroughly researched and verified before being accepted.
-
----
-
-## Destination Information
-
-- **Destination Name:** 
-- **Country/Region:** 
-- **Type:** 🏝️ Island / 🏜️ Desert / 🏙️ City / 🏔️ Mountain / 🌲 Forest / 🏖️ Beach
-- **Bug Safety Score (0–10, where 0 = zero bugs):** 
-- **Best Season(s):** 
-- **Worst Season(s):** 
-- **Budget:** $–$$$$
-- **Flight Access:** (direct? from which hubs?)
-- **Travel Style:** (luxury/budget/backpacking/adventure)
+> Fill in the sections below and submit a Pull Request. We'll verify your data before publishing!
 
 ---
 
-## Bug Assessment (Check ALL categories)
+## 🏷️ Destination Basics
 
-| Bug Category | Present? (Y/N) | Season Risk | Notes |
-|---|---|---|---|
-| 🦟 Mosquitoes | | | |
-| 🪰 Flies / Midges | | | |
-| 🕷️ Spiders (venomous?) | | | |
-| 🪱 Ticks | | | |
-| 🐝 Wasps / Hornets | | | |
-| 🪳 Cockroaches | | | |
-| 🦗 Crickets / Grasshoppers | | | |
-| 🪲 Ants | | | |
-| 🪤 Fleas / Lice | | | |
-| 🪹 Other (specify) | | | |
+- **Name:** [e.g., Seychelles]
+- **Country/Region:** [e.g., Seychelles, Indian Ocean]
+- **Bug Score (0–10):** [e.g., 2/10]
+- **Best Season to Visit:** [e.g., May–October]
+- **Budget Level:** [$ / $$ / $$$ / $$$$ / Free]
+- **Visa Required?** [Yes/No / Visa-free for most Westerners?]
 
 ---
 
-## Why This Destination Is Bug-Free (or Nearly So)
+## 🦗 Why Is This Destination Bug-Free?
 
-> **Explain the ecological/geographic reason.** Examples:
-> - Volcanic soil drains water (no standing water for larvae)
-> - Extreme altitude or cold suppresses insect populations
-> - Island biogeography barrier (no mainland insects can reach)
-> - Arid climate with minimal rainfall
-> - Persistent wind prevents insect flight/malaria mosquito habitation
-> - Native plants with natural repellent properties
+> Explain the *reason* bugs are absent or minimal. Be specific about climate, geography, ecology, or altitude.
 
----
-
-## Seasonal Safety Data
-
-| Month | Bug Level (Low/Med/High) | Temp Range | Notes |
-|---|---|---|---|
-| Jan | | | |
-| Feb | | | |
-| Mar | | | |
-| Apr | | | |
-| May | | | |
-| Jun | | | |
-| Jul | | | |
-| Aug | | | |
-| Sep | | | |
-| Oct | | | |
-| Nov | | | |
-| Dec | | | |
+**Key factors:**
+- [ ] Temperature & climate
+- [ ] Altitude / elevation
+- [ ] Humidity / rainfall
+- [ ] Island isolation
+- [ ] Soil composition / mineral content
+- [ ] Wind patterns / ocean breezes
+- [ ] Standing water absence
+- [ ] Other: [describe]
 
 ---
 
-## Sources (minimum 2 independent sources required)
+## 📅 Seasonal Timing — Detailed Breakdown
 
-1. 
-2. 
-3. 
+| Month | Bug Level (1–10) | Notes |
+|---|---|---|
+| Jan | | |
+| Feb | | |
+| Mar | | |
+| Apr | | |
+| May | | |
+| Jun | | |
+| Jul | | |
+| Aug | | |
+| Sep | | |
+| Oct | | |
+| Nov | | |
+| Dec | | |
+
+**Safest window:** [e.g., May–October]
+**Danger months:** [e.g., November–March]
+**Why?** [Explain the seasonal transition]
 
 ---
 
-## Personal Experience (Optional)
+## 📍 Top Spots & Tips
 
-> **Have you visited this destination? What was your experience with bugs?**
+1. **Spot 1:** [Name] — [Why it's bug-safe here]
+2. **Spot 2:** [Name] — [Why it's bug-safe here]
+3. **Spot 3:** [Name] — [Why it's bug-safe here]
 
----
-
-## Verification Notes
-
-> **How did you verify this information? What made you confident this is bug-free?**
+**Travel tip:** [Your personal bug-free travel tip]
 
 ---
 
-*Submit this as a comment on a [GitHub Issue](https://github.com/zhub9006/bug-free-travel-guides/issues) or include it in a PR. A community member will verify before merging.*
+## ⚠️ Cautions & Warnings
+
+- [ ] Mosquitoes present in some areas/seasons
+- [ ] Sandflies at certain locations
+- [ ] Ticks in certain months
+- [ ] Malaria/A disease risk at lower elevations
+- [ ] Other: [describe]
+
+---
+
+## 📚 Sources
+
+> Please include at least 2 recent, reliable sources (2025–2026).
+
+1. [Source name + URL + date]
+2. [Source name + URL + date]
+
+---
+
+## 👤 Contributor Info
+
+- **GitHub Username:** [@yourhandle]
+- **Nickname (to be credited):** [Your display name]
+- **Have you visited?** [Yes/No]
+
+---
+
+> 🐛 **Remember: No bugs. No fear. Just freedom! Happy travels!** ✨
