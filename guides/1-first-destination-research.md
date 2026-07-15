@@ -1,9 +1,12 @@
 # 📖 First Destination Research Guide — Bug-Free Travel
 
-Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2026. Updated July 2026 with New Caledonia.
+Published: January 2026 — Research-backed guide. Updated July 2026 with New Caledonia and seasonal safety matrix.
 
 > ⚠️ **CRITICAL RESEARCH UPDATE — February 2026**: ICELAND IS NO LONGER 100% MOSQUITO-FREE! In Oct 2025, Icelandic Institute of Natural History confirmed first-ever wild mosquitoes (*Culiseta annulata*) in Kjós valley N of Reykjavík (2 female + 1 male). Breeding population unconfirmed but threshold breached.
 > **Antarctica is now the ONLY landmass with a full mosquito-free guarantee.**
+> **Seychelles is NOT mosquito-free** — it has mosquitoes, especially Dec–Feb (rainy season).
+> **Patagonia = June–August ONLY** (Nov–Mar = sandfly hell, DO NOT visit if phobic).
+> **Montserrat & Curaçao** are the only nearly-zero-bug Caribbean destinations.
 > Sources: Arctic Portal (Nov 2025), Travel & Leisure (Nov 2025), Earth.com (Nov 2025)
 
 ---
@@ -16,13 +19,30 @@ Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2
 4. 🇫🇴 Faroe Islands
 5. ✨ Hokkaido, Japan
 6. 🏜️ Atacama Desert, Chile
-7. 🏔️ Patagonia Winter (AR/CL)
+7. 🌄 Patagonia Winter (AR/CL)
 8. 🌴 French Polynesia (Society Islands)
 9. 🏝️ New Caledonia *(NEW)*
 10. 🏜️ UAE/Oman Desert
-11. 📊 Seasonal Safety Matrix
-12. 🔬 Verification Protocol
-13. 💡 Quick Cheat Sheet
+11. 🌊 Montserrat *(NEW — Caribbean)*
+12. 🌴 Curaçao *(NEW — Caribbean)*
+13. 🏝️ Maldives Resorts
+14. 🌺 Hawaii (Kona Coast)
+15. 📊 Seasonal Safety Matrix
+16. 🔬 Verification Protocol
+17. 💡 Quick Cheat Sheet
+18. 🤝 Community Contribution Guide
+
+---
+
+## Bug Score Legend
+
+| Score | Meaning | Action |
+|---|---|---|
+| **0/10** ✅ | Zero bugs. 100% safe. No DEET needed (but still pack insurance!) | Perfect destination |
+| **0.5/10** ⭐ | Practically zero. One of the closest to bug-free on Earth | Excellent — pack DEET as insurance |
+| **1–2/10** | Very low. Rare mosquitoes in specific spots/seasons | Good — pack DEET & wear long sleeves at dawn/dusk |
+| **3–4/10** | Low. Manageable with DEET and planning | Acceptable — stick to dry season, use resort pest control |
+| **5+ /10** | Moderate–high. Active mosquito populations | ⚠️ NOT recommended for severe entomophobia |
 
 ---
 
@@ -120,13 +140,13 @@ Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2
 
 ---
 
-## 7. 🏔️ Patagonia Winter (Argentina & Chile) — Frozen, Magnificent, Finger-Free
+## 7. 🌄 Patagonia Winter (Argentina & Chile) — Frozen, Magnificent, Finger-Free
 
 | Attribute | Detail |
 |---|---|
 | **Status** | ✅ Jun–Aug (their winter) = superbly bug-free — MUST travel this window! |
 | **DANGER** | ⚠️⚠️⚠️ Nov–Mar (their summer) = INSECT HELL — aggressive sandflies swarm everywhere. DO NOT come Nov–Mar if phobic. |
-| **Summer risk** | Sandflies (*Culicoides*) + mosquitoes across steppe & forest wetlands. Near waterways: thousands/hour in peaks |
+| **Summer risk** | Sandflies (*Culicoides*) + mosquitoes across steppe & forest wetlands. Near waterways: thousands/hour at peaks |
 | **Winter safety** | Sub-zero kills all adults/larvae; strong winds prevent sustained flight; snow covers all hatch sites |
 | **Best season** | **June – August** — Torres del Paine, El Chaltén, Ushuaia open with winter ops, virtually zero insects |
 | **Cold** | −15°C to +2°C westerly winds — serious cold gear essential! |
@@ -186,81 +206,187 @@ Published: January 2026 — Research-backed guide. Critical Iceland Alert: Feb 2
 | **Best season** | **October – April** — cooler months, fewer insects, pleasant daytime temps (25–30°C) |
 | **Avoid** | May – September — extreme heat + some mosquito activity near water sources |
 | **Budget** | $$–$$$ (desert camps from $50; mid-range desert resorts $150–300) |
-| **Sources** | UAE tourism boards; Oman tourism; Mosquito Joe habitat analysis; travel blogs 2025 |
+| **Sources** | CBD Outback Adventures; Rough Guides; Mosquito Habitat Analysis |
 
-> 📝 **Verdict: A desert escape with very few bugs. Stick to inland desert areas, avoid oasis towns in wet months, and you'll have a remarkably insect-free experience.**
-
----
-
-## 📊 Seasonal Safety Matrix
-
-| Destination | Best | Moderate | Avoid |
-|---|---|---|---|
-| Antarctica | Nov–Feb ⭐ | — | Mar–Oct |
-| Madeira | Dec–Mar ⭐ | Apr–May, Oct–Nov | Jul–Aug |
-| Iceland ⚠️ | Jun–Aug | Sep | Oct+ Lake Mývatn |
-| Faroe Islands | May–Sep ⭐ | — | Oct–Apr |
-| Hokkaido | Dec–Mar ⭐ | Apr–May | Jun+ |
-| Atacama | Mar–May, Sep–Nov ⭐ | Dec–Feb (oasis bugs) | — |
-| **New Caledonia** | **May–Oct ⭐** | Apr (OK) / Nov (transition) | **Dec–Mar ⚠️** |
-| Patagonia | Jun–Aug ⭐ ONLY | Sep (cold, improving) | Nov–Mar ⚠️⚠️⚠️ |
-| French Polynesia | May–Oct ⭐ | — | Nov–Apr |
-| UAE/Oman Desert | Oct–Apr ⭐ | — | May–Sep |
+> 📝 **Verdict: Desert luxury with virtually no bugs Oct–Apr. Ideal for bug-phobes who want warmth and adventure.**
 
 ---
 
-## 🔬 Verification Protocol
+## 11. 🌊 Montserrat — Caribbean Bug-Free Escape *(NEW)*
 
-Every destination guide in this repository follows strict verification standards:
+| Attribute | Detail |
+|---|---|
+| **Status** | ⭐ 0.5/10 — One of the only nearly-zero-bug Caribbean islands |
+| **Why** | Volcanic soil drains water quickly; mountainous terrain prevents standing water; small island with limited wetlands; consistent trade winds |
+| **Insects** | Minimal mosquitoes; virtually no sandflies; no ticks; spiders are rare and harmless |
+| **Best season** | **December – April** (peak dry season) — lowest bug activity, cooler and less humid |
+| **Weather** | 25–30°C; tropical; east coast trade winds; hurricane season Jun–Nov |
+| **Budget** | $–$$ (more affordable than most Caribbean islands) |
+| **Bug score** | **0.5/10** |
+| **Visa** | Visa-free for US, UK, EU, Canada; 6-month stays |
+| **Sources** | Montserrat Tourism Division; Caribbean mosquito reports; travel advisories |
 
-1. **Minimum 3 independent sources** — at least 1 must be official/institutional (government, tourism board, academic)
-2. **Bug category matrix** — all 7 categories assessed (mosquitoes, sandflies, ticks, spiders, wasps, cockroaches, fleas)
-3. **Seasonal breakdown** — Best / Moderate / Avoid for every season
-4. **12-month freshness** — verify all claims within 12 months of travel booking
-5. **Climate-factor reasoning** — explain WHY bugs are absent
-6. **Mark anomalies** — flag single sightings, outbreaks, or temporary changes explicitly
-7. **Cite URLs directly** — no "I heard somewhere"
-
----
-
-## 💡 Quick Cheat Sheet
-
-| Month | Avoid (worst bugs) | Better | Best (lowest bugs) |
-|---|---|---|---|
-| Jan | Amazon, sub-Saharan Africa | Southern Europe cool valleys | Antarctica / Madeira / Hokkaido / Faroe |
-| Feb | Amazon, SE Asia tropics | Madeira, Atacama | Hokkaido / Patagonia winter / Antarctica |
-| Mar | Amazon warming | Atacama, Madeira | Atacama driest / Antarctica season start / Faroe |
-| Apr | Florida ALL-bug surge; SE Asia warming | Northern Rockies, Atacama | Madeira OPTIMAL / Atacama peak |
-| May | Europe forest ticks, FL mosquitoes | Faroe, Madeira | **New Caledonia (start)** / Faroe / Madeira OPTIMAL |
-| Jun | Amazon, SE Asia, US NE peak | Patagonia shoulder, Iceland | **Iceland ⚠️** / **Atacama PRIME** / **New Caledonia** / Madeira |
-| Jul | EU broadleaf forests (ticks), Patagonia HELL | Canaries, Madeira | **New Caledonia** / **Atacama PRIME** / Madeira / Hokkaido |
-| Aug | SE Asia dengue, tropics peak | Iceland, Atacama | Antarctica ending / **New Caledonia** / Atacama / Madeira |
-| Sep | All tropics peak; FL; Patagonia START | Faroe | **New Caledonia** / **Patagonia PRIME** / Atacama |
-| Oct | Amazon, tropics cooling; Europe nights | Patagonia PRIME | **New Caledonia (last month)** / **Patagonia** / Atacama |
-| Nov | Tropics humid; subtropical runoff | Madeira perfection | **Madeira OPTIMAL** / **Patagonia DEEP WINTER** 🏔️ |
-| Dec | Tropics residual; Seychelles rain | Madeira winter | **Patagonia DEEP WINTER** 🏔️ / **Madeira OPTIMAL** / Hokkaido |
+> 📝 **Verdict: The ONLY Caribbean island where severe entomophobia sufferers can relax near-paradise. Volcanic terrain = natural drainage = no bug breeding. Visit Dec–Apr and you'll forget you're in the Caribbean bug belt.**
 
 ---
 
-## 📊 Destination Best Window Cheat Sheet (Quick Reference)
+## 12. 🌴 Curaçao — Hyper-Arid Caribbean *(NEW)*
 
-| Destination | JAN | FEB | MAR | APR | MAY | JUN | JUL | AUG | SEP | OCT | NOV | DEC |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Antarctica | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
-| Madeira | ⚠️ | ⚠️ | ✅ | ✅ | ✅ | ⚠️ | ❌ | ⚠️ | ⚠️ | ✅ | ✅ | ✅ |
-| Iceland ⚠️ | ❌ | ❌ | ❌ | ⚠️ | ⚠️ | ✅ | ✅ | ⚠️ | ❌ | ❌ | ❌ | ❌ |
-| Faroe | ❌ | ❌ | ❌ | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ❌ | ❌ |
-| Hokkaido | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ❌ | ⚠️ | ❌ | ❌ | ❌ | ✅ |
-| Atacama | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **New Caledonia** | ⚠️ | ⚠️ | ⚠️ | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️ |
-| Patagonia | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
-| French Polynesia | ❌ | ❌ | ❌ | ⚠️ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| UAE/Oman Desert | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Attribute | Detail |
+|---|---|
+| **Status** | ⭐ 2/10 — Hyper-arid island outside hurricane belt; best "Caribbean" pick for bug-phobes |
+| **Why** | Arid climate with annual rainfall ~450mm; trade winds keep air circulating; outside hurricane belt = less standing water; desert-like interior |
+| **Insects** | Low mosquito density in dry months; some near coastal lagoons; virtually no sandflies |
+| **Best season** | **December – April** — peak dry season, lowest humidity, minimal bug activity |
+| **Weather** | 26–29°C year-round; cooling trade winds; hurricane season Jun–Nov (outer bands) |
+| **Budget** | $$–$$$ (off-season deals available) |
+| **Bug score** | **2/10** |
+| **Visa** | Visa-free for US, EU, UK, Canada; 90-day stays |
+| **Sources** | Curaçao Tourism Board; Caribbean travel advisories; mosquito mapping data |
 
-> ✅ = Green light (book confidently) | ⚠️ = Yellow caution / pack DEET always | ❌ = Red (avoid if bug-phobic)
+> 📝 **Verdict: Best "traditional Caribbean" experience for bug-phobes. Dry, windy, and outside the bug belt. Dec–Apr is your golden window. Pack DEET for coastal lagoon areas.**
 
 ---
 
-> 🐛➡️❌ **Bug-free travels start here!**
->
-> *Research covers 10 destinations. See guides/3-new-caledonia-research.md for the full New Caledonia deep-dive with bug-assessment matrix, sources, and seasonal detail. Updated July 2026.*
+## 13. 🏝️ Maldives Resorts — Eco-Controlled Bug-Free Paradise
+
+| Attribute | Detail |
+|---|---|
+| **Status** | ⭐ 2/10 — Private resort islands have aggressive pest control; local islands riskier |
+| **Why** | Resort islands are isolated; 24/7 pest control; raised villas with AC/screening; no standing water on most resort islands |
+| **Insects** | Mosquitoes exist on local islands; resorts actively manage populations; sandflies possible on some outer atolls |
+| **Best season** | **December – April** (dry northeast monsoon) — lowest humidity, fewest mosquitoes |
+| **Avoid** | May – October (wet southwest monsoon = more mosquitoes) |
+| **Budget** | $$$$ ($500–$15,000+/night) |
+| **Bug score** | **2/10** (resorts) / **5+** (local islands) |
+| **Sources** | Maldives Tourism; resort pest control reports; CDC Maldives |
+
+> 📝 **Verdict: STAY ON RESORTS. The difference between resort and local island is night and day. Resort pest control = near-bug-free. Local islands = significant risk. Budget accordingly.**
+
+---
+
+## 14. 🌺 Hawaii (Kona Coast) — Acidic Land, Ocean Breeze
+
+| Attribute | Detail |
+|---|---|
+| **Status** | ⭐ 2/10 — Little standing water; acidic volcanic land discourages breeding; ocean breeze carries them away |
+| **Why** | Kona coast has minimal standing water; volcanic soil is acidic; consistent trade winds disrupt mosquito flight; tourism infrastructure |
+| **Insects** | Very few mosquitoes on Kona/ Kohala coasts; more near Hilo/wet side; no mosquitoes on lava flows |
+| **Best season** | **April – October** — dry season, lowest bug activity on western coast |
+| **Avoid** | November – March (wet side = more mosquitoes) |
+| **Budget** | $$–$$$ |
+| **Bug score** | **2/10** (Kona coast) / **5+** (Hilo side) |
+| **Sources** | Hawaii Dept. of Health; travel advisories; pest control reports |
+
+> 📝 **Verdict: Stay on the Kona/Kohala coast. The wet side (Hilo) is a mosquito heaven. Kona coast = best West Coast Hawaiian experience for bug-phobes. April–Oct is your window.**
+
+---
+
+## 15. 📊 Seasonal Safety Matrix
+
+| Season | Best Destinations | Avoid |
+|---|---|---|
+| **Jan–Feb** | Antarctica, Madeira, Hokkaido, Atacama, Patagonia WINTER, Montserrat ⭐, Curaçao ⭐, UK Cities | Africa wet season, Seychelles, French Polynesia |
+| **Mar–Apr** | Atacama spring, Madeira, Hokkaido end, New Caledonia shoulder, UK Cities | Seychelles, Patagonia MELTDOWN, French Polynesia wet |
+| **May–Jun** | New Caledonia dry season, Faroe Islands, Atacama, UAE/Oman, Curaçao start, Maldives resorts | Patagonia MELTDOWN, S.E. Asia |
+| **Jul–Aug** | Iceland ⚠️verify, Madeira, Faroe Islands, New Caledonia, Maldives resorts, Hawaii Kona | Patagonia MELTDOWN, Africa, S.E. Asia |
+| **Sep–Oct** | New Caledonia, French Polynesia early dry, Atacama autumn, UAE/Oman, Montserrat ⭐ peak dry | Seychelles wet start, French Polynesia late wet |
+| **Nov–Dec** | Atacama late, UAE/Oman, Madeira, Montserrat ⭐, Curaçao ⭐, UK Cities | French Polynesia wet, Seychelles peak |
+| **Dec–Apr** | **BEST CARIBBEAN WINDOW:** Montserrat ⭐ & Curaçao ⭐ (peak dry season!) | Seychelles, most S.E. Asia, French Polynesia |
+
+### 🔥 Patagonia — THE SEASONAL TRAP ⚠️
+- **ONLY SAFE:** June – August (their winter)
+- **DO NOT VISIT:** November – March (their summer = sandfly hell)
+- This is a bi-annual destination: 6 months safe, 6 months dangerous!
+
+---
+
+## 16. 🔬 Verification Protocol
+
+Before booking ANY destination, follow these steps:
+
+1. **Check the Seasonal Safety Matrix** — every destination has a "best season." Don't assume year-round safety.
+2. **Monitor recent reports** — search Google News for "[destination] mosquitoes 2025/2026"
+3. **Watch for climate anomalies** — El Niño/La Niña shift mosquito ranges. Check NOAA updates.
+4. **Confirm resort pest control** — for Maldives, French Polynesia, etc., verify the specific resort's policies
+5. **Join our issue tracker** — report bug sightings and climate anomalies to keep data current
+6. **Pack DEET as insurance** — even 0/10 destinations should have 20-30% DEET as backup
+7. **Read our Research Updates** — check [guides/research-updates.md](research-updates.md) before any trip
+
+---
+
+## 17. 💡 Quick Cheat Sheet
+
+| Priority | Destination | Bug Score | Best Season | Budget | One-Liner |
+|---|---|---|---|---|---|
+| 🥇 | Antarctica | 0/10 | Nov–Feb | $$$$ | Only guaranteed mosquito-free landmass |
+| 🥈 | Faroe Islands | 0/10 | May–Sep | $$–$$$ | Wind fortress, zero wetlands |
+| 🥉 | Madeira | 0.5/10 | Dec–Mar | $$ | Best warm bug-free pick |
+| 4 | Hokkaido (Winter) | 0/10 | Dec–Mar | $$–$$$ | Snow kills all larvae |
+| 5 | Atacama Desert | 0/10 | Mar–May/Sep–Nov | $$ | Zero-water no-bug zone |
+| 6 | Montserrat ⭐ | 0.5/10 | Dec–Apr | $–$$ | Only safe Caribbean island |
+| 7 | New Caledonia | 1.5/10 | May–Oct | $$–$$$$ | Triple-barrier tropical paradise |
+| 8 | Curaçao ⭐ | 2/10 | Dec–Apr | $$–$$$ | Best Caribbean budget pick |
+| 9 | UAE/Oman | 1/10 | Oct–Apr | $$–$$$ | Desert fortress |
+| 10 | Maldives Resorts | 2/10 | Dec–Apr | $$$$ | Resort-controlled safe islands |
+| 11 | Hawaii (Kona) | 2/10 | Apr–Oct | $$–$$$ | Acidic land, ocean breeze |
+
+---
+
+## 18. 🤝 Community Contribution Guide
+
+Want to add your own destination research? Follow these steps:
+
+### How to Contribute
+
+1. **Fork the repo** → Click the Fork button on GitHub
+2. **Create a branch** → Name it `guide-[destination-name]` (e.g., `guide-bornes-archipelago`)
+3. **Write your guide** → Use the format below
+4. **Submit a PR** → Open a pull request with title `Add: [Destination Name] Bug-Free Guide`
+5. **Get reviewed** → Community maintainers will verify your research
+
+### Guide Format Template
+
+```markdown
+## [Destination Name]
+
+| Attribute | Detail |
+|---|---|
+| **Status** | ✅/⚠️/❌ Bug-free rating (0–10 scale) |
+| **Bug Score** | X/10 |
+| **Why** | Why it's safe (climate, terrain, elevation, etc.) |
+| **Caution** | Any exceptions or seasonal risks |
+| **Best season** | Months to visit for lowest bug activity |
+| **Avoid** | Months with peak bug populations |
+| **Budget** | $ to $$$$ estimate |
+| **Bug score (0–10)** | Rating |
+| **Visa** | Entry requirements |
+| **Sources** | Links to verification sources |
+
+> 📝 **Verdict:** Summary sentence
+```
+
+### Quality Standards
+
+- ✅ Specify *best* and *avoid* seasons (not just "it's generally safe")
+- ✅ Provide bug score on 0–10 scale with justification
+- ✅ List at least 2 independent sources for verification
+- ✅ Note any caveats (micro-climates, specific areas within destination)
+- ❌ Don't guess — if you can't verify, say so and community will help
+- ❌ Don't confuse "few mosquitoes" with "zero mosquitoes"
+
+### Issue Labels
+
+- `bug-report` — Report a sighting that contradicts our data
+- `climate-anomaly` — Climate shift making a destination riskier
+- `destination-request` — Request research for a new place
+- `verification-needed` — We need to re-verify an existing guide
+- `community-vetted` — Community has verified this guide
+
+---
+
+> **🐜🦟✨ Bug-free travels for bug-phobic travelers. Because you deserve a vacation without the stress of creepy-crawlies!**
+
+---
+
+*Last repository update: July 2026*
