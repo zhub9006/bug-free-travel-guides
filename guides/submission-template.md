@@ -1,73 +1,89 @@
-# 📝 Submission Template — Add a New Destination
+# 📝 Destination Submission Template
 
-> **Want to share a bug-free destination you've discovered? Use this template to submit a PR.**
-
----
-
-## Destination Info
-
-- **Destination Name:** [e.g., Algarve, Portugal]
-- **Country/Region:** [e.g., Southern Portugal]
-- **Bug Score (0–10):** [e.g., 2/10]
-- **Best Season:** [e.g., April–October]
-- **Budget Level:** [$ / $$ / $$$ / $$$$]
-- **Airline Access:** [e.g., Direct from London, easily from major EU hubs]
+> **Use this template when submitting a new destination for review.** Every submission must be thoroughly researched and verified before being accepted.
 
 ---
 
-## Bug Assessment
+## Destination Information
 
-### What bugs (if any) are present?
-[Describe any insects or arachnids found. Be specific: mosquitoes, sandflies, midges, spiders, etc.]
-
-### Why are bugs low/high here?
-[Geography, climate, altitude, vegetation, wind, etc.]
-
-### Worst-case scenario (if any)
-[Where do bugs cluster? When are they worst? What should people avoid?]
-
----
-
-## Best Time to Visit
-
-| Season | Bug Level | Notes |
-|---|---|---|
-| Winter (Dec–Feb) | ?/10 | [details] |
-| Spring (Mar–May) | ?/10 | [details] |
-| Summer (Jun–Aug) | ?/10 | [details] |
-| Autumn (Sep–Nov) | ?/10 | [details] |
+- **Destination Name:** 
+- **Country/Region:** 
+- **Type:** 🏝️ Island / 🏜️ Desert / 🏙️ City / 🏔️ Mountain / 🌲 Forest / 🏖️ Beach
+- **Bug Safety Score (0–10, where 0 = zero bugs):** 
+- **Best Season(s):** 
+- **Worst Season(s):** 
+- **Budget:** $–$$$$
+- **Flight Access:** (direct? from which hubs?)
+- **Travel Style:** (luxury/budget/backpacking/adventure)
 
 ---
 
-## Pro Tips for Phobics
+## Bug Assessment (Check ALL categories)
 
-1. [e.g., "Stay inland — coastal areas have more midges."]
-2. [e.g., "Avoid the southern coast in September."]
-3. [e.g., "Bring DEET even in dry season as insurance."]
-
----
-
-## What NOT to Do
-
-- [e.g., "Don't visit the Alentejo in August — olive groves = midges."]
-- [e.g., "Don't stay near wetlands."]
-
----
-
-## Sources
-
-- [Source 1 with link/date]
-- [Source 2 with link/date]
+| Bug Category | Present? (Y/N) | Season Risk | Notes |
+|---|---|---|---|
+| 🦟 Mosquitoes | | | |
+| 🪰 Flies / Midges | | | |
+| 🕷️ Spiders (venomous?) | | | |
+| 🪱 Ticks | | | |
+| 🐝 Wasps / Hornets | | | |
+| 🪳 Cockroaches | | | |
+| 🦗 Crickets / Grasshoppers | | | |
+| 🪲 Ants | | | |
+| 🪤 Fleas / Lice | | | |
+| 🪹 Other (specify) | | | |
 
 ---
 
-## ✍️ About the Contributor
+## Why This Destination Is Bug-Free (or Nearly So)
 
-- **Username:** [GitHub handle]
-- **Visited:** [Date(s)]
-- **Duration:** [How long you stayed]
-- **Budget:** [Approximate cost]
+> **Explain the ecological/geographic reason.** Examples:
+> - Volcanic soil drains water (no standing water for larvae)
+> - Extreme altitude or cold suppresses insect populations
+> - Island biogeography barrier (no mainland insects can reach)
+> - Arid climate with minimal rainfall
+> - Persistent wind prevents insect flight/malaria mosquito habitation
+> - Native plants with natural repellent properties
 
 ---
 
-> 💜 **Thank you for making this community better! Every verified addition helps a fellow bug-phobic traveler.**
+## Seasonal Safety Data
+
+| Month | Bug Level (Low/Med/High) | Temp Range | Notes |
+|---|---|---|---|
+| Jan | | | |
+| Feb | | | |
+| Mar | | | |
+| Apr | | | |
+| May | | | |
+| Jun | | | |
+| Jul | | | |
+| Aug | | | |
+| Sep | | | |
+| Oct | | | |
+| Nov | | | |
+| Dec | | | |
+
+---
+
+## Sources (minimum 2 independent sources required)
+
+1. 
+2. 
+3. 
+
+---
+
+## Personal Experience (Optional)
+
+> **Have you visited this destination? What was your experience with bugs?**
+
+---
+
+## Verification Notes
+
+> **How did you verify this information? What made you confident this is bug-free?**
+
+---
+
+*Submit this as a comment on a [GitHub Issue](https://github.com/zhub9006/bug-free-travel-guides/issues) or include it in a PR. A community member will verify before merging.*

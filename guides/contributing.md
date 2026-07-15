@@ -1,82 +1,96 @@
 # 🤝 Contributing Guide — Bug-Free Travel Guides
 
-Welcome, fellow bug-phobic traveler! This guide explains how to contribute to our community.
-
-## ✅ How to Add a New Destination
-
-1. **Check if it already exists** — Browse our [Destination Quick Reference in the README](#-destination-quick-reference) or search [Issues](https://github.com/zhub9006/bug-free-travel-guides/issues) to avoid duplication
-2. **Read the Critical Corrections** — Some destinations people assume are bug-free (Seychelles, Jamaica) are NOT. See [00-welcome.md](00-welcome.md) ⚠️ section
-3. **Use the Submission Template** — Fill out [guides/submission-template.md](submission-template.md) with your research
-4. **Minimum 3 sources required** — At least 1 must be official/government/institutional
-5. **Open a Pull Request** — Submit your completed template as a PR against `main`
-6. **Wait for review** — Community maintainers will verify and merge
-
-## 📋 What Every Guide Must Include
-
-### 7-Category Bug Assessment Matrix
-Every destination guide must assess ALL of these:
-
-| Category | Required? | Rating |
-|---|---|---|
-| Mosquitoes (flying biters) | ✅ Required | ❌ / ⚠️ / ⚠️⚠️ |
-| Sandflies / No-See-Ums | ✅ Required | ❌ / ⚠️ / ⚠️⚠️ |
-| Ticks | ✅ Required | ❌ / ⚠️ / ⚠️⚠️ |
-| Spiders (venomous info required) | ✅ Required | ❌ / ⚠️ / ⚠️⚠️ |
-| Wasps / Hornets | ✅ Required | ❌ / ⚠️ / ⚠️⚠️ |
-| Cockroaches (urban areas) | ✅ Required | ❌ / ⚠️ / ⚠️⚠️ |
-| Fleas / Lice | ✅ Required | ❌ / ⚠️ / ⚠️⚠️ |
-
-### Mandatory Fields Per Destination
-- [ ] Destination name & exact country/territory
-- [ ] Bug score (0–10, 0 = bug-free)
-- [ ] Best season (insect-wise, with monthly specifics)
-- [ ] Moderate-risk season
-- [ ] Season to absolutely avoid
-- [ ] 3+ independent sources (1+ official/institutional)
-- [ ] Last verified date
-- [ ] Visa requirements
-- [ ] Budget tier
-- [ ] Top 3 experiences (bug-free friendly!)
-- [ ] "Known unknowns" disclosure (what we can't guarantee)
-
-## 📝 Writing Tone & Standards
-
-- **Empathetic but evidence-based** — Understand entomophobia; don't dismiss fears
-- **Pro-ecosystem** — Target mosquito management, not species harm
-- **Sources directly cited** — Include URLs and access dates; no dead links
-- **Mark anomalies** — Single sighting, outbreak, or range expansion must be flagged
-- **Last verified date** — Always stamp every guide with date of last fact-check
-- **Climate disclaimers** — Note climate change impacts on insect ranges (see Iceland 2025)
-
-## 🚫 What NOT to Contribute
-
-- Destinations that have malaria/dengue without explicit risk labeling
-- "Natural mosquito repellent" plants as a solution (not reliable for phobia)
-- Unverified anecdotal advice ("I went once and had no problems")
-- Advice to harm or kill insect species
-- Unnuanced "100% guaranteed" claims without caveats
-
-## 🔄 Updating Existing Guides
-
-1. Open an Issue tagged `correction` or `update` before making major changes
-2. Fork the repo and create a feature branch
-3. Update the guide file with verified new information
-4. Update the `Last verified` date
-5. Note what changed in the PR description
-6. Submit PR for review
-
-## 🐛 Reporting Climate Anomalies
-
-Climate change is shifting insect ranges (see Iceland 2025). If you notice:
-- Mosquitoes/black flies in a previously "bug-free" destination
-- Unusual insect activity outside normal season
-- New insect species appearing in a region
-
-→ **Open an Issue** with label `climate-anomaly` and include:
-- Location, date, observation
-- Photo/evidence (if possible)
-- Source link (official reports preferred)
+> **How to contribute, verify, and add new destinations to our bug-phobic travel community.**
 
 ---
 
-*Last updated: July 2026*
+## 🤖 Getting Started
+
+1. ⭐ Star this repo to support the community
+2. 📖 Read the [Welcome Guide](00-welcome.md) — especially the Critical Corrections section
+3. 📅 Check the [Seasonal Safety Calendar](2-seasonal-safety-calendar.md) for your target month
+4. 📋 Review the [Submission Template](submission-template.md) to prepare your destination
+
+---
+
+## 📋 How to Submit a New Destination
+
+### Step 1: Research
+- Visit the destination or find at least **2 independent sources**
+- Complete ALL sections of the [Submission Template](submission-template.md)
+- For bug claims, cite specific sources (government reports, entomological databases, travel forums)
+
+### Step 2: Verify
+- Cross-reference your findings with the [Research Updates](3-research-updates.md) file
+- Check the [Seasonal Safety Calendar](2-seasonal-safety-calendar.md) for conflicts
+- Ensure no existing guide covers the same destination (avoid duplicates)
+
+### Step 3: Submit
+- **Option A:** Open a [GitHub Issue](https://github.com/zhub9006/bug-free-travel-guides/issues) using the issue templates provided
+- **Option B:** Create a new branch, add your guide, and submit a Pull Request
+- **Option C:** Comment with your completed Submission Template on an existing issue
+
+### Step 4: Verification
+- A community member will review your submission
+- They may ask for additional sources or clarification
+- Once approved, your guide will be merged and added to the README
+
+---
+
+## ✅ Quality Standards
+
+Every destination guide must include:
+
+| Required Element | Details |
+|---|---|
+| Bug Safety Score (0–10) | Based on 7-category assessment (mosquitoes, flies, spiders, ticks, wasps, cockroaches, other) |
+| Best Season | Month-by-month breakdown with specific reasons |
+| Geographic Explanation | WHY it's bug-free (volcanic soil? island isolation? arid climate?) |
+| At Least 2 Sources | Government reports, scientific papers, or multiple consistent travel sources |
+| Budget Estimate | $–$$$$ scale |
+| Flight Access | Direct flights from major hubs, if any |
+| Personal Experience | Optional but encouraged — helps other phobic travelers relate |
+
+---
+
+## 🚫 What NOT to Submit
+
+- **Destinations known for high bug density:** Belize, Costa Rica, Thailand, Brazil, Papua New Guinea, most of sub-Saharan Africa, Southeast Asian rainforests
+- **Previously debunked destinations:** Seychelles (mosquitoes confirmed), Iceland (now has mosquitoes, verify before including)
+- **Vague recommendations without evidence:** "It's fine" is not a valid bug safety claim
+- **Single unreliable sources:** One blog post without corroboration is not enough
+
+---
+
+## 🔄 Keeping Data Current
+
+- **Re-verify within 12 months** of original research
+- **Check [Research Updates](3-research-updates.md) for known corrections
+- **Check the [Seasonal Safety Calendar](2-seasonal-safety-calendar.md) for conflicts
+- **Report changes:** If you notice a destination's bug situation has changed, open an Issue immediately
+- **Climate change awareness:** Insect territories are shifting. Destinations that were safe 5 years ago may not be safe now.
+
+---
+
+## 💬 Community Guidelines
+
+- Be respectful of entomophobia — dont gatekeep or say "just get over your fear"
+- Share genuine experiences from fellow bug-phobic travelers
+- Disclose your own sensitivity level (mild aversion vs. severe phobia)
+- Always prioritize accuracy over enthusiasm — if a destination is questionable, say so
+
+---
+
+## 🏷️ Issue Labels
+
+| Label | Meaning |
+|---|---|
+| `research-needed` | Destination needs verified sources |
+| `update-required` | Existing guide needs seasonal update |
+| `community-verified` | Reviewed and approved by 2+ members |
+| `critical-correction` | Safety or accuracy issue — needs immediate attention |
+| `good-first-issue` | Great for new contributors |
+
+---
+
+> 📢 **Remember: Accuracy saves trips. If a destination is even slightly questionable, flag it rather than risk someones vacation being ruined by bugs!**
