@@ -1,67 +1,73 @@
-# 📝 Destination Submission Template
+# 📝 Submission Template — Add a New Destination
 
-Use this template to propose a new destination. Open a Pull Request to contribute.
-
----
-
-## Destination Identity
-
-- **Official name:**
-- **Country/Region:**
-- **Latitude/Longitude:**
-- **Elevation range (min–max m):**
-- **Source URLs/IDs:**
+> **Want to share a bug-free destination you've discovered? Use this template to submit a PR.**
 
 ---
 
-## Travel Logistics
+## Destination Info
 
-| Field | Value |
-|---|---|
-| Best season (insect-wise) | |
-| Moderate-risk season | |
-| Avoid season | |
-| Average high temp (best season) | |
-| Average rainfall (best season) | |
-| Budget tier ($ / $$ / $$$ / $$$$) | |
-| Common travel style (ski, beach, trek, city…) | |
-| Visa requirements | |
-| Flight accessibility (hub → direct?) | |
-
------
-
-## Bug Assessment Matrix
-
-| Insect/Vermin Category | Present? | Season Risk | Disease Risk | Notes |
-|---|---|---|---|---|
-| Mosquitoes (flying) | ❌ / ⚠️ / ⚠️⚠️ | | | |
-| Sandflies / No-See-Ums | ❌ / ⚠️ / ⚠️⚠️ | | | |
-| Ticks | ❌ / ⚠️ / ⚠️⚠️ | | | |
-| Spiders (venomous) | ❌ / ⚠️ / ⚠️⚠️ | | | |
-| Wasps / Hornets | ❌ / ⚠️ / ⚠️⚠️ | | | |
-| Cockroaches (urban) | ❌ / ⚠️ / ⚠️⚠️ | | | |
-| Fleas / Lice | ❌ / ⚠️ / ⚠️⚠️ | | | |
-| **Overall inline bug score (0–10, 0 = bug-free)** | | | | |
+- **Destination Name:** [e.g., Algarve, Portugal]
+- **Country/Region:** [e.g., Southern Portugal]
+- **Bug Score (0–10):** [e.g., 2/10]
+- **Best Season:** [e.g., April–October]
+- **Budget Level:** [$ / $$ / $$$ / $$$$]
+- **Airline Access:** [e.g., Direct from London, easily from major EU hubs]
 
 ---
 
-## Research Sources
+## Bug Assessment
 
-**Minimum 3 independent sources, at least 1 official/institutional.**
+### What bugs (if any) are present?
+[Describe any insects or arachnids found. Be specific: mosquitoes, sandflies, midges, spiders, etc.]
 
-- Source 1 — (government / tourism board / news site / trip report)
-- Source 2 — (URL or DOI if peer-reviewed)
-- Source 3 — (travel forum / blog / expat forum)
+### Why are bugs low/high here?
+[Geography, climate, altitude, vegetation, wind, etc.]
 
----
-
-## Notes
-
-- Keep tone informative and pro-ecosystem — minimize encounters, don't harm species
-- Cite URLs directly
-- Mark temporary anomalies (single sighting, outbreak) explicitly
-- Always add "Last verified" date
+### Worst-case scenario (if any)
+[Where do bugs cluster? When are they worst? What should people avoid?]
 
 ---
 
-*Template v1.0 — January 2026*
+## Best Time to Visit
+
+| Season | Bug Level | Notes |
+|---|---|---|
+| Winter (Dec–Feb) | ?/10 | [details] |
+| Spring (Mar–May) | ?/10 | [details] |
+| Summer (Jun–Aug) | ?/10 | [details] |
+| Autumn (Sep–Nov) | ?/10 | [details] |
+
+---
+
+## Pro Tips for Phobics
+
+1. [e.g., "Stay inland — coastal areas have more midges."]
+2. [e.g., "Avoid the southern coast in September."]
+3. [e.g., "Bring DEET even in dry season as insurance."]
+
+---
+
+## What NOT to Do
+
+- [e.g., "Don't visit the Alentejo in August — olive groves = midges."]
+- [e.g., "Don't stay near wetlands."]
+
+---
+
+## Sources
+
+- [Source 1 with link/date]
+- [Source 2 with link/date]
+
+---
+
+## ✍️ About the Contributor
+
+- **Username:** [GitHub handle]
+- **Visited:** [Date(s)]
+- **Duration:** [How long you stayed]
+- **Budget:** [Approximate cost]
+
+---
+
+> 💜 **Thank you for making this community better! Every verified addition helps a fellow bug-phobic traveler.**
