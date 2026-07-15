@@ -4,12 +4,13 @@
 
 ---
 
-## 🤖 Getting Started
+## 🐝 Getting Started
 
 1. ⭐ Star this repo to support the community
 2. 📖 Read the [Welcome Guide](00-welcome.md) — especially the Critical Corrections section
-3. 📅 Check the [Seasonal Safety Calendar](2-seasonal-safety-calendar.md) for your target month
+3. 📅 Check the [Seasonal Safety Calendar](seasonal-safety-calendar.md) for your target month
 4. 📋 Review the [Submission Template](submission-template.md) to prepare your destination
+5. 🔄 Review the [Research Updates](research-updates.md) for known corrections
 
 ---
 
@@ -21,8 +22,8 @@
 - For bug claims, cite specific sources (government reports, entomological databases, travel forums)
 
 ### Step 2: Verify
-- Cross-reference your findings with the [Research Updates](3-research-updates.md) file
-- Check the [Seasonal Safety Calendar](2-seasonal-safety-calendar.md) for conflicts
+- Cross-reference your findings with the [Research Updates](research-updates.md) file
+- Check the [Seasonal Safety Calendar](seasonal-safety-calendar.md) for conflicts
 - Ensure no existing guide covers the same destination (avoid duplicates)
 
 ### Step 3: Submit
@@ -65,8 +66,8 @@ Every destination guide must include:
 ## 🔄 Keeping Data Current
 
 - **Re-verify within 12 months** of original research
-- **Check [Research Updates](3-research-updates.md) for known corrections
-- **Check the [Seasonal Safety Calendar](2-seasonal-safety-calendar.md) for conflicts
+- **Check [Research Updates](research-updates.md) for known corrections
+- **Check the [Seasonal Safety Calendar](seasonal-safety-calendar.md) for conflicts
 - **Report changes:** If you notice a destination's bug situation has changed, open an Issue immediately
 - **Climate change awareness:** Insect territories are shifting. Destinations that were safe 5 years ago may not be safe now.
 
@@ -74,10 +75,10 @@ Every destination guide must include:
 
 ## 💬 Community Guidelines
 
-- Be respectful of entomophobia — dont gatekeep or say "just get over your fear"
+- Be respectful of entomophobia — don't gatekeep or say "just get over your fear"
 - Share genuine experiences from fellow bug-phobic travelers
 - Disclose your own sensitivity level (mild aversion vs. severe phobia)
-- Always prioritize accuracy over enthusiasm — if a destination is questionable, say so
+- Always prioritize accuracy over enthusiasm — if a destination is even slightly questionable, say so
 
 ---
 
@@ -93,4 +94,6 @@ Every destination guide must include:
 
 ---
 
-> 📢 **Remember: Accuracy saves trips. If a destination is even slightly questionable, flag it rather than risk someones vacation being ruined by bugs!**
+> 📢 **Remember: Accuracy saves trips. If a destination is even slightly questionable, flag it rather than risk someone's vacation being ruined by bugs!**
+
+*Last updated: July 2026*
