@@ -21,21 +21,21 @@
 1. **New here?** → Read our [Community Welcome Guide](guides/00-welcome.md)
 2. **Planning a trip?** → Browse the [Destination Quick Reference](#-destination-quick-reference) below
 3. **Deep-dive research?** → Check our research guides:
-   - [First Destination Research Guide](guides/1-first-destination-research.md) — 14 deep-dive destinations with full bug assessments, seasonal data & climate warnings ✨ NEW!
+   - [First Destination Research Guide](guides/1-first-destination-research.md) — 14 deep-dive destinations with full bug assessments, seasonal data & climate warnings
    - [Community Research Guide](guides/4-community-research-guide.md) — Community-researched destinations with seasonal safety data
    - [Caribbean Bug-Free Picks](guides/5-bug-free-island-destinations.md) — Montserrat & Curaçao deep-dives
    - [US Bug-Free Destinations](guides/6-us-bug-free-destinations.md) — US deserts, Hawaii, parks
    - [European & S. Hemisphere Guide](guides/7-european-bug-free-spots.md) — Islands, cities, countries
-   - **[Web-Research Destination Guide](guides/8-additional-research-findings.md)** — Fresh source-based research with science of bug-free travel & monthly seasonal calendar ✨ NEW!
+   - **[Additional Research Findings](guides/8-additional-research-findings.md)** — Fresh source-based research with science of bug-free travel & monthly seasonal calendar
+   - **[🆕 Web-Research Destination Guide](guides/9-web-research-destination-guide.md)** — Source-based deep-dives 🏜️🗽🏔️🏝️🗺️ + seasonal calendar, DEET checklist, false-destination warnings ✨ **BRAND NEW!**
    - [Monthly digest?](guides/8-newsletter.md)
 4. **When to go?** → Check the [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md) — month-by-month planner
 5. **Want to contribute?** → Open a [GitHub Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) or use the [Submission Template](guides/submission-template.md) → submit a PR!
 6. **Critical updates?** → Read our [Research Updates & Corrections](guides/research-updates.md)
-7. **Monthly digest?** → Read the [Community Newsletter](guides/8-newsletter.md)
 
 ---
 
-## 🏆 Destination Quick Reference
+## 🎯 Destination Quick Reference
 
 > **All destinations ranked by bug safety (0 = zero bugs, 10 = heavy infestation). Click for deep-dive guides.**
 
@@ -54,9 +54,9 @@
 
 | Destination | Bug Score | Best Season | Budget | Key Reason |
 |---|---|---|---|---|
-| 🥝 **New Caledonia** | 1.5/10 | May–Oct | $$–$$$$ | Volcanic soil + endemic plant repellents + isolation |
+| 🐬 **New Caledonia** | 1.5/10 | May–Oct | $$–$$$$ | Volcanic soil + endemic plant repellents + isolation |
 | 🏜️ **UAE/Oman Desert** | 1/10 | Oct–Apr | $$–$$$ | Extreme heat; near-zero standing water |
-| 🌺 **Hawaii (Kona coast)** | 2/10 | Apr–Oct | $$–$$$ | Acidic land; ocean breeze; little standing water |
+| 🌴 **Hawaii (Kona coast)** | 2/10 | Apr–Oct | $$–$$$ | Acidic land; ocean breeze; little standing water |
 | 🏝️ **Maldives (resorts)** | 2/10 | Dec–Apr | $$$$ | Eco-controlled private islands |
 | 🏝️ **Curaçao** ⭐ | 2/10 ⭐ | Dec–Apr | $$–$$$ | Hyper-arid; trade winds; outside hurricane belt |
 
@@ -64,8 +64,8 @@
 
 | Destination | Bug Score | Best Season | Budget | Key Insight |
 |---|---|---|---|---|
-| 🌇 **UK/EU Cities** | 0/10 ⭐ | Year-round | Any | Cool rainy climate prevents breeding |
-| 🌴 **French Polynesia (Society Is.)** | 3/10 | May–Oct | $$$$ | Island isolation; resort pest control |
+| 🌍 **UK/EU Cities** | 0/10 ⭐ | Year-round | Any | Cool rainy climate prevents breeding |
+| 🌊 **French Polynesia (Society Is.)** | 3/10 | May–Oct | $$$$ | Island isolation; resort pest control |
 | 🇮🇸 **Iceland** ⚠️ | ~1–2/10 | Jun–Aug | $$$ | Verifying annually; mosquitoes found 2025 |
 | 🏝️ **Maldives (local islands)** | 4/10 | Dec–Apr | $$–$$$$ | Resort-controlled safe; local islands risky |
 
@@ -79,6 +79,32 @@
 
 ---
 
+## 📑 What's New: Web-Research Destination Guide (Guide 9)
+
+> 🆕 **Just added!** Our most comprehensive research document featuring scientific analysis of why destinations are bug-free:
+>
+> | Section | Contents |
+> |---|---|
+> | 🔬 **Science of Bug-Free Travel** | 5 mechanisms: temperature kill zones, aridity barriers, island isolation, resort management, marine climate |
+> | 🏜️ **Atacama Desert** | Hyper-arid near-zero insect zone — Chile |
+> | 🏙️ **UAE / Oman** | Extreme heat zero-bug zone |
+> | 🌺 **Hawaii (Kona Coast)** | Ocean breeze bug refuge |
+> | 🏝️ **New Caledonia** | Triple-barrier volcanic island — no comparable tropical destination is closer to zero |
+> | 🌊 **French Polynesia Society Islands** | Managed tropical comfort |
+> | 🏝️ **Maldives (Resorts Only)** | Eco-controlled bug-free paradise (⚠️ local islands NOT safe) |
+> | 🌊 **Curaçao** | Only truly dry Caribbean island |
+> | 🌋 **Montserrat** | Volcanic drainage = mosquito-free Caribbean |
+> | 🌴 **Canary Islands** | Arid volcanic Atlantic escape |
+> | 🏔️ **Svalbard & Arctic Norway** | Polar insect-exclusion zone |
+> | 🏘️ **UK & EU Cities** | Cool climate natural suppression — safest city-break option |
+> | 🏔️ **Patagonia Winter** | The seasonal trap (Jun–Aug only! Nov–Mar = NO GO) |
+> | 📅 **Seasonal Safety Calendar** | Month-by-month best/avoid for every destination |
+> | 🛡️ **DEET Insurance & Packing Checklist** | Never travel without it! |
+> | 🚫 **False Bug-Free Destinations** | Seychelles, Bali, Amazon, etc. — AVOID if phobic |
+> | ✍️ **Contribution Protocol** | Verification steps and bug scoring for community submissions |
+
+---
+
 ## 📅 Seasonal Cheat Sheet
 
 | Season | Best Destinations | Avoid |
@@ -86,7 +112,7 @@
 | **Jan–Feb** | Antarctica, Madeira, Hokkaido, Atacama, Patagonia WINTER, Montserrat ⭐, Curaçao ⭐, UK Cities | Africa wet season, Seychelles, French Polynesia |
 | **Mar–Apr** | Atacama spring, Madeira, Hokkaido end, New Caledonia shoulder, UK Cities | Seychelles, Patagonia MELTDOWN |
 | **May–Jun** | New Caledonia dry season, Faroe Islands, Atacama, UAE/Oman, Curaçao start | Patagonia MELTDOWN, S.E. Asia |
-| **Jul–Aug** | Iceland 🔴verify, Madeira, Faroe Islands, New Caledonia, Maldives resorts, Kona Hawaii | Patagonia MELTDOWN, Africa, S.E. Asia |
+| **Jul–Aug** | Iceland 🔄verify, Madeira, Faroe Islands, New Caledonia, Maldives resorts, Kona Hawaii | Patagonia MELTDOWN, Africa, S.E. Asia |
 | **Sep–Oct** | New Caledonia, French Polynesia early dry, Atacama autumn, UAE/Oman, Montserrat ⭐ peak dry 🏝️ | Seychelles wet start, French Polynesia late wet |
 | **Nov–Dec** | Atacama late, UAE/Oman, Madeira, Montserrat ⭐, Curaçao ⭐, UK Cities | French Polynesia wet, Seychelles peak |
 | **Dec–Apr** | **BEST CARIBBEAN WINDOW:** Montserrat ⭐ & Curaçao ⭐ (peak dry season!) | Seychelles, most S.E. Asia |
@@ -110,7 +136,7 @@
 
 ---
 
-## 🗺️ Bonus: UK & EU Cities — The Zero-Bug Urban Escape
+## 📺 Bonus: UK & EU Cities — The Zero-Bug Urban Escape
 
 > Cool, rainy climate naturally prevents mosquito breeding. Visit **any month**, any city: London, Paris, Rome, Barcelona, Amsterdam, Copenhagen, Edinburgh, Prague, Vienna, Dubrovnik, Stockholm, Helsinki, Dublin. Zero stress. Perfect for severe phobia.
 
