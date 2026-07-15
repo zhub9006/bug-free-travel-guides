@@ -1,44 +1,80 @@
-# 🐞🚫 Welcome to the Bug-Free Travel Community!
+# 👋 Community Welcome Guide
 
-> **You're among friends here.** Everyone shares the same thing: a deep terror of bugs that makes tropical paradises feel like horror movies. You are NOT alone.
+> **Welcome, bug-phobic traveler! You've found your sanctuary.** ✨🐛🚫
 
----
-
-## 💜 Why This Exists
-
-Because "just go to Hawaii" doesn't work when your hotel room has spiders. Because "don't worry about mosquitoes" is the most unhelpful sentence in the English language. Because you deserve to see the world without stress, panic, or ruined sunsets.
-
-This community exists to find the **actual** bug-free destinations, share **real** seasonal data, and help every member travel with confidence.
+This is a community-built travel guide for people who are terrified of bugs. No mosquitoes, no spiders, no ticks, no creepy-crawlies — just peaceful, bite-free vacations.
 
 ---
 
-## 🏃 How to Get Started
+## 🎯 What Is This Community?
 
-1. **Read our [Destination Research Guide](1-first-destination-research.md)** — your starting point for safe travel
-2. **Check the [Seasonal Calendar](seasonal-safety-calendar.md)** — when to go where
-3. **Explore [Warm Weather Picks](9-warm-bug-free-destinations.md)** — sunshine + zero bugs!
-4. **Open an Issue** to ask questions or request a destination
-5. **Submit a PR** with your own tips or destination findings
-6. **Join our Discussions** for trip planning and support
+- A **safe space** for bug-phobic travelers to share destinations where insects are absent or extremely rare
+- **Research-driven** guides with verified seasonal safety data
+- **Community-powered** — anyone can contribute a destination guide
+- **Constantly updated** — we monitor new research and climate changes that affect bug populations
 
 ---
 
-## 🌍 Our Mantra
+## 🚀 How to Get Started
 
-> *"The world is big, beautiful, and FULL of places where bugs are the exception, not the rule. Let's find them together."*
+### 1. Browse Destination Guides
+- Start with our **[First Destination Research Guide](0-first-destination-research-guide.md)** — 18 destinations ranked by bug safety with seasonal calendars
+- Check the **[Seasonal Safety Calendar](#seasonal-safety-calendar)** — month-by-month planner for where to go and when
+- Use the **[Quick Reference Table](#)** — bug scores, budgets, and best seasons at a glance
+
+### 2. Plan Your Trip
+- Choose a destination from our ranked list
+- Check the **best season to visit** (avoiding bug season is everything!)
+- Pack your **DEET backup** — even "bug-free" zones get occasional surprises
+- Read the **cautions** for each destination
+
+### 3. Contribute Your Own Guide
+- Download our **[Submission Template](submission-template.md)**
+- Fill in your destination details
+- Submit a **Pull Request** — we'll verify and publish it!
+- Include **at least 2 reliable sources** and **your personal tips**
 
 ---
 
-## ⚠️ Critical Corrections (Read First!)
+## 💡 Essential Bug-Free Travel Tips
 
-- **Seychelles is NOT mosquito-free** — it has mosquitoes, especially Dec–Feb (rainy season)
-- **Iceland is no longer 100% mosquito-free** — *Culiseta annulata* discovered Oct 2025. Still best warm option but **verify before booking**
-- **Antarctica is now the ONLY landmass with a full mosquito-free guarantee**
-- **Patagonia = June–August ONLY** (Nov–Mar = sandfly hell, DO NOT visit if phobic)
-- **Montserrat & Curaçao** are the only nearly-zero-bug Caribbean destinations
+1. **Elevation is your friend** — Go above 1,500m for fewer bugs
+2. **Cold or dry beats hot and humid** — Arctic/sub-Arctic or desert climates are safest
+3. **Coastal breezes sweep mosquitoes away** — Stay near the coast, avoid stagnant water
+4. **Pack DEET as insurance** — Even in the safest zones, a light spray adds peace of mind
+5. **Wear light colors at dawn/dusk** — Mosquitoes are most active then
+6. **Verify before booking** — Mosquitoes are expanding due to climate change. Always check recent data!
 
 ---
 
-> 💜 **You belong here. Now let's plan that trip.**
+## ⚠️ Critical Updates (READ FIRST!)
 
-*Last updated: July 2026*
+- ❗ **Iceland is NO LONGER 100% mosquito-free** — *Culiseta annulata* detected Oct 2025
+- ❗ **Antarctica is now the ONLY guaranteed mosquito-free landmass**
+- ❗ **Patagonia = June–August ONLY** (Nov–Mar = sandfly hell!)
+- ❗ **Seychelles is NOT bug-free** — heavy mosquitoes Dec–Feb
+- ❗ **Montserrat & Curaçao** are the only nearly-zero-bug Caribbean destinations
+
+---
+
+## 🤝 Community Guidelines
+
+- **Be kind** — This is a support community for people with genuine phobias
+- **Be accurate** — Verify your claims with sources; don't share unverified info
+- **Be proactive** — Report bug sightings, climate anomalies, and new discoveries
+- **Help others** — Answer questions in Discussions; share your trip experiences
+
+---
+
+## 📬 Stay Connected
+
+- **Watch this repo** to get notified about new guides and updates
+- **Open a Discussion** for trip planning questions
+- **Submit an Issue** for bug reports, climate alerts, or destination requests
+- **Star the repo** if it helped you find fear-free travels!
+
+---
+
+> **🐛🟥✨ Bug-free travels for bug-phobic travelers. You deserve vacations without the stress!**
+
+*Thanks for joining the community. Now go explore the world — fearlessly!*
