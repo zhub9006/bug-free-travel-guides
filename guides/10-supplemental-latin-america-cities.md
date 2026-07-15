@@ -1,6 +1,6 @@
 # 🌎 Supplemental Latin America & City Escapes — Puebla, Chile & More
 
-> **Published: July 2026** — Additional destination deep-dives that supplement the main guides with research from Cheapism, MosquitoSquad, Explore.com and community findings. Covers Puebla, Mexico; Chile country-wide; and U.S. city-specific bug-free zones.
+> **Published: July 2026** — Additional destination deep-dives supplementing the main guides with research from Cheapism, MosquitoSquad, Explore.com and community findings. Covers Puebla, Chile country-wide, and U.S. city-specific bug-free zones.
 
 ---
 
@@ -29,18 +29,17 @@
 | **Avoid** | **Patagonia (Southern Chile) Nov – Mar** (sandfly hell!) Visit Patagonia ONLY in June–August. |
 | **Budget** | $$–$$$ |
 | **Top Spots** | Atacama Desert, San Pedro de Atacama, Valparaíso, Easter Island (Isla de Pascua) — year-round, Torres del Paine ONLY in Jun–Aug winter |
-| **Travel Tip** | Northern Chile (Atacama) is vastly better than hiking in the south in summer. If you want a Chilean adventure, stick to the north & central coast. Easter Island is one of the most isolated places on Earth and virtually mosquito-free. |
+| **Travel Tip** | Northern Chile (Atacama) is vastly better than hiking in the south in summer. Easter Island is one of the most isolated places on Earth and virtually mosquito-free. |
 
 ---
 
-## 🏝️ Featured City Escape: UK & EU Cities — Zero-Bug Urban Escape
+## 🏙️ Featured City Escape: UK & EU Cities — Zero-Bug Urban Escape
 
 > Cool, rainy climate naturally prevents mosquito breeding. Visit **any month, any city**:
 > **London**, Paris, Rome, Barcelona, Amsterdam, Copenhagen, Edinburgh, Prague, Vienna, **Dubrovnik**, Stockholm, Helsinki, Dublin, Lisbon, **Bath**, **Oxford**, **Cambridge**, **Bristol**.
 >
 > **Zero stress. Perfect for severe phobia.** Just travel and enjoy!
->
-> **Why it works:** Concrete prevents standing water, cool temperatures prevent breeding, urban pest control, drainage infrastructure. Even in summer, European cities are largely bug-free because the cool, rainy climate naturally prevents mosquito larvae from developing.
+> Why it works: Concrete prevents standing water, cool temperatures prevent breeding, urban pest control, drainage infrastructure. Even in summer, European cities are largely bug-free because cool rainy climate naturally prevents mosquito larvae.
 
 ---
 
@@ -54,7 +53,7 @@
 | **Avoid** | **July – November** (wet season + hurricane risk) |
 | **Budget** | $–$$ |
 | **Top Spots** | Western coastal strip (Brades, Little Bay), Centre Hills, Rendezvous Bay |
-| **Travel Tip** | Eyre Estate & volcanic mud baths area are on the drier southern coast. Constant volcanic activity since 1995 reshaped the island — ash deposits create porous, well-draining soil. |
+| **Travel Tip** | Eyre Estate & volcanic mud baths area are on the drier southern coast. Venolanic ash deposits create porous, well-draining soil. |
 
 ### 🌊 Curaçao — Dry Caribbean with Rare Mosquitoes
 | Attribute | Detail |
@@ -64,7 +63,7 @@
 | **Avoid** | **July – September** (wettest + hottest) |
 | **Budget** | $$–$$$ |
 | **Top Spots** | Palm Beach, Eagle Beach, Christoffel NP, Willemstad (Punda/Otrobanda) |
-| **Travel Tip** | Hyper-arid interior + constant easterly trade winds + outside hurricane belt. This is the Caribbean's most reliably bug-free destination. |
+| **Travel Tip** | Hyper-arid interior + constant easterly trade winds + outside hurricane belt = most reliably bug-free Caribbean destination. |
 
 ---
 
@@ -75,7 +74,7 @@
 | Sedona, AZ | Desert | 0/10 | Mar–May, Sep–Nov | $$–$$$ | Cathedral Rock, Devil's Bridge, Oak Creek Canyon |
 | Big Bend Ranch, TX | Remote Desert | 0/10 | Oct–Apr | $ | Mariscal Canyon, Santa Elena Canyon |
 | Las Vegas, NV | Desert/City | 0/10 | Oct–Apr | $$ | Red Rock Canyon, Valley of Fire, Hoover Dam |
-| Phoenix & Scottsdale | Desert Desert | 0–1/10 | Oct–Apr | $–$$ | Camelback Mountain, Desert Botanical Garden |
+| Phoenix & Scottsdale | Desert | 0–1/10 | Oct–Apr | $–$$ | Camelback Mountain, Desert Botanical Garden |
 | Portland, OR | Pacific NW City | 0–1/10 | Jun–Sep | $$ | Forest Park, Columbia River Gorge, Mt. Hood |
 | Chicago, IL | Urban | 1/10 | May–Jun, Sep–Oct | $$–$$$ | Millennium Park, Lakefront Trail, Navy Pier |
 
@@ -98,14 +97,14 @@ Understanding WHY destinations are bug-free helps you evaluate ANY place:
 | # | Factor | Mechanism | Best Examples |
 |---|---|---|---|
 | 1 | **Extreme Cold** | Below -10°C, larvae die. Short summer isn't long enough for breeding. | Antarctica, Iceland, Faroe Islands, Hokkaido, Svalbard, Scotland |
-| 2 | **Extreme Dryness** | No standing water = no breeding. Desert = insect dead zone. | Atacama, UAE/Oman, Sedona, Big Bend, Las Vegas |
+| 2 | **Extreme Dryness** | No standing water = no breeding. Desert = insect dead zone. (<100mm/year rainfall) | Atacama, UAE/Oman, Sedona, Big Bend, Las Vegas |
 | 3 | **High Elevation** | >2,500m = oxygen/fuel shortage + cooler air = fewer insects. | Tibet, Colorado, Andes, Puebla, Atacama |
-| 4 | **Oceanic Wind** | >15 km/h winds = mosquitoes can't fly/land. | Faroe Islands, Kona, Curaçao, Montserrat |
-| 5 | **Island Isolation** | Far from mainland source populations. | New Caledonia, Maldives, Galápagos, Marquesas |
+| 4 | **Oceanic Wind** | >15 km/h winds = mosquitoes can't fly/land. Coastal breezes clear strays. | Faroe Islands, Kona, Curaçao, Montserrat |
+| 5 | **Island Isolation** | Far from mainland source populations. No colonization pathway. | New Caledonia, Maldives, Galápagos, Marquesas |
 
 ---
 
-## 🎯 The 5 Danger Factors (Avoid These!)
+## 🎯 The 5 Danger Factors (High Bug Zones)
 
 | # | Factor | Why it creates mosquitoes | Examples |
 |---|---|---|---|
@@ -128,8 +127,8 @@ Understanding WHY destinations are bug-free helps you evaluate ANY place:
 | **Jun** | Patagonia WINTER (only safe month starts), Atacama | Patagonia before Jun, all tropical wet regions |
 | **Jul** | Patagonia winter, Easter Island | Patagonia, tropical wet regions |
 | **Aug** | Patagonia winter, Easter Island | Patagonia last month, tropical wet |
-| **Sep** | Atacama autumn, Easter Island | Patagonia spring, Pacific islands |
-| **Oct** | Atacama autumn, Easter Island | PatagoniaBEST ends, S.E. Asia |
+| **Sep** | Atacama autumn, Easter Island | Patagonia spring, Pacific islands wet |
+| **Oct** | Atacama autumn, Easter Island | Patagonia BEST ends, S.E. Asia |
 | **Nov** | Chile coast summer starts | Patagonia WORST, S.E. Asia peak |
 | **Dec** | Chile coast summer, Easter Island | Patagonia WORST, S.E. Asia, Africa wet |
 
@@ -139,4 +138,4 @@ Understanding WHY destinations are bug-free helps you evaluate ANY place:
 
 > **🌎 Bug-free travels for bug-phobic travelers. From Mexico's highlands to Chile's deserts — range without fear of tiny crawlies!**
 
-*Last updated: July 2026 · Research from Cheapism, MosquitoSquad, Explore.com*
+*Last updated: July 2026 · Research from Cheapism, MosquitoSquad, Explore.com, community cross-validation*
