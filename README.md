@@ -2,7 +2,7 @@
 
 > **A community for bug-phobic travelers: safe, insect-free travel destinations, seasonal guides, and tips so creepy-crawlies never ruin a vacation.**
 >
-> **Are you terrified of bugs? Do mosquitoes, spiders, or ticks turn your dream vacation into a nightmare? You're not alone. Welcome to the sanctuary.** ✨🕷️🚫
+> **Are you terrified of bugs? Do mosquitoes, spiders, or ticks turn your dream vacation into a nightmare? You're not alone. Welcome to the sanctuary.** ✨🕵️🚫
 
 ---
 
@@ -22,16 +22,17 @@
 2. **Scared of specifics?** → Jump to the [Quick-Reference Guide](guides/2-bug-free-destinations-quick-reference.md) — destinations at a glance with bug scores, best months, and budgets ⭐ NEW!
 3. **Dreaming of beaches?** → Check [Tropical & Beach Destinations Deep-Dive](guides/3-bug-free-tropical-beach-destinations.md) — 8 safe tropical spots + forbidden destinations list ⭐ NEW!
 4. **Want warmth without bugs?** → Check [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) — Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more! ⭐ NEW!
-5. **Deep-dive research?** → Read the main destination guide:
-   - [First Destination Research Guide](guides/1-first-destination-research.md) — 14 deep-dive destinations with full bug assessments, seasonal data & climate warnings ✨ NEW!
+5. **Deep-dive research?** → Read the main destination guides:
+   - [Web-Research Destination Guide](guides/14-web-research-destination-guide.md) — **15 comprehensive destinations** with full bug assessments, seasonal data & climate warnings ✨ NEW!
+   - [First Destination Research Guide](guides/1-first-destination-research.md) — 14 deep-dive destinations with bug assessments & seasonal data
    - [Community Research Guide](guides/4-community-research-guide.md) — Community-researched destinations with seasonal safety data
    - [Caribbean Bug-Free Picks](guides/5-bug-free-island-destinations.md) — Montserrat & Curaçao deep-dives
    - [US Bug-Free Destinations](guides/6-us-bug-free-destinations.md) — US deserts, Hawaii, parks
    - [European & S. Hemisphere Guide](guides/7-european-bug-free-spots.md) — Islands, cities, countries
-   - [Web-Research Destination Guide](guides/8-additional-research-findings.md) — Fresh source-based research with science & monthly calendar ✨ NEW!
+   - [Web-Research Findings](guides/8-additional-research-findings.md) — 16-source validation report with environmental science & monthly calendar ✨ NEW!
    - [Monthly digest?](guides/8-newsletter.md)
-   - 🛸 [Bug-Free Destinations Yet to Research](guides/14-community-research-findings.md) — New Zealand, Norway/Scandinavia, UK/EU cities with full seasonal data
-   - 🛸 [⚠️ Destinations to AVOID](guides/13-destinations-to-avoid.md) — Ranked bug-infested hotspots with severity scores & safe alternatives
+   - 📋 [Bug-Free Destinations Yet to Research](guides/14-community-research-findings.md) — New Zealand, Norway/Scandinavia, UK/EU cities with full seasonal data
+   - 📋 [⚠️ Destinations to AVOID](guides/13-destinations-to-avoid.md) — Ranked bug-infested hotspots with severity scores & safe alternatives
 6. **When to go?** → Check the [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md) — month-by-month planner
 7. **Want to contribute?** → Open a [GitHub Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) or use the [Submission Template](guides/submission-template.md) → submit a PR!
 8. **Critical updates?** → Read [Research Updates & Corrections](guides/research-updates.md)
@@ -53,7 +54,7 @@
 | 🏝️ **Virgin Islands (US)** | 0/10 ✅ | Dec–Apr | $$–$$$ | Ocean breeze; no wetlands; US territory |
 | 🌋 **Madeira (main)** | 0.5/10 | Dec–Mar | $$ | Volcanic terrain; dry airflow |
 | 🌋 **Montserrat** ⭐ | 0.5/10 ⭐ | Dec–Apr | $–$$ | Volcanic soil drains water; mountain terrain |
-| 🏔️ **Faroe Islands** | 0/10 ✅ | May–Sep | $$–$$$ | Wind fortress; bare granite; zero wetlands |
+| 🌊 **Faroe Islands** | 0/10 ✅ | May–Sep | $$–$$$ | Wind fortress; bare granite; zero wetlands |
 | ❄️ **Hokkaido (Winter)** | 0/10 ✅ | Dec–Mar | $$–$$$ | Snow kills all larvae; subarctic cold |
 
 ### 🥈 Practically Zero-Bug (1–2/10)
@@ -66,10 +67,10 @@
 | 🏜️ **Dubai/UAE** | 1/10 | Oct–Apr | $$–$$$ | Extreme heat; near-zero standing water |
 | 🏜️ **Oman** | 1/10 | Oct–Apr | $$–$$$ | Arabian Desert; dry air; wadi drainage |
 | 🌋 **New Caledonia** | 1.5/10 | May–Oct | $$–$$$$ | Volcanic isolation + endemic plant repellents |
-| 🏖️ **Maldives (resorts)** | 2/10 | Dec–Apr | $$$$ | Eco-controlled private islands |
+| 🏝️ **Maldives (resorts)** | 2/10 | Dec–Apr | $$$$ | Eco-controlled private islands |
 | 🌊 **Curaçao** ⭐ | 2/10 ⭐ | Dec–Apr | $$–$$$ | Hyper-arid; trade winds; outside hurricane belt |
 | 🌊 **Hawaii (Kona coast)** | 2/10 | Apr–Oct | $$–$$$ | Acidic land; ocean breeze; little standing water |
-| 🏖️ **Venice, Italy** | 1/10 | Oct–Mar | $$–$$$ | Saltwater lagoon; wasp-free Oct–Mar |
+| 🏛️ **Venice, Italy** | 1/10 | Oct–Mar | $$–$$$ | Saltwater lagoon; wasp-free Oct–Mar |
 
 ### 🥉 Low-Bug, Manageable (3–4/10) — Pack DEET Insurance
 
@@ -78,7 +79,7 @@
 | 🌴 **French Polynesia (Society Is.)** | 3/10 | May–Oct | $$$$ | Island isolation; resort pest control |
 | 🌊 **Réunion** | 3/10 | May–Sep | $$–$$$ | Volcanic escarpment creates dry zones |
 
-### 🏙️ UK & EU Cities — The Zero-Bug Urban Escape 🇬🇧🇫🇷🇩🇪🇪🇸
+### 🏙️ UK & EU Cities — The Zero-Bug Urban Escape 🇬🇧🇪🇺🇳🇱🇪🇸🇰🇷🇩🇰🇮🇪🇵🇱🇦🇹🇭🇷🇸🇪🇫🇮🇮🇪
 
 > Cool, rainy climate prevents mosquito breeding. Visit **any month**, any city: London, Paris, Rome, Barcelona, Amsterdam, Copenhagen, Edinburgh, Prague, Vienna, Dubrovnik, Stockholm, Helsinki, Dublin. Zero stress. Perfect for severe phobia.
 
@@ -86,12 +87,12 @@
 
 | Destination | Bug Score | Why to Avoid |
 |---|---|---|
-| Patagonia (Nov–Mar) | 10/10 | Sandfly hell — DO NOT VISIT in summer |
-| Bali, Indonesia | 9/10 | Extreme density; dengue everywhere |
-| Seychelles | 8/10 | Mosquitoes year-round, peak Dec–Feb |
-| Belize | 8/10 | Highest mosquito density in Central America |
-| Thailand | 8/10 | Mosquito heaven |
-| Jamaica | 7/10 | High mosquitoes year-round |
+| 🇵🇪 Patagonia (Nov–Mar) | 10/10 | Sandfly hell — DO NOT VISIT in summer |
+| 🇮🇩 Bali, Indonesia | 9/10 | Extreme density; dengue everywhere |
+| 🇸🇨 Seychelles | 8/10 | Mosquitoes year-round, peak Dec–Feb; Chikungunya 2026 |
+| 🇧🇿 Belize | 8/10 | Highest mosquito density in Central America |
+| 🇹🇭 Thailand | 8/10 | Mosquito heaven |
+| 🇯🇲 Jamaica | 7/10 | High mosquitoes year-round |
 | Most of Africa, S.E. Asia, Amazon | 6–9/10 | High mosquito density; malaria/dengue risk |
 
 ---
@@ -124,7 +125,7 @@
 |---|---|
 | 📖 **Full Guide Index** | [guides/1-first-destination-research.md](guides/1-first-destination-research.md) |
 | ⚡ **Quick-Reference Table** | [guides/2-bug-free-destinations-quick-reference.md](guides/2-bug-free-destinations-quick-reference.md) |
-| 🏖️ **Tropical Beach Deep-Dive** | [guides/3-bug-free-tropical-beach-destinations.md](guides/3-bug-free-tropical-beach-destinations.md) |
+| 🏝️ **Tropical Beach Deep-Dive** | [guides/3-bug-free-tropical-beach-destinations.md](guides/3-bug-free-tropical-beach-destinations.md) |
 | 🌡️ **Warm & Bug-Free Guide** | [guides/9-warm-bug-free-destinations.md](guides/9-warm-bug-free-destinations.md) |
 | 📅 **Month-by-Month Planner** | [guides/seasonal-safety-calendar.md](guides/seasonal-safety-calendar.md) |
 | 🚫 **Red Flag Destinations** | [guides/13-destinations-to-avoid.md](guides/13-destinations-to-avoid.md) |
@@ -132,7 +133,7 @@
 | 📋 **Quality Standards** | [guides/contributing.md](guides/contributing.md) |
 | 🔬 **Research Updates & Source Validation** | [guides/research-updates.md](guides/research-updates.md) |
 | 🌡️ **Climate Anomaly Reports** | Open an Issue with label `climate-anomaly` |
-| 🕷️ **Report Bug Sightings** | Open an Issue with label `bug-report` |
+| 🕵️ **Report Bug Sightings** | Open an Issue with label `bug-report` |
 | 🌍 **Request a Destination** | Open an Issue with label `destination-request` |
 | 💬 **Community Discussion** | [GitHub Discussions](https://github.com/zhub9006/bug-free-travel-guides/discussions) |
 
@@ -154,21 +155,56 @@
 | 8 | [Community Newsletter](guides/8-newsletter.md) | Monthly digest of new research and community updates |
 | 9 | [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) | Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more |
 | 13 | [⚠️ Destinations to AVOID](guides/13-destinations-to-avoid.md) | Ranked bug-infested hotspots with severity scores & safe alternatives |
-| 14 | [Unverified Destinations Research](guides/14-community-research-findings.md) | New Zealand, Norway/Scandinavia, UK/EU cities — verified bug profiles |
-| — | [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md) | Month-by-month planner for all destinations |
-| — | [Research Updates](guides/research-updates.md) | Critical corrections, climate watch list, verification log |
-| — | [Contributing Guide](guides/contributing.md) | How to submit, verify, and publish new destination guides |
-| — | [Submission Template](guides/submission-template.md) | Template for proposing a new destination |
+| 14 | [Unverified Destinations — Community Research Queue](guides/14-community-research-findings.md) | New Zealand, Norway/Scandinavia, UK/EU cities with seasonal data |
+| **14** | **[🔬 Web-Research Destination Guide](guides/14-web-research-destination-guide.md)** | **15 destinations deep-dived with seasonal safety data & source validation ✨ NEW!** |
 
 ---
 
-## 🏷️ Labels
+## 📢 Contributing
 
-| Label | Meaning |
-|---|---|
-| `destination-request` | Community research needed for a specific place |
-| `bug-report` | Unexpected insect sighting at "safe" destination |
-| `climate-anomaly` | Climate change shifts insect range? |
-| `critical-correction` | Safety or accuracy issue — needs urgent attention |
-| `community-verified` | Reviewed and approved by 2+ members |
-| `warm-destination` | Warm-weather-specific destination guide |
+We welcome contributions from all bug-phobic travelers! Here's how to get started:
+
+1. ⭐ **Star this repo** to support the community
+2. 📖 **Read the [Welcome Guide](guides/00-welcome.md)** — especially the Critical Corrections section
+3. 📅 **Check the [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md)** for your target month
+4. 📋 **Review the [Submission Template](guides/submission-template.md)** to prepare your destination
+5. 🔄 **Review the [Research Updates](guides/research-updates.md)** for known corrections
+6. 🐛 **Open a [GitHub Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request)** or use the [Discussion](https://github.com/zhub9006/bug-free-travel-guides/discussions) to get started
+
+### Quality Standards
+
+Every destination guide must include:
+- **Bug Safety Score (0–10)** based on 7-category assessment
+- **Best Season** with specific month-by-month breakdown
+- **Geographic Explanation** (WHY it's bug-free)
+- **At Least 2 Independent Sources**
+- **Budget Estimate** ($–$$$$)
+- **Flight Access** info
+
+### What NOT to Submit
+
+- Destinations known for high bug density (Belize, Costa Rica, Thailand, Brazil, etc.)
+- Previously debunked destinations (Seychelles has mosquitoes, Iceland has *Culiseta annulata*)
+- Vague recommendations without evidence
+- Single unreliable sources
+
+---
+
+## 🤝 Community
+
+- 💬 [GitHub Discussions](https://github.com/zhub9006/bug-free-travel-guides/discussions) — Ask questions, share tips, meet fellow bug-phobes!
+- 🐛 [Report Bug Sightings](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=bug-report) — Spotted bugs at a safe destination? Let us know!
+- 🌡️ [Climate Anomaly Reports](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=climate-anomaly) — Insect ranges shifting? Report it immediately!
+- 🌍 [Request a Destination](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) — Where should we research next?
+
+---
+
+## ❤️ Why This Exists
+
+Bug phobia (entomophobia) can make travel feel impossible. The fear is real, the anxiety is valid, and **you deserve to see the world without fearing every shadow.** This community exists to catalog the places where creepy-crawlies won't ruin your vacation — so you can explore with confidence.
+
+**You are not alone.** 🕵️🚫
+
+---
+
+> *Last updated: July 2026 | Community-driven | Always evolving*
