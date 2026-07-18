@@ -58,6 +58,7 @@
 | UK/EU Cities | 2026-07-18 | Community | Stable 0/10 year-round |
 | Svalbard | 2026-07-18 | Community | 78°N confirmed zero mosquitoes year-round (I Like To Dabble 2025) |
 | **Sahara Desert** | **2026-07-18** | **Community** | **Hyper-arid core zero-bug; add oases as caution zone; Nov-Feb = peak season** |
+| **Canary Islands** | **2026-07-18** | **Community** | **East/West distinction: Lanzarote & Fuerteventura 1-2/10; Gran Canaria/Tenerife moderate in wet season** |
 
 ---
 
@@ -70,6 +71,10 @@
 | MosquitoSquad | Oct 2023 | High | Only 2 landmasses with zero mosquitoes; UK rainy climate data |
 | MosquitoJoe | 2025 | High | Mosquito-Free Areas; island data |
 | RustourismNews.com | Mar 2025 | High | Top 5 mosquito-free; island isolation mechanisms |
+| gocarrental.is | May 2026 | High | Iceland mosquito discovery 2025; comparative northern destination analysis |
+| GuideToCanaryIslands.com | 2025 | High | Canary Islands mosquito distribution by island; east vs west distinction |
+| MosquitoIndex.com | 2026 | High | Global mosquito activity scores; Gran Canaria 30/100 |
+| ArhFoundation.org | 2025 | Medium | Canary Islands insect repellent guidance; Madeira, Spain data |
 | irescuebees.com | 2025 | Medium | Venice wasp-free holiday confirmation |
 | KidsCare Blog | 2025 | Medium | 9 warm places without bugs |
 | MosquitoIndex.com | 2026 | High | Global mosquito activity scores by destination |
@@ -99,11 +104,11 @@ All destination destinations in this repo follow a standardized verification pro
 
 ## 🚨 Open Research Questions (Community Help Needed!)
 
-- [ ] **Svalbard (Summer)** — August mosquito reports from the west coast; need verification
-- [ ] **Scotland Highlands** — Confirm zero-bug status year-round; some midges reported in late May
-- [ ] **Northern Norway (Lofoten)** — Summer mosquito reports from inner fjords; need intensity data
-- [ ] **Niger Air Mountains** — Need more traveler reports on actual bug counts
-- [ ] **Maldives Local Islands** — Confirm which islands are safe vs. not; many conflicting reports
-- [ ] **Canary Islands** — Why is it zero-bug? Need better ecological explanation than "trade winds"
-- [ ] **Madeira** — Desertas Island spider risk; need more details on *Segestria saeva*
+- [ ] **Svalbard (Summer)** — August mosquito reports from the west coast; need verification. Coast confirmed clean, but inner fjords may have brief summer mosquitoes.
+- [ ] **Scotland Highlands** — Confirm zero-bug status year-round; some midges reported in late May near lochs. Best safe window: Jun–Jul & Sep–Oct.
+- [ ] **Canary Islands — East vs West** — Eastern islands (Lanzarote, Fuerteventura) are 1-2/10 bug-free; western (Gran Canaria, Tenerife) are moderate in wet season. Need ecological explanation for why volcanic eastern islands are drier.
+- [ ] **Northern Norway (Lofoten)** — Summer mosquito reports from inner fjords; need intensity data. Coast likely safe (breezes + cold).
+- [ ] **Niger Air Mountains** — Need more traveler reports on actual bug counts.
+- [ ] **Maldives Local Islands** — Confirm which islands are safe vs. not; many conflicting reports.
+- [ ] **Madeira — Desertas Island** — Need more details on *Segestria saeva* spider risk; confirm if Desertas is the only concern.
 - [ ] **Antarctica** — Are there any research stations where mosquito introduction has been documented?
