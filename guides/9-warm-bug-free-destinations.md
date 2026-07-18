@@ -16,11 +16,12 @@
 7. Dubai & Oman — Hyper-Arid Desert Cities (NEW from research)
 8. Venice, Italy — Wasp-Free Lagoon Escape (NEW from research)
 9. Maldives Resort Islands — Managed Pest-Free Beach (NEW from research)
-10. Warm Destinations to AVOID (NEW from research)
-11. Seasonal Quick Chart (NEW)
-12. Warm-Weather Survival Kit (NEW)
-13. Contribution Rules (NEW)
-14. Source Cross-Validation (NEW)
+10. ❄️ Sahara Desert, North Africa — Hyper-Arid Bug-Free Zone *(NEW from web research)*
+11. Warm Destinations to AVOID (NEW from research)
+12. Seasonal Quick Chart (NEW)
+13. Warm-Weather Survival Kit (NEW)
+14. Contribution Rules (NEW)
+15. Source Cross-Validation (NEW)
 
 ---
 
@@ -96,7 +97,7 @@
 
 ---
 
-## 7. Dubai & Oman — Hyper-Arid Desert Cities (NEW)
+## 7. Dubai & Oman — Hyper-Arid Desert Cities
 
 | Attribute | Detail |
 |---|---|
@@ -110,7 +111,7 @@
 
 ---
 
-## 8. Venice, Italy — Wasp-Free Lagoon Escape (NEW)
+## 8. Venice, Italy — Wasp-Free Lagoon Escape
 
 | Attribute | Detail |
 |---|---|
@@ -123,7 +124,7 @@
 
 ---
 
-## 9. Maldives Resort Islands — Managed Pest-Free Beach (NEW)
+## 9. Maldives Resort Islands — Managed Pest-Free Beach
 
 | Attribute | Detail |
 |---|---|
@@ -136,7 +137,64 @@
 
 ---
 
-## 10. Warm Destinations to AVOID (NEW)
+## 10. ❄️ Sahara Desert, North Africa — The Hyper-Arid Bug-Free Zone *(NEW from web research)*
+
+| Attribute | Detail |
+|---|---|
+| **Bug score** | 0/10 ✅ |
+| **Best season** | **November – February** — mild temperatures (20-30°C daytime), comfortable for desert excursions |
+| **Second-best** | **March – April** & **October** — shoulder seasons with acceptable heat |
+| **Avoid** | **June – September** — extreme heat (45°C+), not only uncomfortable but makes guided trips dangerous |
+| **Budget** | $$ (desert camps) to $$$$ (luxury desert resorts) |
+
+### Why It's Bug-Free
+
+| Factor | Detail |
+|---|---|
+| **Hyper-aridity** | Annual rainfall essentially zero across the core Sahara. Some weather stations have never recorded rain. No standing water = no mosquito breeding |
+| **Extreme heat** | Ground temperatures exceed 50°C in summer; too hot for insect larvae development year-round |
+| **Sand + gravel** | Unlike loamy or clay soils, sand doesn't retain moisture. Insects can't dig burrows or lay eggs in arid sand |
+| **Sparse vegetation** | Almost no plant density to support insect populations. Mosquitoes need nectar sources and sheltered vegetation |
+| **Wind** | Constant desert winds prevent flying insects from establishing territories |
+
+### Bug Assessment
+
+| Bug Type | Presence | Notes |
+|---|---|---|
+| **Mosquitoes** | ❌ None | No standing water anywhere in the core Sahara |
+| **Sandflies** | ⚠️ Minimal | Rare; more common near oases and date palm groves in the evening |
+| **Ticks** | ❌ None | Arid conditions discourage tick habitat |
+| **Scorpions** | ⚠️ Occasional | Nocturnal, not insects, but worth noting for arachnophobes |
+| **Spiders** | ⚠️ Rare | Non-venomous species only in the desert core |
+
+### Best Regions to Visit
+
+| Region | Country | Bug Notes |
+|---|---|---|
+| **Erg Chigaga & Erg Chebbi** | Morocco | Most accessible; luxury desert camps; virtually zero bugs |
+| **Grand Erg Oriental** | Algeria/N. Tunisia | Vast dune seas; negligible insect presence |
+| **Western Desert** | Egypt | Siwa Oasis has minimal bugs; white desert equally sterile |
+| **Tassili n'Ajjer** | Algeria | Rocky plateau; zero insect presence |
+| **Agadez & Air Mountains** | Niger | Desert town surrounded by sterile sand |
+
+### Travel Tips for Bug-Phobes
+
+- **Go with guided tours** — Desert camps provide shade and enclosed sleeping areas
+- **Pack light layers** — Cold nights in the Sahara (especially Nov-Feb) mean you'll want warm clothes, which also protect against the rare scorpion
+- **Choose Marrakech as your base** — Fly in and take a 2-day desert tour; the transit city is packed with mosquito-free riads
+- **Oasis caution** — Oases like Siwa or Tozeur may have slightly more mosquitoes near water; avoid lingering in these zones at dusk
+
+### Sources
+
+- Explore.com (Jan 2024) — desert habitat bug analysis
+- MosquitoSquad (2023) — desert climate = low mosquito habitat
+- DesertSoftheWorld.com (2026) — Sahara best-season guide
+- Responsible Travel (2025) — Sahara travel safety guide
+- *For more detail on the Sahara's arid ecology, see the Atacama Desert entry in the main [First Destination Research Guide](1-first-destination-research.md)*
+
+---
+
+## 11. Warm Destinations to AVOID
 
 | Destination | Bug Score | Why |
 |---|---|---|
@@ -150,7 +208,7 @@
 
 ---
 
-## 11. Seasonal Quick Chart
+## 12. Seasonal Quick Chart
 
 | Destination | Hot & Safe | Warm & Safe | Avoid |
 |---|---|---|---|
@@ -162,10 +220,11 @@
 | Venice | Oct-Mar | Mar-Apr | May-Aug |
 | Maldives (Resorts) | Dec-Apr | Dec-Mar | May-Oct |
 | Hawaii (Kona) | Oct-Nov | Apr-Oct | Nov-Mar |
+| Sahara Desert | Nov-Feb | Mar-Apr, Oct | Jun-Sep |
 
 ---
 
-## 12. Warm-Weather Bug-Phobia Survival Kit
+## 13. Warm-Weather Bug-Phobia Survival Kit
 
 Even at these destinations, always pack insurance:
 
@@ -173,11 +232,11 @@ Even at these destinations, always pack insurance:
 - Permethrin clothing spray (treat light clothing at dusk)
 - Mosquito coil/repellent candle (for outdoor dinners)
 - Light-colored long sleeves (mosquitoes attracted to dark colors)
-- Portable fan (mosquitoes cant fly in a breeze!)
+- Portable fan (mosquitoes can't fly in a breeze!)
 
 ---
 
-## 13. Community Contribution Rules
+## 14. Community Contribution Rules
 
 Want to add a warm destination? Follow these rules:
 
@@ -188,7 +247,7 @@ Want to add a warm destination? Follow these rules:
 
 ---
 
-## 14. Source Cross-Validation
+## 15. Source Cross-Validation
 
 | Source | Date | Key Contribution |
 |---|---|---|
@@ -199,3 +258,6 @@ Want to add a warm destination? Follow these rules:
 | KidsCare Blog | 2025 | 9 warm places without bugs (Phoenix, Las Vegas, Canary Islands) |
 | MosquitoSquad | Oct 2023 | Only 2 landmasses with zero mosquitoes; UK rainy climate |
 | MosquitoJoe | 2025 | Mosquito-Free Areas to Visit; island data |
+| DesertSoftheWorld.com | 2026 | Sahara best-season guide |
+| Responsible Travel | 2025 | Sahara travel safety guide |
+| MosquitoIndex.com | 2026 | Global mosquito activity scores for each destination |
