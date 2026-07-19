@@ -1,14 +1,6 @@
-# 📊 Research Update Log — Bug-Free Travel Guides
+# Research Update Log — Bug-Free Travel Guides
 
-> **Track every correction, revision, and new finding.** Every bug-free travel guide you rely on must be verified within 12 months — or it's unreliable.
-
----
-
-## What This Log Is For
-
-1. **Correcting outdated bug-free claims** (mosquitoes in places we thought were safe)
-2. **Adding new destinations** discovered or verified by the community
-3. **Noting climate-change-driven insect range expansions** (this is increasing every year — 2025–2026 was a record breakout period for *Culiseta*)
+> **Tracking every correction, revision, and community finding. Verified within 12 months.**
 
 ---
 
@@ -16,22 +8,24 @@
 
 | Date | Update | Impact | Verified By |
 |---|---|---|---|
-| 2026-07-19 | Added community roadmap & roadmap outreach issue | New features | zhub9006 |
-| 2026-07-19 | Expanded community index with monthly spotlights | New page | zhub9006 |
+| 2026-07-19 | Added community roadmap & community index; community calls (#37) | New features | zhub9006 |
 | 2026-07-19 | Resolved Issue #36 — flagship research guide published | ✅ | zhub9006 |
-| 2026-07-18 | Canister of community research findings (guide 14) verified | New guide | Community |
+| 2026-07-18 | Expanded community research findings (guide 14) | New guide | Community |
 | 2026-07-18 | Dubai/UAE added to Warm Bug-Free Destinations and research citations | Updated | Community |
 | 2026-07-17 | 15-destination web-research guide published (Issue #27) | ✅ | zhub9006 |
 
----
+----
 
 ## Historical Corrections
 
-- ❌ Iceland — *Culiseta annulata* discovered Oct 2025. [Source](https://arcticportal.com/)
-- ❌ Seychelles — NOT mosquito-free; peak Dec–Feb. [Source](https://mosquitoindex.com/)
-- ❌ Patagonia — Nov–Mar = sandfly hell. Only Jun–Aug safe. [Source](https://community reports/)
-- ⚠️ Hawaii — Hilo side is high-bug; Kona coast is safer (2/10). [Source](https://mosquitoindex.com/)
-‗ ❌ Maldives — local islands have mosquitoes. Only resort islands safe. [Source](https://mozzwise.com/)
+| Destination | Bug Claim Change | Source |
+|---|---|---|
+| Iceland | NO LONGER 100% free; *Culiseta annulata* detected Oct 2025 | Arctic Portal, Travel & Leisure, Earth.com, BBC |
+| Seychelles | NOT bug-free; mosquitoes year-round; peak Dec–Feb; Chikungunya 2026 | MosquitoIndex, community reports |
+| Patagonia | Nov–Mar = sandfly hell; Jun–Aug ONLY safe | Community reports |
+| Hawaii | Hilo side high-bug (5+/10); Kona coast safer (2/10) | MosquitoIndex.com |
+| Maldives | Local islands have mosquitoes; only resort islands safe | Mozzwise.com |
+| Antarctica | STILL CORRECT — only guaranteed zero-bug landmass | All sources |
 
 ---
 
@@ -45,23 +39,8 @@
 
 ## Verified (Ready for Travel Planning) ✅
 
-All guides in the `guides/` directory with any status except ⚠️ are considered community-verified.
+All guides in the `guides/` directory with community-verified status.
 
 ---
 
-## ⚠️ Unverified / In-Progress (Use with Caution)
-
-| Guide | Status | Notes |
-|---|---|---|
-| guides/8-additional-research-findings.md | Community review in progress | Secondary data sources are still being compiled |
-| guides/ee-comprehensive-research-guide.md | Community review in progress | Needs source-weighting methodology |
-
----
-
-## ❌ Outdated / Obsolete (Do Not Use)
-
-None at this time. All existing guides are current as of July 2026.
-
----
-
-> 🦚 **Remember: The best defense against bugs is knowledge + DEET + a verified guide.** 🦟🚪
+> 🦺 *Every 12 months, re-verify. The mosquitoes are on the move — so must we be.* 🦟🚪
