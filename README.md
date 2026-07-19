@@ -99,9 +99,9 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 
 | Month | Top Bug-Free Picks | Places to Avoid |
 |---|---|---|
-| **July** | Lofoten Norway, Faroe Islands, Atacama, Madeira, UK cities | Seychelles, Bali, Amazon, Patagonia summer |
+| **Jul** | Lofoten Norway, Faroe Islands, Atacama, Madeira, UK cities | Seychelles, Bali, Amazon, Patagonia summer |
 | **Aug** | Antarctica expedition (peak season!), Madeira, Kona Hawaii, US parks | S.E. Asia wet season, Amazon, part of Patagonia |
-| **Sep** | Canary Islands (autumn), New Caledonia (shoulder), Atacama, UAE/Oman | French Polynesia wet season starts, Patagonia MELTDOWN |
+| **Sep** | Canary Islands (autumn), New Caledonia (shoulder), UAE/Oman | French Polynesia wet season, Patagonia MELTDOWN |
 
 **Full month-by-month planner:** [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md)
 
@@ -111,12 +111,13 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 
 ```
 ├── README.md                           ← You are here. Start here.
+├── CHANGELOG.md                        ← Track every significant change
 ├── guides/
-│   ├── 00-welcome.md                   ← Community welcome & tips
+│   ├── 00-welcome.md                   ← Community welcome & travel tips
 │   ├── 01-first-destination-research-guide.md ← 18 destinations with bug scores
-│   ├── 02-community-index.md           ← Community hub for spotlights & discussion
-│   ├── 03-research-roadmap.md          ← Contribution roadmap & priorities
-│   ├── 0-web-research-destination-guide.md ← 501-line flagship research compendium (START HERE!)
+│   ├── 02-community-index.md           ← Community hub: spotlights & discussion
+│   ├── 02-research-update-log.md       ← Timelime of corrections & new findings
+│   ├── 0-web-research-destination-guide.md ← 501-line flagship research compendium
 │   ├── 0-welcome.md                    ← Welcome guide with travel tips
 │   ├── 1-first-destination-research.md ← 18 destinations, detailed bug assessments
 │   ├── 2-bug-free-destinations-quick-reference.md ← At-a-glance cheat sheet
@@ -129,9 +130,9 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 │   ├── 9-warm-bug-free-destinations.md ← Warm destinations without bugs
 │   ├── 13-destinations-to-avoid.md     ← Red-flag destinations
 │   ├── 14-community-research-findings.md ← Still-unresearched destinations
+│   ├── community-roadmap.md            ← Community roadmap & contribution tiers
 │   ├── seasonal-safety-calendar.md    ← Month-by-month planner
 │   ├── submission-template.md          ← How to submit a new destination
-│   ├── community-roadmap.md            ← Community roadmap & contribution tiers
 │   ├── research-updates.md             ← Live corrections log
 │   └── 8-newsletter.md                 ← Monthly community digest
 ├── .github/
@@ -169,7 +170,7 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 | # | Destination | Why It's Promising | Challenge |
 |---|---|---|---|
 | 1 | 🇰🇪 **Kenya Highlands** | Elevation = fewer bugs | Need regional breakdown |
-| 2 | 🇧🇴 **Bolivia (Uyuni/Altiplano)** | One of the driest, highest places | Rainy season timing? |
+| 2 | 🇧🇴 **Bolivia (Uyuni/Altiplano)** | One of the driest, highest places on Earth | Rainy season timing? |
 | 3 | 🇵🇦 **Panama (Boquete)** | Coffee-highland at 1,200m? | Tropical fly risk |
 | 4 | 🇲🇽 **Mexico City & Puebla** | High-altitude, urban | Seasonal bug variation |
 | 5 | 🇦🇪 **Abu Dhabi** | Hyper-arid like Dubai | Independent verification needed |
