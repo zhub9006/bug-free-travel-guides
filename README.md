@@ -25,7 +25,8 @@
 5. **Dreaming of beaches?** → Check [Tropical & Beach Destinations Deep-Dive](guides/3-bug-free-tropical-beach-destinations.md) — 8 safe tropical spots + forbidden destinations list ⭐
 6. **Want warmth without bugs?** → Check [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) — Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more! ⭐
 7. **Want the SCIENCE behind why places are bug-free?** → Check ⭐ **[Web Research Science Guide](guides/15-web-research-science-guide.md)** — environmental science, precise seasonal windows, monthly planner, and 16+ source citations ✨ **NEW!**
-8. **Deep-dive research?** → Read the main destination guides:
+8. **Just researched these destinations?** → Check ⭐ **[Fresh Research Destination Guide](guides/fresh-research-destination-guide.md)** — 16 destinations researched from 16+ sources with bug scores, seasonal calendars, and pro tips ✨ **NEWEST GUIDE!**
+9. **Deep-dive research?** → Read the main destination guides:
    - **[📖 Research-Backed Destination Guide](guides/ee-bug-free-destinations-research-guide.md)** — 17+ verified bug-free destinations organized by ecosystem type with seasonal safety calendars, red flag destination warnings & 16+ source citations ⭐
    - **[📖 Comprehensive Research Guide](guides/ee-comprehensive-research-guide.md)** — 15+ destinations with detailed seasonal safety calendar, environmental science explanations, 16+ source validation, DEET checklist & community contribution framework ✨ **NEWEST GUIDE!**
    - **[📖 Flagship Web-Research Guide](guides/0-web-research-destination-guide.md)** — 15+ comprehensive destinations with full bug assessments, seasonal safety data, fool-proof tips, forbidden destinations & monthly calendar ✨
@@ -37,9 +38,9 @@
    - 📋 [Bug-Free Destinations Yet to Research](guides/14-community-research-findings.md) — New Zealand, Norway/Scandinavia, UK/EU cities with full seasonal data
    - 📋 [⚠️ Destinations to AVOID](guides/13-destinations-to-avoid.md) — Ranked bug-infested hotspots with severity scores & safe alternatives
    - 📋 [Community Research Findings](guides/aa-community-research-findings.md) — Supplementary deep-dives on destinations not yet in the main guides
-9. **Want to contribute?** → See [Community Roadmap](guides/community-roadmap.md) → Open an [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) or use the [Submission Template](guides/submission-template.md) → submit a PR!
-10. **Critical updates?** → Read [Research Updates & Corrections](guides/research-updates.md)
-11. **Community vibes?** → [Community Index & Discussion](guides/02-community-index.md) — news, spotlights, and calls-to-action
+10. **Want to contribute?** → See [Community Roadmap](guides/community-roadmap.md) → Open an [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) or use the [Submission Template](guides/submission-template.md) → submit a PR!
+11. **Critical updates?** → Read [Research Updates & Corrections](guides/research-updates.md)
+12. **Community vibes?** → [Community Index & Discussion](guides/02-community-index.md) — news, spotlights, and calls-to-action
 
 ---
 
@@ -72,7 +73,7 @@ If you're terrified of bugs, **avoid these locations** or travel with extreme ca
 
 | Destination | Bug Score | Why to Avoid |
 |---|---|---|
-| 🇱🇰 **Amazon Basin** | 10/10 | Mosquito heaven; malaria, dengue everywhere |
+| 🇧🇷 **Amazon Basin** | 10/10 | Mosquito heaven; malaria, dengue everywhere |
 | 🇮🇩 **Bali, Indonesia** | 9/10 | Extreme density; dengue in every district |
 | 🇹🇭 **Thailand** | 8/10 | Mosquito heaven; dengue and malaria year-round |
 | 🇧🇿 **Belize (lowland)** | 8/10 | Highest mosquito density in Central America |
@@ -109,13 +110,14 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 
 ---
 
-## 🎮 Repository Structure
+## 🎬 Repository Structure
 
 ```
 ├── README.md                           ← You are here. Start here!
 ├── CHANGELOG.md                        ← Track every significant change
 ├── guides/
 │   ├── fresh-research-pioneer-guide.md ← ★ NEW! 15+ destinations with bug scores, best seasons & practical tips — RECOMMENDED FIRST READ
+│   ├── fresh-research-destination-guide.md ← ★ NEW! 16 destinations researched from 16+ sources with bug scores, seasonal calendars & pro tips
 │   ├── 00-first-destination-guide.md   ← ★ 15+ destinations with bug scores, best seasons & practical tips
 │   ├── 00-welcome.md                   ← Community welcome & travel tips
 │   ├── 01-first-destination-research-guide.md ← 15+ destinations (earlier version)
@@ -153,10 +155,21 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 |---|---|
 | 📊 **Community Index** | [guides/02-community-index.md](guides/02-community-index.md) |
 | 📊 **Community Roadmap** | [guides/community-roadmap.md](guides/community-roadmap.md) |
+| 📖 **Full Guide Index** | [guides/0-web-research-destination-guide.md](guides/0-web-research-destination-guide.md) |
+| ⚡ **Quick-Reference Table** | [guides/2-bug-free-destinations-quick-reference.md](guides/2-bug-free-destinations-quick-reference.md) |
 | ☀️ **Warm & Bug-Free Guide** | [guides/9-warm-bug-free-destinations.md](guides/9-warm-bug-free-destinations.md) |
 | 🔬 **Science Guide** | [guides/15-web-research-science-guide.md](guides/15-web-research-science-guide.md) |
-| 📋 **Destinations to AVOID** | [guides/13-destinations-to-avoid.md](guides/13-destinations-to-avoid.md) |
+| 🆕 **Fresh Research Guide** | [guides/fresh-research-destination-guide.md](guides/fresh-research-destination-guide.md) |
+| 📋 **Destinations to Avoid** | [guides/13-destinations-to-avoid.md](guides/13-destinations-to-avoid.md) |
+| 📋 **Reporting Bugs/Anomalies** | [guides/research-updates.md](guides/research-updates.md) |
+| 📰 **Community Newsletter** | [guides/8-newsletter.md](guides/8-newsletter.md) |
 
 ---
 
-*Bug-Free Travel Guides — because your vacation should be about sand, sun, and serenity — not swatting!* ✨🐛🚫
+## 📝 License
+
+This project is licensed under the MIT License. Feel free to use, share, and contribute!
+
+---
+
+*Built for the bug-phobic traveler. No creepies, no crawlies, just safe travel. ✨🐛🚫*
