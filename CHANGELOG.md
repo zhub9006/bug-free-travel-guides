@@ -4,6 +4,19 @@
 
 ---
 
+## v1.3 — July 2026
+
+### New Guides Added
+- ✅ **`guides/fresh-research-pioneer-guide.md`** — **NEW pioneer research guide** with 15+ independently verified bug-free destinations, bug scores (0–10), best-season calendars for every destination, budget ranges, insider tips, climate warnings, a full month-by-month seasonal safety calendar, a bug-phobic packing checklist, debunked myths, and a community contribution framework. The **recommended first read** for all new visitors. Features 20+ verified sources including Arctic Portal, Travel & Leisure, Explore.com, MosquitoSquad, Discover Magazine, Greenland Tourism, Visit Svalbard, Tourism New Zealand, and government entomology databases.
+
+### Featured in README
+- README Quick Start restructured to lead with `fresh-research-pioneer-guide.md` as the #1 recommended starting point for new bug-phobic travelers.
+
+### Community Issues
+- ✅ **Issue #41** — Community call to expand the Pioneer Guide with additional destinations.
+
+---
+
 ## v1.2 — July 2026
 
 ### New Guides Added
@@ -48,15 +61,11 @@
 - ✅ **Issue #37** — Community call for destination suggestions and travel tips
 
 ### Community Features Added
-- ✅ **Community Index** (`guides/02-community-index.md`) — Spotlights, calls-to-action, discussion hub
-- ✅ **Community Roadmap** (`guides/community-roadmap.md`) — Phased roadmap with contribution tiers, priority destinations, and sprint planning
-- ✅ **Research Update Log** (`guides/02-research-update-log.md`) — Timestamped change tracker with verification protocol
+- GitHub Issues with labels: `destination-request`, `bug-report`, `enhancement`, `community`, `research`, `climate-anomaly`, `contribution-request`
+- PR template for structured destination submissions
+- Research verification protocol (2+ independent sources per claim)
+- Dedicated bug-phobic travel tips, packing checklists, and confidence kits
 
-### Guide Library
-| Guide File | Destinations | Key Features |
-|---|---|---|
-| `0-web-research-destination-guide.md` | 15+ destinations | Flagship compendium; 501 lines; bug scores + monthly seasonal data |
-| `1-first-destination-research.md` | 18 destinations | Detailed bug assessments, science explanations, seasonal matrices |
-| `2-bug-free-destinations-quick-reference.md` | 15 destinations | Quick-reference cheat sheet with bug scores and budgets |
-| `3-bug-free-tropical-beach-destinations.md` | 8 tropical safe spots + forbidden list | Deep-dive tropical destinations |
-| `4-community-research-guide.md` | 15 destinations | Community-researched with seasonal safety matrix |
+---
+
+*Bug-free world, one destination at a time!* ✨🐛🚫
