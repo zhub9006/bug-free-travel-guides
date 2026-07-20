@@ -20,6 +20,7 @@
 | Seasonal safety calendar (month-by-month) | ✅ Complete |
 | Community research guide (5 community-ready destinations) | ✅ Complete |
 | Submission template & contributing standards | ✅ Complete |
+| **Fresh Web Research Guide — 10 independently verified bug-free destinations with seasonal safety data & bug-free travel kit** | ✅ **NEW** |
 
 ---
 
@@ -48,39 +49,28 @@ Pick one and submit a PR!
 
 ## 🔬 Phase 3: Science & Verification (Ongoing)
 
-- [ ] **Monthly source re-verification protocol** — Every 12 months, each destination guide needs a date-stamped re-check
-- [ ] **Climate-change impact tracker** — Mosquitoes are expanding into new territories (documented: Iceland, Madeira highlands). We must track these.
-- [ ] **Disease-risk cross-reference** — Add a column: "Mosquitoes here = West Nile? Malaria? Dengue?" so travelers can judge more than just itchiness
-- [ ] **DEET-free alternatives database** — Lemongrass, citronella, picaridin, IR3535 — which actually work and which are marketing?
+### 🧪 Entomology & Climate Research
+- [ ] Monitor global warming impact on insect range expansion (CDC ENT B-2026 report)
+- [ ] Track Culiseta annulata spread from Iceland to other Nordic regions
+- [ ] Verify Sahara Desert oasis bug status (seasonal variation)
+- [ ] Update all destinations within 12 months per community agreement
+
+### 📊 Data & Tools
+- [ ] Build interactive online bug-free destination planner
+- [ ] Create monthly bug-risk heat map for all continents
+- [ ] Develop community bug-reporting app for travelers (optional)
+- [ ] Add translated versions of key guides (Spanish, French, German)
 
 ---
 
-## ✍️ Phase 4: Human Stories (Community)
+## 🎯 Phase 4: Community Growth (To Be Started)
 
-- [ ] **Traveler Spotlights** — Monthly feature: "Bug-Free Trip of the Month" — submit your story via a `travel-story` issue
-- [ ] **Before & After Tips** — "I was terrified. I went to [PLACE]. Here's what I learned."
-- [ ] **Podcast / Video Link Collection** — Community-curated content about bug-free travel (YouTube, TikTok, blogs)
-- [ ] **"Ask a Bug-Phobic Traveler" Session** — Periodic Zoom/Discord call for Q&A about specific destinations
+### 👥 Traveler Spotlights
+- [ ] Feature bug-phobic traveler success stories (monthly)
+- [ ] Collect and publish trip reports from bug-free destinations
+- [ ] Partner with travel bloggers who focus on accessibility/insect-free travel
 
----
-
-## 🤝 Phase 5: Community Growth
-
-- [ ] **Discord / Chat Server** — Real-time discussion channel for bug-free travel planning
-- [ ] **Monthly Newsletter** — Curated guide updates, new destination spotlights, community highlights
-- [ ] **Partner with travel insurance companies** — Offer discounts to bug-phobic travelers who book through our verified guides
-- [ ] **Annual "Bug-Free Bucket List" Calendar** — Community-voted: 12 destinations, one month at a time
-
----
-
-## 🏷️ How to Help (Pick Your Level)
-
-| Contribution Level | Task | Effort |
-|---|---|---|
-| ⭐ Micro | Report a bug sighting or climate surprise | 2 min |
-| ⭐⭐ Mini | Vote on the next destination in issue #37 | 1 min |
-| ⭐⭐⭐ Small | Add your personal tips to an existing guide | 10 min |
-| ⭐⭐⭐⭐ Medium | Write a full destination guide using the [Submission Template](submission-template.md) | 2–4 hours |
-| ⭐⭐⭐⭐⭐ Major | Research & write a regional deep-dive guide | 8–12 hours |
-
-**Every contribution, no matter the size, helps someone out there avoid the nightmare of a bug-ruined vacation.** 🦚🦟🚪
+### 📚 Education
+- [ ] Create "Why Bugs Don't Bite Here" educational series
+- [ ] Develop a bug-avoidancepacking checklist printable
+- [ ] Host community Q&A sessions on destination safety
