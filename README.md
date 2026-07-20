@@ -24,7 +24,8 @@
 4. **Scared of specifics?** → Jump to the ⭐ [Quick-Reference Guide](guides/2-bug-free-destinations-quick-reference.md) — destinations at a glance with bug scores, best months, and budgets ⭐
 5. **Dreaming of beaches?** → Check [Tropical & Beach Destinations Deep-Dive](guides/3-bug-free-tropical-beach-destinations.md) — 8 safe tropical spots + forbidden destinations list ⭐
 6. **Want warmth without bugs?** → Check [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) — Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more! ⭐
-7. **Deep-dive research?** → Read the main destination guides:
+7. **Want the SCIENCE behind why places are bug-free?** → Check ⭐ **[Web Research Science Guide](guides/15-web-research-science-guide.md)** — environmental science, precise seasonal windows, monthly planner, and 16+ source citations ✨ **NEW!**
+8. **Deep-dive research?** → Read the main destination guides:
    - **[📖 Research-Backed Destination Guide](guides/ee-bug-free-destinations-research-guide.md)** — 17+ verified bug-free destinations organized by ecosystem type with seasonal safety calendars, red flag destination warnings & 16+ source citations ⭐
    - **[📖 Comprehensive Research Guide](guides/ee-comprehensive-research-guide.md)** — 15+ destinations with detailed seasonal safety calendar, environmental science explanations, 16+ source validation, DEET checklist & community contribution framework ✨ **NEWEST GUIDE!**
    - **[📖 Flagship Web-Research Guide](guides/0-web-research-destination-guide.md)** — 15+ comprehensive destinations with full bug assessments, seasonal safety data, fool-proof tips, forbidden destinations & monthly calendar ✨
@@ -33,13 +34,12 @@
    - [US Bug-Free Destinations](guides/6-us-bug-free-destinations.md) — US deserts, Hawaii, parks
    - [European & S. Hemisphere Guide](guides/7-european-bug-free-spots.md) — Islands, cities, countries
    - [Web-Research Findings](guides/8-additional-research-findings.md) — 16-source validation report with environmental science & monthly calendar ✨
-   - [Monthly digest?](guides/8-newsletter.md)
    - 📋 [Bug-Free Destinations Yet to Research](guides/14-community-research-findings.md) — New Zealand, Norway/Scandinavia, UK/EU cities with full seasonal data
    - 📋 [⚠️ Destinations to AVOID](guides/13-destinations-to-avoid.md) — Ranked bug-infested hotspots with severity scores & safe alternatives
    - 📋 [Community Research Findings](guides/aa-community-research-findings.md) — Supplementary deep-dives on destinations not yet in the main guides
-8. **Want to contribute?** → See [Community Roadmap](guides/community-roadmap.md) → Open an [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) or use the [Submission Template](guides/submission-template.md) → submit a PR!
-9. **Critical updates?** → Read [Research Updates & Corrections](guides/research-updates.md)
-10. **Community vibes?** → [Community Index & Discussion](guides/02-community-index.md) — news, spotlights, and calls-to-action
+9. **Want to contribute?** → See [Community Roadmap](guides/community-roadmap.md) → Open an [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) or use the [Submission Template](guides/submission-template.md) → submit a PR!
+10. **Critical updates?** → Read [Research Updates & Corrections](guides/research-updates.md)
+11. **Community vibes?** → [Community Index & Discussion](guides/02-community-index.md) — news, spotlights, and calls-to-action
 
 ---
 
@@ -72,7 +72,7 @@ If you're terrified of bugs, **avoid these locations** or travel with extreme ca
 
 | Destination | Bug Score | Why to Avoid |
 |---|---|---|
-| 🇰🇪 **Amazon Basin** | 10/10 | Mosquito heaven; malaria, dengue everywhere |
+| 🇱🇰 **Amazon Basin** | 10/10 | Mosquito heaven; malaria, dengue everywhere |
 | 🇮🇩 **Bali, Indonesia** | 9/10 | Extreme density; dengue in every district |
 | 🇹🇭 **Thailand** | 8/10 | Mosquito heaven; dengue and malaria year-round |
 | 🇧🇿 **Belize (lowland)** | 8/10 | Highest mosquito density in Central America |
@@ -105,7 +105,7 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 | **Aug** | Antarctica expedition (peak season!), Madeira, Kona Hawaii, US parks | S.E. Asia wet season, Amazon, part of Patagonia |
 | **Sep** | Canary Islands (autumn), New Caledonia (shoulder), UAE/Oman | French Polynesia wet season, Patagonia MELTDOWN |
 
-**Full month-by-month planner:** [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md)
+**Full month-by-month planner:** [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md) and the new [Web Research Science Guide](guides/15-web-research-science-guide.md) with 12-month seasonal tables!
 
 ---
 
@@ -129,6 +129,7 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 │   ├── 7-european-bug-free-spots.md    ← European & S. Hemisphere
 │   ├── 8-additional-research-findings.md ← 16-source validation report
 │   ├── 9-warm-bug-free-destinations.md ← Warm destinations without bugs
+│   ├── 15-web-research-science-guide.md ← 🔬 NEW! Environmental science, seasonal windows & monthly planner ⭐
 │   ├── aa-community-research-findings.md ← Supplementary deep-dives
 │   ├── 13-destinations-to-avoid.md     ← Red-flag destinations
 │   ├── 14-community-research-findings.md ← Still-unresearched destinations
@@ -152,15 +153,10 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 |---|---|
 | 📊 **Community Index** | [guides/02-community-index.md](guides/02-community-index.md) |
 | 📊 **Community Roadmap** | [guides/community-roadmap.md](guides/community-roadmap.md) |
-| 📚 **Full Guide Index** | [guides/0-web-research-destination-guide.md](guides/0-web-research-destination-guide.md) |
-| ⚡ **Quick-Reference Table** | [guides/2-bug-free-destinations-quick-reference.md](guides/2-bug-free-destinations-quick-reference.md) |
 | ☀️ **Warm & Bug-Free Guide** | [guides/9-warm-bug-free-destinations.md](guides/9-warm-bug-free-destinations.md) |
-| 📅 **Monthly Planner** | [guides/seasonal-safety-calendar.md](guides/seasonal-safety-calendar.md) |
-| 🚫 **Red-Flag Destinations** | [guides/13-destinations-to-avoid.md](guides/13-destinations-to-avoid.md) |
-| ✍️ **Submission Template** | [guides/submission-template.md](guides/submission-template.md) |
-| 📝 **Submit a PR** | [PR Template](.github/PULL_REQUEST_TEMPLATE.md) |
-| 🔬 **Research Updates** | [guides/research-updates.md](guides/research-updates.md) |
+| 🔬 **Science Guide** | [guides/15-web-research-science-guide.md](guides/15-web-research-science-guide.md) |
+| 📋 **Destinations to AVOID** | [guides/13-destinations-to-avoid.md](guides/13-destinations-to-avoid.md) |
 
 ---
 
-*This guide is maintained by the bug-phobic traveler community. Last verified: July 2026. Bug-free world, one destination at a time.* ✨🐛🚫
+*Bug-Free Travel Guides — because your vacation should be about sand, sun, and serenity — not swatting!* ✨🐛🚫
