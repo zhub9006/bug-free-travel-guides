@@ -1,34 +1,30 @@
 ---
-name: "🐛 Bug Sighting or Climate Anomaly Report"
-about: "Report finding mosquitoes, sandflies, or other bugs in a 'bug-free' destination — or report unusual seasonal patterns"
-title: "[Bug/Climate Report] "
-labels: ["bug-report", "climate-anomaly", "research", "enhancement", "community"]
-assignees: ""
----
-
-## Destination Details
-
-**Destination:** e.g., "Iceland (Kjós valley)"
-**Month & Year Encountered:** 
-**Expected Bug Level:** e.g., "Zero bug-free" 
-**Actual Bug Level Observed:** e.g., "Confirmed reproduction population"
+name: Bug Report
+about: Report issues with existing destination guides
+label: bug
 
 ---
 
-## What Did You See?
+## Bug Report
 
-<!-- Describe the bug, the context, and any evidence (photos, dates, locations) -->
-
-
----
-
-## Sources
-
-<!-- Link to any sources that corroborate your observation -->
-
+- **Guide Affected:** [e.g., guides/16-fresh-research-guide.md]
+- **Bug Type:** [Information outdated / Incorrect data / Missing destination / Broken link / Other]
+- **Description:** [Detailed description]
+- **Expected:** [What it should say]
+- **Actual:** [What the guide currently says]
+- **Source:** [URL or reference where you got correct info]
+- **Severity:** [Low / Medium / High / Critical (affects travel safety)]
 
 ---
 
-## Impact on Our Guides
+# Destination Request
 
-<!-- How does this finding affect our published guides? Be specific -->
+- **Destination:** [City/Region/Country]
+- **Why This Destination:** [Brief explanation]
+- **What You Want to Know:** [Specific questions about bugs, seasons]
+- **Priority:** [High / Medium / Low]
+- **Any Extra Context:** [Travel dates, budget, etc.]
+
+---
+
+**Feel free to ask questions in any Discussion or check the Community Index!**

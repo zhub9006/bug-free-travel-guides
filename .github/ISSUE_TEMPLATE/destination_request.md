@@ -1,30 +1,14 @@
 ---
-name: "🌎 Destination Research Request"
-about: "Request a new bug-free destination guide or seasonal safety data"
-title: "[Destination Request] "
-labels: ["destination-request", "enhancement", "community"]
-assignees: ""
+name: Destination Request
+about: Request a new bug-free destination guide
+label: destination-request
+title: '[Destination] Add guide for [City/Region]'
 ---
 
-## What Destination Do You Want Researched?
+## Destination Request
 
-Tell us the destination you'd like to see a bug-free guide for.
-
-**Country / Region:** e.g., "Panama (Boquete Highlands)"
-**Coordinates (if known):** e.g., "8.8°N, 82.4°W"
-**Why you want a guide for this area:**
-
-
----
-
-## What's Your Bug Sensitivity Level?
-
-- [ ] I can't tolerate ANY bugs — not even a single sighting
-- [ ] I'm careful but manageable if they're low-risk and avoidable
-- [ ] I only need to know where the worst spots are so I can stay away from them
-
----
-
-## Any Additional Context?
-
-<!-- Share travel plans, timing, or concerns we should consider -->
+- **Destination:** [City/Region/Country]
+- **Why This Destination:** [Brief explanation — e.g., Planning a trip here, need bug info]
+- **What You Want to Know:** [Specific questions about bugs, seasons]
+- **Priority:** [High / Medium / Low]
+- **Any Extra Context:** [Travel dates, budget, etc.]
