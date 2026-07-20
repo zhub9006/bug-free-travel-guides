@@ -1,111 +1,100 @@
-# 📝 Submission Template
+# 📝 Submission Template — Add a New Bug-Free Destination
 
-> **Use this template when submitting a new destination guide. All fields are required. Read our [Contributing Guide](contributing.md) for verification standards and publishing criteria.**
-
----
-
-## Destination Name
-
-**Country/Region:** e.g., Pacific Islands, Caribbean, etc.
-
-**Bug Safety Score (0–10):** [e.g., 1.5 / 10]
+> Fill out ALL sections below. Then submit via PR with label `destination-request`.
 
 ---
 
-### 🐛 Why It"s Bug-Free (or Nearly So)
+## 1. Destination Name
+- **Country/City:** [e.g., Sedona, Arizona, USA]
+- **Region:** [e.g., Southwest US]
+- **Coordinates:** [Optional: e.g., 34.8697° N, 111.7610° W]
 
-> Explain the ecological/geographic reasons. Use bullet points. At least 2 bullet points should cover different factors (climate, geography, elevation, etc.)
+## 2. Bug Score (1-10)
+- **Score:** [1 = bug-free, 10 = bug heaven]
+- **Confidence Level:** [High / Medium / Low — based on sources]
+- **Where This Score Comes From:** [Brief explanation of the evidence]
 
-- e.g., "Hyper-arid desert climate with <5mm annual rainfall — no standing water anywhere"
-- e.g., "Island isolation prevents colonization by flying insects"
-- e.g., "High altitude (1,500m+) keeps temperatures too cool for mosquito breeding"
+## 3. Why It's Bug-Free (The Science)
+- **Elevation:** [e.g., 4,500 ft — thin cool air]
+- **Climate Type:** [e.g., High desert, Mediterranean, Oceanic]
+- **Why Mosquitoes Can't Survive:** [Which of the 3 factors are missing?]
+  - [ ] Standing freshwater absent
+  - [ ] Temperature too cold (< 10°C / 50°F)
+  - [ ] Food sources absent
+  - [ ] Geographic isolation prevents colonization
+  - [ ] Wind/airflow prevents insect flight
+  - [ ] Soil drainage prevents standing water
+  - [ ] Other: [describe]
+- **Regional Explanation:** [1-2 paragraphs explaining the science]
 
----
+## 4. Best Seasons — Month-by-Month Breakdown
 
-### 📅 Safest Seasons to Visit
+| Month | Temp Range | Bug Level | Tips |
+|---|---|---|---|
+| Jan | | /10 | |
+| Feb | | /10 | |
+| Mar | | /10 | |
+| Apr | | /10 | |
+| May | | /10 | |
+| Jun | | /10 | |
+| Jul | | /10 | |
+| Aug | | /10 | |
+| Sep | | /10 | |
+| Oct | | /10 | |
+| Nov | | /10 | |
+| Dec | | /10 | |
 
-| Season | Months | Bug Level | Temperatures | Notes |
-|---|---|---|---|---|
-| **Best Season** | e.g., Jun–Aug | e.g., 0/10 | e.g., 10–20°C | e.g., all trails open, no bugs |
-| **Acceptable** | e.g., Sep–Oct | e.g., 2/10 | e.g., 20–25°C | e.g., shoulder season, pack DEET |
-| **⚠️ Avoid** | e.g., Nov–Mar | e.g., 8/10 | e.g., 28–35°C | e.g., monsoon = mosquito hell |
+**Golden Windows (Best Months):** [List 2-4 best months]
+**Avoid (Worst Months):** [List months with high bug risk & why]
 
-> ⚠️ **Be extremely specific about the exact months.** "Winter" is not enough — say "June–August, July is driest."
+## 5. Must-Do Bug-Free Activities
+1. [Activity 1 — why it's bug-free]
+2. [Activity 2 — why it's bug-free]
+3. [Activity 3 — why it's bug-free]
+4. [Activity 4 — why it's bug-free]
+5. [Activity 5 — why it's bug-free]
 
----
+## 6. Pro Tips for Bug-Phobes
+- **⚠️ THINGS TO WATCH OUT FOR:** [Any hidden bug traps — e.g., certain neighborhoods, times of day, microclimates]
+- **💡 PRO TIP #1:** [Specific advice that works for this destination]
+- **💡 PRO TIP #2:** [Another specific tip]
+- **🚫 What to AVOID:** [Areas, times, or situations that ARE bug-heavy]
+- **✅ Best Escape:** [Where to go when you need to get inside fast]
 
-### 💰 Budget Level
+## 7. Nearby Destinations to AVOID (Comparative Context)
+- **Nearby Bug-Heavy Place:** [e.g., "Don't conflate with Cancun"] — why it's worse
+- **Safe Alternative:** [e.g., "Stay in Puebla instead"] — score comparison
 
-| Symbol | Range |
-|---|---|
-| $ | Less than $50/day |
-| $$ | $50–$150/day |
-| $$$ | $150–$500/day |
-| $$$$ | Over $500/day |
+## 8. Practical Travel Info
+- **Budget Level:** [$ = budget / $$ = moderate / $$$ = pricey / $$$$ = luxury]
+- **Currency:** [e.g., USD, MXN, EUR]
+- **Language:** [e.g., English, Spanish, Japanese]
+- **Flight Duration from US Mainland:** [e.g., ~2-3 hours from Phoenix to Sedona]
+- **Visa Requirements:** [If international]
+- **Main Tourist Season:** [When is PEAK — avoid if crowded]
 
----
+## 9. Source Verification (MINIMUM 2 Independent Sources)
+| # | Source | Type | Reliability |
+|---|---|---|---|
+| 1 | [Source name, URL] | Government / Travel Journalism / Scientific | [High / Medium / Low] |
+| 2 | [Source name, URL] | Government / Travel Journalism / Scientific | [High / Medium / Low] |
+| 3 | [Optional: Source name, URL] | Community / Local Report | Medium |
 
-### 🌍 Top Things to Do
-
-1. [Activity 1]
-2. [Activity 2]
-3. [Activity 3]
-4. [Activity 4]
-5. [Activity 5]
-
----
-
-### 📊 Bug Breakdown by Type
-
-| Bug Type | Presence Level | Notes |
-|---|---|---|
-| Mosquitoes | e.g., Very low / None / Peak Dec–Feb | e.g., rare near rivers only |
-| Ticks | e.g., None / Low | e.g., long grass in spring |
-| Sandflies | e.g., None / Moderate | e.g., coastal areas at dusk |
-| Spiders | e.g., None / Rare | e.g., web builders in cabins |
-| Ants/Other | e.g., None / Occasional | e.g., sugar ants in kitchens |
-| General | e.g., Minimal | e.g., occasional flies near market |
-
----
-
-### ⚠️ Warnings & Traps
-
-> List any seasonal traps, false promises, or places within this destination to AVOID:
-
-- **Trap 1:** e.g., "The northern wetlands near X town are mosquito-heavy in summer even though the rest of the island is safe"
-- **Trap 2:** e.g., "Don"t visit the rainforest reserve — it"s a mosquito breeding ground"
-- **General Warning:** e.g., "Always use DEET at dawn and dusk if anywhere near standing water"
-
----
-
-### 🔍 Sources
-
-> Cite at least 2 independent sources. Use the following format:
-
-1. [Source Name] ([Date]) — [URL or description]
-2. [Source Name] ([Date]) — [URL or description]
-3. [Your own experience / Travel blog] ([Date]) — [If applicable]
-
----
-
-### 🧳 Pro Tips for Bug-Phobic Travelers
-
-1. [Tip 1]
-2. [Tip 2]
-3. [Tip 3]
-
----
-
-### 📅 Personal Visit Dates
-
-> When did you visit? This helps verify current conditions.
-
-| Visit Date | Bug Experience | Seasonal Match? |
-|---|---|---|
-| e.g., July 2025 | No bugs at all; only saw 2 tiny flies | ✅ Matches Dec–Apr guidance |
+## 10. Additional Notes
+- [Any other relevant information]
+- [Date of last verification]
+- [Your GitHub handle for credit]
 
 ---
 
-> **✍️ Once you"ve filled this out, commit it as a new file in the guides/ directory using this naming: `guides/N-destination-name.md` (where N is the next available number). Then open a Pull Request!**
+### ✅ Submission Checklist
+Before submitting, make sure:
+- [ ] Bug Score is justified with evidence
+- [ ] Science explanation covers WHY it's bug-free
+- [ ] Seasonal calendar is month-by-month
+- [ ] At least 2 independent sources cited
+- [ ] Nearby bug-heavy destinations compared
+- [ ] Pro tips for bug-phobes included
+- [ ] PR labeled with `destination-request`
 
-**Questions?** Open a [Discussion](https://github.com/zhub9006/bug-free-travel-guides/discussions) or [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) first so we can help!
+**Submit via Pull Request → Add label `destination-request` → Community reviews → Merged! 🚀**
