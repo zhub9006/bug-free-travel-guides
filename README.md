@@ -2,7 +2,7 @@
 
 > **A community for bug-phobic travelers: safe, insect-free travel destinations, seasonal guides, and tips so creepy-crawlies never ruin a vacation.**
 >
-> **Are you terrified of bugs? Do mosquitoes, spiders, or ticks turn your dream vacation into a nightmare? You're not alone. Welcome to the sanctuary.** ✨🪲🚫
+> **Are you terrified of bugs? Do mosquitoes, spiders, or ticks turn your dream vacation into a nightmare? You're not alone. Welcome to the sanctuary.** ✨🐛🚫
 
 ---
 
@@ -19,14 +19,14 @@
 ## 🚀 Quick Start
 
 1. **New here?** → Read our [Community Welcome Guide](guides/00-welcome.md)
-2. **First destination research?** → Jump to the [First Destination Research Guide](guides/01-first-destination-research-guide.md) — **15+ verified destinations** with bug scores, best-season calendars, and practical travel tips ✨ **NEW & THE FLAGSHIP GUIDE!**
+2. **First destination research?** → Jump to the **[📖 Flagship First Destination Guide](guides/00-first-destination-guide.md)** — **15+ verified destinations** with bug scores, best-season calendars, and practical travel tips ✨ **START HERE!**
 3. **Scared of specifics?** → Jump to the [Quick-Reference Guide](guides/2-bug-free-destinations-quick-reference.md) — destinations at a glance with bug scores, best months, and budgets ⭐
 4. **Dreaming of beaches?** → Check [Tropical & Beach Destinations Deep-Dive](guides/3-bug-free-tropical-beach-destinations.md) — 8 safe tropical spots + forbidden destinations list ⭐
 5. **Want warmth without bugs?** → Check [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) — Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more! ⭐
 6. **Deep-dive research?** → Read the main destination guides:
-   - **[📖 Flagship Web-Research Guide](guides/0-web-research-destination-guide.md)** — 15+ comprehensive destinations with full bug assessments, seasonal safety data, fool-proof tips, forbidden destinations & monthly calendar ✨ **START HERE!**
    - **[📖 Research-Backed Destination Guide](guides/ee-bug-free-destinations-research-guide.md)** — 17+ verified bug-free destinations organized by ecosystem type with seasonal safety calendars, red flag destination warnings & 16+ source citations ⭐
    - **[📖 Comprehensive Research Guide](guides/ee-comprehensive-research-guide.md)** — 15+ destinations with detailed seasonal safety calendar, environmental science explanations, 16+ source validation, DEET checklist & community contribution framework ✨ **NEWEST GUIDE!**
+   - **[📖 Flagship Web-Research Guide](guides/0-web-research-destination-guide.md)** — 15+ comprehensive destinations with full bug assessments, seasonal safety data, fool-proof tips, forbidden destinations & monthly calendar ✨
    - [Community Research Guide](guides/4-community-research-guide.md) — Community-researched destinations with seasonal safety data
    - [Caribbean Bug-Free Picks](guides/5-bug-free-island-destinations.md) — Montserrat & Curaçao deep-dives
    - [US Bug-Free Destinations](guides/6-us-bug-free-destinations.md) — US deserts, Hawaii, parks
@@ -42,7 +42,7 @@
 
 ---
 
-## 📖 About This Community
+## 📚 About This Community
 
 Bug-Free Travel Guides is **built by bug-phobic travelers, for bug-phobic travelers.** Whether you can't sleep without checking for bedbugs, panic at the sight of a spider, or just want to enjoy a beach holiday without mosquitoes swarming your every step — you've found your sanctuary.
 
@@ -74,9 +74,9 @@ If you're terrified of bugs, **avoid these locations** or travel with extreme ca
 | 🇧🇷 **Amazon Basin** | 10/10 | Mosquito heaven; malaria, dengue everywhere |
 | 🇮🇩 **Bali, Indonesia** | 9/10 | Extreme density; dengue in every district |
 | 🇹🇭 **Thailand** | 8/10 | Mosquito heaven; dengue and malaria year-round |
-| 🇸🇨 **Seychelles** | 8/10 | NOT bug-free! Mosquitoes year-round, chikungunya |
-| 🇧🇿 **Belize (lowland)** | 8/10 | Highest mosquito density in Central America |
+| 🇰🇳 **Belize (lowland)** | 8/10 | Highest mosquito density in Central America |
 | 🇨🇷 **Costa Rica (lowland)** | 9/10 | Mosquitoes in every lowland jungle destination |
+| 🇸🇨 **Seychelles** | 8/10 | NOT bug-free! Mosquitoes year-round, chikungunya |
 | 🇯🇲 **Jamaica** | 7/10 | High mosquitoes year-round |
 | 🇹🇿 **Tanzania / Zanzibar** | 7/10 | Safari + Zanzibar evenings = bug feast |
 | 🇭🇰 **Hong Kong / S.E. Asia** | 7–9/10 | Dengue belt; year-round risk |
@@ -111,22 +111,23 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 ## 🏠 Repository Structure
 
 ```
-├── README.md                           ← You are here. Start here.
+├── README.md                           ← You are here. Start here!
 ├── CHANGELOG.md                        ← Track every significant change
 ├── guides/
+│   ├── 00-first-destination-guide.md   ← ★ 15+ destinations with bug scores, best seasons & practical tips (NEW!)
 │   ├── 00-welcome.md                   ← Community welcome & travel tips
-│   ├── 01-first-destination-research-guide.md ← ★ 15+ destinations with bug scores, best seasons & practical tips (NEW!)
+│   ├── 01-first-destination-research-guide.md ← 15+ destinations (earlier version)
 │   ├── 0-web-research-destination-guide.md ← 501-line flagship research compendium
 │   ├── 1-first-destination-research.md ← 18 destinations, detailed bug assessments
 │   ├── 2-bug-free-destinations-quick-reference.md ← At-a-glance cheat sheet
 │   ├── 3-bug-free-tropical-beach-destinations.md ← Tropical deep-dive
-│   ├── 4-community-research-guide.md  ← Community-researched destinations
-│   ├── 5-bug-free-island-destinations.md  ← Caribbean deep-dive
-│   ├── 6-us-bug-free-destinations.md  ← US destinations
-│   ├── 7-european-bug-free-spots.md   ← European & S. Hemisphere
-│   ├── 8-additional-research-findings.md  ← 16-source validation report
+│   ├── 4-community-research-guide.md   ← Community-researched destinations
+│   ├── 5-bug-free-island-destinations.md ← Caribbean deep-dive
+│   ├── 6-us-bug-free-destinations.md   ← US destinations
+│   ├── 7-european-bug-free-spots.md    ← European & S. Hemisphere
+│   ├── 8-additional-research-findings.md ← 16-source validation report
 │   ├── 9-warm-bug-free-destinations.md ← Warm destinations without bugs
-│   ├── aa-community-research-findings.md  ← Supplementary deep-dives
+│   ├── aa-community-research-findings.md ← Supplementary deep-dives
 │   ├── 13-destinations-to-avoid.md     ← Red-flag destinations
 │   ├── 14-community-research-findings.md ← Still-unresearched destinations
 │   ├── community-roadmap.md            ← Community roadmap & contribution tiers
@@ -157,39 +158,7 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 | ✍️ **Submission Template** | [guides/submission-template.md](guides/submission-template.md) |
 | 📝 **Submit a PR** | [PR Template](.github/PULL_REQUEST_TEMPLATE.md) |
 | 🔬 **Research Updates** | [guides/research-updates.md](guides/research-updates.md) |
-| 📰 **Community Newsletter** | [guides/8-newsletter.md](guides/8-newsletter.md) |
-| 🗣️ **Community Discussion** | [GitHub Discussions](https://github.com/zhub9006/bug-free-travel-guides/discussions) |
-| 🔖 **Community Research Findings** | [guides/aa-community-research-findings.md](guides/aa-community-research-findings.md) |
 
 ---
 
-## 🌱 Getting Involved
-
-### Want to write a guide?
-1. Read the [Submission Template](guides/submission-template.md)
-2. Open a [GitHub Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) to request a destination
-3. Fill in your research and submit a PR!
-
-### Want to contribute findings?
-1. Add your destination observations to [aa-community-research-findings.md](guides/aa-community-research-findings.md)
-2. Open a GitHub Issue with the `research` label
-
-### Want to report a bug sighting?
-1. Open a GitHub Issue with the `bug-report` label
-2. Include the destination, location, date, and what you saw
-
-### Want to suggest a new watch?
-1. Open a GitHub Issue with the `destination-request` label
-2. Tell us which destination you'd like covered
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE). Free for all to use, share, and contribute.
-
----
-
-> **🪲🚫 Bug-free travels for bug-phobic travelers. You deserve vacations without the stress!**
-
-*Thanks for joining the community. Now go explore the world — fearlessly!*
+*This guide is maintained by the bug-phobic traveler community. Last verified: July 2026. Bug-free world, one destination at a time.* ✨🐛❌
