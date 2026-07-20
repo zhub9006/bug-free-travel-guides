@@ -4,6 +4,18 @@
 
 ---
 
+## v1.2 — July 2026
+
+### New Guides Added
+- ✅ **`guides/00-first-destination-guide.md`** — **NEW flagship first-destination guide** with 15+ verified bug-free destinations, bug scores (0–10), best-season calendars for every destination, budget ranges, universal pro tips, and a seasonal month-by-month planner. The **primary starting point** for new bug-phobic travelers.
+- Updated **`README.md`** to highlight the new flagship guide as the #1 recommended starting point in Quick Start.
+
+### Improvements
+- README Quick Start restructured to lead with the new `00-first-destination-guide.md` as the primary community entry point.
+- Added seasonal calendar (Jan–Dec) with month-by-month bug-free picks and destinations to avoid.
+
+---
+
 ## v1.1 — July 2026
 
 ### New Guides Added
@@ -48,46 +60,3 @@
 | `2-bug-free-destinations-quick-reference.md` | 15 destinations | Quick-reference cheat sheet with bug scores and budgets |
 | `3-bug-free-tropical-beach-destinations.md` | 8 tropical safe spots + forbidden list | Deep-dive tropical destinations |
 | `4-community-research-guide.md` | 15 destinations | Community-researched with seasonal safety matrix |
-| `5-bug-free-island-destinations.md` | 2 Caribbean (Montserrat, Curaçao) | Island-specific deep-dives |
-| `6-us-bug-free-destinations.md` | 5+ US destinations | Desert, Hawaii, state parks |
-| `7-european-bug-free-spots.md` | 8+ European spots | Island, city, and country guides |
-| `8-additional-research-findings.md` | 16-source validation | Expanded with environmental science and monthly calendar |
-| `9-warm-bug-free-destinations.md` | 12+ warm destinations | Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives |
-| `13-destinations-to-avoid.md` | 25+ top danger spots | Ranked by bug severity with safe alternatives |
-| `14-community-research-findings.md` | 3 regions | New Zealand, Norway/Scandinavia, UK/EU cities |
-| `seasonal-safety-calendar.md` | All destinations | Month-by-month planner with route-by-route safety |
-| `ee-bug-free-destinations-research-guide.md` | 17+ destinations | By ecosystem type with red-flag warnings |
-| `ee-comprehensive-research-guide.md` | 15+ destinations | Comprehensive with science, DEET checklist, contribution framework |
-
-### Infrastructure
-| File | Purpose |
-|---|---|
-| `.github/PULL_REQUEST_TEMPLATE.md` | Contribution checklist and verification protocol |
-| `.github/ISSUE_TEMPLATE/destination_request.md` | Request a new destination guide |
-| `.github/ISSUE_TEMPLATE/bug_report.md` | Report bug sightings or climate anomalies |
-| `.github/ISSUE_TEMPLATE/feedback.md` | General feedback or suggestions |
-
----
-
-## v0.9 — Prelaunch (January 2026)
-
-- Repo scaffold created with MIT license
-- Initial README with destination quick-reference table and seasonal cheat sheet
-- Community contribution framework defined (submission template, contributing guide)
-
----
-
-## Upcoming v1.2
-
-- [ ] Community research sprint output (August 2026) — expand `aa-community-research-findings.md` with community submissions
-- [ ] First "Bug-Free Trip of the Month" traveler spotlight (September 2026)
-- [ ] Annual "Bug-Free Bucket List" public voting calendar
-- [ ] Expand `01-first-destination-research-guide.md` with community-contributed submissions
-- [ ] Add seasonal anomaly alerts to bug-free destination warnings
-- [ ] Community-submitted destination deep-dives for Africa & Central America
-
----
-
-> **Last updated:** July 19, 2026 🦺🪲🚫
->
-> **All community-wide updates in this repository are logged here to ensure users always have the latest bug-free travel data.**
