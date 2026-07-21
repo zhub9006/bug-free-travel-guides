@@ -40,7 +40,9 @@
 
 11. **Community pioneer guide** → Jump to ⭐ 🤝 **[Community Pioneer Guide](guides/22-community-pioneer-guide.md)** — **10 verified bug-free destinations with month-by-month seasonal safety calendar, DEET checklist, budget info, and community contribution framework** ✨ **NEWEST & COMPREHENSIVE!** ⭐
 
-12. **Deep-dive research?** → Read the main destination guides:
+12. 🔬 **Freshly researched destinations?** → Jump to ⭐ **[Fresh Research Destination Guide](guides/06-fresh-research-destination-guide.md)** — **10 newly verified bug-free & low-bug destinations with bug scores, safest-season calendars, DEET checklists, and community contribution framework** ✨ **NEWEST RESEARCH — READ HERE FOR 2026 DATA!** ⭐
+
+13. **Deep-dive research?** → Read the main destination guides:
     - 📖 [Research-Backed Destination Guide](guides/ee-bug-free-destinations-research-guide.md) — 17+ verified bug-free destinations organized by ecosystem type with seasonal safety calendars, red flag destination warnings & 16+ source citations ⭐
     - 📖 [Comprehensive Research Guide](guides/ee-comprehensive-research-guide.md) — 15+ destinations with detailed seasonal safety calendar, environmental science explanations, 16+ source validation, DEET checklist & community contribution framework ✨ **NEWEST GUIDE!**
     - 📖 [Flagship Web-Research Guide](guides/0-web-research-destination-guide.md) — 15+ comprehensive destinations with full bug assessments, seasonal safety data, fool-proof tips, forbidden destinations & monthly calendar ✨
@@ -128,8 +130,15 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 │   ├── 0-web-research-destination-guide.md        ← Flagship research compendium
 │   ├── 21-web-research-first-guide.md             ← NEW! 6 newly verified destinations
 │   ├── 22-community-pioneer-guide.md              ← NEWEST! 10 destinations + DEET checklist
+│   ├── 06-fresh-research-destination-guide.md     ← 🔬 FRESH 2026 RESEARCH: 10 new destinations ⭐
 │   ├── ... (additional guides)
 ├── guides/community-roadmap.md                    → Community roadmap
 └── guides/submission-template.md                  → How to contribute
 ```
 
+---
+
+## 🔗 Links
+
+- **GitHub:** https://github.com/zhub9006/bug-free-travel-guides
+- **Clone:** `git clone https://github.com/zhub9006/bug-free-travel-guides.git`
