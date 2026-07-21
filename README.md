@@ -24,7 +24,7 @@
 
 3. **First destination research (original)** → jump to the 📖 [Flagship First Destination Guide](guides/00-first-destination-guide.md) — 15+ verified destinations with bug scores, best seasons, and practical travel tips
 
-4. **Fresh web-researched destinations?** → Jump to ⭐ **[Web-Research First Guide](guides/21-web-research-first-guide.md)** — **6 newly verified bug-free destinations from fresh web research, with full source citations, seasonal calendars, and community contribution framework** ✨ **NEWEST!**
+4. **Fresh web-researched destinations?** → Jump to ⭐ **[Web-Research First Guide](guides/21-web-research-first-guide.md)** — **6 newly verified bug-free destinations from fresh web research, with full source citations, seasonal calendars, and community contribution framework** ✨ **NEWEST!** ⭐
 
 5. **Scared of specifics?** → Jump to ⭐ 📋 [Quick-Reference Guide](guides/2-bug-free-destinations-quick-reference.md) — destinations at a glance with bug scores, best months, and budgets ⭐
 
@@ -38,7 +38,9 @@
 
 10. **Just researched these destinations?** → Check ⭐ 📋 **[Fresh Research Destination Guide](guides/fresh-research-destination-guide.md)** — 16 destinations researched from 16+ sources with bug scores, seasonal calendars, and pro tips ✨ **NEWEST GUIDE!**
 
-11. **Deep-dive research?** → Read the main destination guides:
+11. **New community pioneer guide** → Jump to ⭐ 🧭 **[Community Pioneer Guide](guides/22-community-pioneer-guide.md)** — **10 verified bug-free destinations with month-by-month seasonal safety calendar, DEET checklist, budget info, and community contribution framework** ✨ **NEWEST & COMPREHENSIVE!** ⭐
+
+12. **Deep-dive research?** → Read the main destination guides:
     - 📖 [Research-Backed Destination Guide](guides/ee-bug-free-destinations-research-guide.md) — 17+ verified bug-free destinations organized by ecosystem type with seasonal safety calendars, red flag destination warnings & 16+ source citations ⭐
     - 📖 [Comprehensive Research Guide](guides/ee-comprehensive-research-guide.md) — 15+ destinations with detailed seasonal safety calendar, environmental science explanations, 16+ source validation, DEET checklist & community contribution framework ✨ **NEWEST GUIDE!**
     - 📖 [Flagship Web-Research Guide](guides/0-web-research-destination-guide.md) — 15+ comprehensive destinations with full bug assessments, seasonal safety data, fool-proof tips, forbidden destinations & monthly calendar ✨
@@ -51,11 +53,11 @@
     - 📋 [⚠️ Destinations to AVOID](guides/13-destinations-to-avoid.md) — Ranked bug-infested hotspots with severity scores & safe alternatives
     - 📋 [Community Research Findings](guides/aa-community-research-findings.md) — Supplementary deep-dives on destinations not yet in the main guides
 
-12. **Want to contribute?** → See [Community Roadmap](guides/community-roadmap.md) → Open an [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) or use the [Submission Template](guides/submission-template.md) → submit a PR!
+13. **Want to contribute?** → See [Community Roadmap](guides/community-roadmap.md) → Open an [Issue](https://github.com/zhub9006/bug-free-travel-guides/issues/new?labels=destination-request) or use the [Submission Template](guides/submission-template.md) → submit a PR!
 
-13. **Critical updates?** → Read [Research Updates & Corrections](guides/research-updates.md)
+14. **Critical updates?** → Read [Research Updates & Corrections](guides/research-updates.md)
 
-14. **Community vibes?** → [Community Index & Discussion](guides/02-community-index.md) — news, spotlights, and calls-to-action
+15. **Community vibes?** → [Community Index & Discussion](guides/02-community-index.md) — news, spotlights, and calls-to-action
 
 ---
 
@@ -150,43 +152,46 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 │   ├── 21-web-research-first-guide.md ← ★ NEW! 6 newly verified destinations ⭐
 │   ├── xx-customer-research-addendum.md ← ★ NEW! 12 destinations + DEET checklists ⭐
 │   ├── aa-community-research-findings.md ← Supplementary deep-dives
-│   ├── 13-destinations-to-avoid.md ← Red-flag destinations
-│   ├── 14-community-research-findings.md ← Still-unresearched destinations
-│   ├── community-roadmap.md        ← Community roadmap & contribution tiers
-│   ├── seasonal-safety-calendar.md ← Month-by-month planner
-│   ├── submission-template.md      ← How to submit a new destination
-│   ├── research-updates.md         ← Live corrections log
-│   └── 02-community-index.md       ← Community index & discussion
-├── .github/
-│   ├── ISSUE_TEMPLATE/destination_request.md   ← Request a destination guide
-│   ├── ISSUE_TEMPLATE/bug_report.md            ← Report bugs in guides
-│   └── PULL_REQUEST_TEMPLATE.md                ← PR template
-├── templates/
-└── LICENSE                          ← MIT License
+│   ├── 13-destinations-to-avoid.md ← ⚠️ Ranked bug-infested hotspots
+│   ├── 14-community-research-findings.md ← New Zealand, Norway, UK/EU
+│   ├── community-roadmap.md ← Roadmap for community development
+│   ├── submission-template.md ← Template for submitting new destinations
+│   ├── research-updates.md ← Critical corrections & updates
+│   └── 🧭 22-community-pioneer-guide.md ← ★ NEW! 10 bug-free destinations,
+│        month-by-month safety calendar, DEET checklist, contribution framework ⭐
 ```
 
 ---
 
-## 📊 Community Stats
+## 💚 Contribute!
 
-- **Guides:** 26+ destination guides and research reports
-- **Destinations verified:** 20+ bug-free destinations across 6 ecosystem types
-- **Sources cited:** 16+ credible travel & entomology databases
-- **Last updated:** July 2026
-- **License:** MIT — free for everyone to use and contribute!
+We welcome bug-phobic travelers from all walks of life:
 
----
-
-## 💬 Get Involved
-
-- **Star** ⭐ the repo if it helped you plan a bug-free trip
-- **Fork** it to create your own personalized bug-free travel planner
-- **Open an Issue** to request a new destination or report outdated information
-- **Submit a PR** to add your own researched destination
-- **Join the discussion** in [Community Index & Discussion](guides/02-community-index.md)
+- **Submit a destination** you've researched safely → Use the [Submission Template](guides/submission-template.md) then open an issue with `destination-request` label
+- **Edit an existing guide** — found an error? Propose a fix via PR!
+- **Share your travel photos** — showing a bug-free hotel room or pristine beach
+- **Add a review** — tell us how a destination actually was for bug-avoidance
+- **Translate guides** — help bug-phobic travelers worldwide!
 
 ---
 
-**🐛 No bugs. No worries. Just beautiful, safe, bug-free destinations.** 🚀
+## 🛡️ Quick DEET Priority List (Travel Insurance Checklist)
 
-*Happy travels to all my fellow bug phobics — we deserve peaceful, bite-free adventures too!* ✨
+Even at the safest destinations, always pack these:
+
+| Item | Purpose |
+|---|---|
+| DEET 30–50% spray | Gold-standard repellent |
+| Picaridin 20% | No-skin-damage alternative |
+| Permethrin-treated clothing | Kills on contact; lasts 70 washes |
+| Head net | Face/neck protection at dawn/dusk |
+| Light-colored long sleeves | Bugs avoid light colors |
+| Portable fan | Mosquitoes can't fly in wind |
+
+---
+
+> **💡 Remember:** No destination is 100% guaranteed in perpetuity — climate change is shifting bug ranges. Always verify current conditions before booking, and just in case, pack DEET. But these destinations offer the closest thing to a bug-free vacation that exists on planet Earth! 🌍✨🐛❌
+
+---
+
+🐛❌🚀 *This community is maintained by bug-phobic travelers, for bug-phobic travelers. Not a medical or entomology authority — always verify independently!*
