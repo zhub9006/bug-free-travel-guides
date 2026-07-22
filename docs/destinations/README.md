@@ -19,6 +19,19 @@ This is the central index of all bug-free travel destination guides. Each guide 
 | ⭐⭐⭐⭐ | Significant bug presence — DEET essential |
 | ⭐⭐⭐⭐⭐ | Avoid if bug-phobic — serious insect pressure |
 
+## 🆕 New This Season
+
+- **🇮🇸 Iceland** — Mosquito-free island nation with biting midges (very low). Best May–June or Dec–Mar.
+- **🇦🇶 Antarctica** — The only continent with effectively zero insects. Best Nov–Jan (tourist season).
+
+## 🔮 Coming Soon
+
+Guides for these destinations are in research/development:
+- 🇳🇿 New Zealand (South Island)
+- 🇨🇦 Canada (Northern territories)
+- 🇺🇸 Alaska
+- 🇮🇪 Ireland
+
 ---
 
-*Guide authors: Open to community contributions! See [README](../README.md) for how to submit.*
+*Guide authors: Open to community contributions! See [main README](../README.md) for how to submit.*
