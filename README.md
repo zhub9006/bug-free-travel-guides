@@ -19,24 +19,26 @@
 
 ## 🚀 Quick Start — Start Here!
 
-1. ⭐ **[Original Research Destination Guide](guides/01-original-research-destinations.md)** — **✨ NEW! 14 verified bug-free destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations of WHY each place is bug-free, budget tiers, a global bug-free month-by-month safety calendar, a universal bug-phobe travel kit, 42+ source citations, and community contribution framework** — **July 2026 COMPREHENSIVE EDITION** ⭐
-2. ⭐ **[Definitive Destination Research Guide](guides/26-definitive-destination-research-guide.md)** — 14 verified bug-free destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations of WHY each place is bug-free, budget tiers, forbidden destinations, a universal bug-phobe travel kit, and a community contribution framework — **UPDATED for 2026!** ⭐
-3. ⭐ **[Web-Research First Destination Guide](guides/0-web-research-first-guide.md)** — 10 verified bug-free destinations with full bug scores, seasonal safety calendars, bug-phobe travel kit, budget tiers, and 20+ source citations — UPDATED for 2026! ⭐
-4. ⭐ **[Fresh Bug-Free Destinations Guide 2026](guides/fresh-bug-free-destinations-2026.md)** — Latest research compilation: 13 verified bug-free destinations with full bug scores, month-by-month seasonal safety calendars, scientific explanations, global month-by-month safety calendar, universal bug-phobe travel kit, quick-reference summary table, and community contribution framework — July 2026 EDITION ⭐
-5. **Research-Verified Destination Guide** → ⭐ [Research-Verified Destination Guide](guides/23-research-verified-destination-guide.md) — 18 verified destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations, and budget tiers ✨
-6. ⭐ **[Fresh Web Research Guide](guides/18-fresh-web-research-guide.md)** — 14 newly verified bug-free destinations with bug scores, seasonal calendars, budget tiers, bug-phobe travel kit, and 12+ source citations ✨
-7. **Quick reference?** → [Quick-Reference Guide](guides/2-bug-free-destinations-quick-reference.md) — destinations at a glance with bug scores, best months, and budgets ⭐
-8. **Tropical beaches?** → [Tropical & Beach Destinations Deep-Dive](guides/3-bug-free-tropical-beach-destinations.md) — 8 safe tropical spots + forbidden destinations list ⭐
-9. **Warm without bugs?** → [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) — Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more! ⭐
+1. ⭐ **[Fresh Research: Bug-Free Destinations & Safest Seasons](guides/02-fresh-research-bug-free-destinations.md)** — **`✨ NEW!`** 7 detailed bug-free destinations with bug scores, month-by-month seasonal safety calendars, the science of WHY each place is bug-free, budget tiers, a global seasonal safety matrix, a universal bug-phobe travel kit, and 15+ source citations — **July 2026 COMPREHENSIVE RESEARCH GUIDE** ⭐
+2. ⭐ **[Original Research Destination Guide](guides/01-original-research-destinations.md)** — **`✨ NEW!`** 14 verified bug-free destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations of WHY each place is bug-free, budget tiers, a global bug-free month-by-month safety calendar, a universal bug-phobe travel kit, 42+ source citations, and community contribution framework — **July 2026 COMPREHENSIVE EDITION** ⭐
+3. ⭐ **[Definitive Destination Research Guide](guides/26-definitive-destination-research-guide.md)** — 14 verified bug-free destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations of WHY each place is bug-free, budget tiers, forbidden destinations, a universal bug-phobe travel kit, and a community contribution framework — **UPDATED for 2026!** ⭐
+4. ⭐ **[Web-Research First Destination Guide](guides/0-web-research-first-guide.md)** — 10 verified bug-free destinations with full bug scores, seasonal safety calendars, bug-phobe travel kit, budget tiers, and 20+ source citations — UPDATED for 2026! ⭐
+5. ⭐ **[Fresh Bug-Free Destinations Guide 2026](guides/fresh-bug-free-destinations-2026.md)** — Latest research compilation: 13 verified bug-free destinations with full bug scores, month-by-month seasonal safety calendars, scientific explanations, global month-by-month safety calendar, universal bug-phobe travel kit, quick-reference summary table, and community contribution framework — July 2026 EDITION ⭐
+6. **Research-Verified Destination Guide** → ⭐ [Research-Verified Destination Guide](guides/23-research-verified-destination-guide.md) — 18 verified destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations, and budget tiers ✨
+7. ⭐ **[Fresh Web Research Guide](guides/18-fresh-web-research-guide.md)** — 14 newly verified bug-free destinations with bug scores, seasonal calendars, budget tiers, bug-phobe travel kit, and 12+ source citations ✨
+8. **Quick reference?** → [Quick-Reference Guide](guides/2-bug-free-destinations-quick-reference.md) — destinations at a glance with bug scores, best months, and budgets ⭐
+9. **Tropical beaches?** → [Tropical & Beach Destinations Deep-Dive](guides/3-bug-free-tropical-beach-destinations.md) — 8 safe tropical spots + forbidden destinations list ⭐
+10. **Warm without bugs?** → [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) — Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more! ⭐
 
 ---
 
 ## 📚 Guide Index
 
 #️⃣ | Guide | Destinations | Focus | Status
----|---|---|---|---
+---|---|---|---|
+⭐ | **[Fresh Research: Bug-Free Destinations & Seasons](guides/02-fresh-research-bug-free-destinations.md)** | 7+ | Fresh deep-dive research: bug scores, seasonal calendars, science explanations, global safety matrix, travel kit, 15+ sources | 🔬 NEW
 ⭐ | **[Original Research Destination Guide](guides/01-original-research-destinations.md)** | 14 | Comprehensive independent research: bug scores, seasonal calendars, global safety matrix, travel kit, 42+ sources, contribution framework | 🔬 NEW
-⭐ | [**Definitive Destination Research Guide**](guides/26-definitive-destination-research-guide.md) | 14 | Full research with seasonal calendars, budget tiers, forbidden destinations, travel kit, contribution framework | 🔥 UPDATED
+⭐ | [**Definitive Destination Research Guide](guides/26-definitive-destination-research-guide.md)** | 14 | Full research with seasonal calendars, budget tiers, forbidden destinations, travel kit, contribution framework | 🔥 UPDATED
 0 | [Web-Research First Destination Guide](guides/0-web-research-first-guide.md) | 10 | Quick-reference with full bug scores & seasonal calendars | Updated 2026
 00 | [First Destination Guide](guides/00-first-destination-guide.md) | 14+ | Original flagship guide with bug scores & seasonal breakdowns | Active
 18 | [Fresh Web Research Guide](guides/18-fresh-web-research-guide.md) | 14 | Newly verified destinations with bug scores & source citations | Active
@@ -49,7 +51,7 @@
 
 ## 📖 About This Community
 
-Bug-Free Travel Guides is **built by bug-phobic travelers, for bug-phobic travelers.** Whether you cannot sleep without checking for bedbugs, panic at the sight of a spider, or just want to enjoy a beach holiday without mosquitoes swarming your every step — you have found your sanctuary. ✨🐛❌🚀
+Bug-Free Travel Guides is **built by bug-phobic travelers, for bug-phobic travelers.** Whether you cannot sleep without checking for bedbugs, panic at the sight of a spider, or just want to enjoy your beach holiday without mosquitoes swarming your every step — you have found your sanctuary. ✨🐛❌🚀
 
 ### How This Community Works
 
@@ -63,10 +65,11 @@ Bug-Free Travel Guides is **built by bug-phobic travelers, for bug-phobic travel
 
 ### Why Trust Our Research?
 
-- **42+ credible sources** in the Original Research Guide alone — from government entomology databases (CDC) to travel industry leaders (Explore.com, MosquitoSquad) to destination-specific tourism boards across 14 countries
+- **42+ credible sources** across all guides — from government entomology databases (CDC) to travel industry leaders (Explore.com, MosquitoSquad) to destination-specific tourism boards across 14 countries
 - **Climate-aware** — All destinations verified within 12 months per community agreement; global warming is shifting insect ranges faster than ever
 - **Science-first** — We don't just say "zero bugs." We explain *why* (island isolation, volcanic soil drainage, sub-zero cold, desert aridity, wind patterns, elevation)
 - **No hidden fees** — This is free, community-driven documentation for everyone
+- **Regular corrections** — We publicly update when new information emerges (see [Research Updates](guides/research-updates.md))
 
 ---
 
@@ -80,11 +83,13 @@ If you are terrified of bugs, **avoid these locations** or travel with extreme c
 | 🇮🇩 **Bali, Indonesia** | 9/10 | Extreme density; dengue in every district |
 | 🇹🇭 **Thailand** | 8/10 | Mosquito heaven; dengue and malaria year-round |
 | 🇨🇷 **Costa Rica (lowland)** | 9/10 | Mosquitoes in every lowland jungle destination |
-| 🇰🇳 **Seychelles** | 8/10 | NOT bug-free! Mosquitoes year-round, chikungunya |
+| 🇸🇨 **Seychelles** | 8/10 | NOT bug-free! Mosquitoes year-round, chikungunya |
 | 🇳🇨 **New Caledonia** | 8/10 | **Dengue-active zone** — 236+ cases in 2026 |
 | 🇯🇲 **Jamaica** | 7/10 | High mosquitoes year-round |
 | 🇹🇿 **Tanzania / Zanzibar** | 7/10 | Safari + Zanzibar evenings = bug feast |
 | 🇭🇰 **Hong Kong / S.E. Asia** | 7-9/10 | Dengue belt; year-round risk |
+| 🇵🇦 **Panama (Bocas del Toro)** | 9/10 | Mosquito paradise; tropical humidity |
+| 🇲🇽 **Chiapas, Mexico (lowland)** | 8/10 | Jungle areas; malaria risk |
 
 **See the full [Destinations to Avoid Guide](guides/13-destinations-to-avoid.md) for detailed severity ratings, safe alternatives per destination, and seasonal trapping information.**
 
@@ -112,7 +117,7 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 
 > **🔑 Safest global months for bug-phobes:** December–March (Northern hemisphere winter = Southern hemisphere summer in bug-free zones; Northern cold = zero bugs)
 
-**Full month-by-month planner:** [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md), the [Definitive Guide](guides/26-definitive-destination-research-guide.md), and our [Original Research Guide](guides/01-original-research-destinations.md)!
+**Full month-by-month planner:** [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md), the [Definitive Guide](guides/26-definitive-destination-research-guide.md), and our [Fresh Research Guide](guides/02-fresh-research-bug-free-destinations.md)!
 
 ---
 
@@ -122,10 +127,11 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 ├── README.md                                          ← You are here. Start here!
 ├── CHANGELOG.md                                        ← All updates & corrections
 ├── guides/
-│   ├── 01-original-research-destinations.md           ← 🔬 COMPREHENSIVE ORIGINAL RESEARCH — 14 destinations, 42+ sources, global safety calendar ⭐ NEW!
+│   ├── 02-fresh-research-bug-free-destinations.md     ← 🔬 NEW! 7+ destinations, seasonal safety matrix, travel kit, 15+ sources
+│   ├── 01-original-research-destinations.md           ← 🔬 NEW! Comprehensive research: 14 destinations, 42+ sources
 │   ├── 26-definitive-destination-research-guide.md    ← ⭐ NEW! Definitive guide with travel kit & contribution framework
 │   ├── fresh-bug-free-destinations-2026.md            ← 🌟 LATEST RESEARCH: 13 destinations, global seasonal planner, travel kit
-│   ├── 0-web-research-first-guide.md                  ← ⭐ NEW! 10 verified bug-free destinations with bug scores & seasonal calendars ⭐
+│   ├── 0-web-research-first-guide.md                  ← ⭐ NEW! 10 verified bug-free destinations with bug scores & seasonal calendars
 │   ├── 00-first-destination-guide.md                 ← Original flagship first destination guide
 │   ├── 00-first-destination-guide-new-research.md    ← Updated guide with 18 verified destinations
 │   ├── 18-fresh-web-research-guide.md                 ← 14 newly verified destinations with bug scores & source citations
@@ -149,63 +155,41 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 ## 💬 Community Update — July 2026
 
 This month, we added:
-- ⭐ **Original Research Destination Guide** (`guides/01-original-research-destinations.md`) — **14 independently researched bug-free destinations with bug scores, month-by-month seasonal safety calendars, scientific WHY explanations, budget tiers, a global bug-free month-by-month safety calendar, a universal bug-phobe travel kit (all items), pro tips for every destination, 42+ source citations, and community contribution framework**
-- **Definitive Destination Research Guide** (`guides/26-definitive-destination-research-guide.md`) — 14 verified bug-free destinations with full bug scores, seasonal safety calendars, budget tiers, forbidden destinations, a universal bug-phobe travel kit, community contribution framework, and 15+ source citations ⭐ **UPDATED!**
+- ⭐ **Fresh Research Bug-Free Destinations Guide** (`guides/02-fresh-research-bug-free-destinations.md`) — **`NEW!`** 7 deeply-researched bug-free destinations (Antarctica, Iceland, Atacama, Maldives, Canary Islands, Hawaii Kona) with bug scores, month-by-month seasonal safety calendars, scientific explanations, global safety matrix, universal bug-phobe travel kit, pro tips, and 15+ source citations
+- ⭐ **Original Research Destination Guide** (`guides/01-original-research-destinations.md`) — **`NEW!`** 14 independently researched bug-free destinations with bug scores, month-by-month seasonal safety calendars, scientific WHY explanations, budget tiers, a global bug-free month-by-month safety calendar, a universal bug-phobe travel kit (all items), pro tips for every destination, 42+ source citations, and community contribution framework
+- **Definitive Destination Research Guide** (`guides/26-definitive-destination-research-guide.md`) — 14 verified destinations with full bug scores, seasonal safety calendars, budget tiers, forbidden destinations, a universal bug-phobe travel kit, community contribution framework, and 15+ source citations ⭐ **UPDATED!**
 - **Critical updates** — Iceland mosquito alert (2025 discovery), New Caledonia dengue warning, Patagonia seasonal caveats, Hobart (Australia) desert additions
 - **Community framework** — Bug-phobe travel kit, 7 Commandments of Bug-Phobe Travel, submission template, quality standards, and community welcome issue (#59)
 
-### 🔬 What's New in the Original Research Guide
-The Original Research Guide represents the community's first independently-researched compilation, using original web searches and source verification:
+---
 
-**14 Destinations Verified:**
-| # | Destination | Bug Score | Best Window | Key Feature |
-|---|---|---|---|---|
-| 1 | Antarctica | 0/10 | Nov–Mar | ONLY true zero-bug guarantee on Earth |
-| 2 | Iceland | 0–1/10 | Year-round | Previously zero-bug; now monitor (Oct 2025 discovery) |
-| 3 | Atacama Desert, Chile | 0/10 | Year-round | Driest place on Earth; Mars-like |
-| 4 | Madeira, Portugal | 1–2/10 | Nov–Mar | European island; Levada walks |
-| 5 | Curaçao, Caribbean | 1–2/10 | Year-round | Trade wind island; snorkeling capital |
-| 6 | Montserrat, Caribbean | 1/10 | Year-round | Volcanic terrain; zero-bug paradise |
-| 7 | Aruba, Caribbean | 1–2/10 | Year-round | Arid desert island; Eagle Beach |
-| 8 | Hawaii — Kona Coast | 2/10 | Year-round (Kona) | Manta ray night dives; cooler Kona side |
-| 9 | Dubai / Abu Dhabi, UAE | 1–2/10 | Dec–Mar | Luxury; vector control; desert heat suppresses bugs |
-| 10 | Alps / Black Forest (DE, AT, CH) | 2–3/10 | Jun–Sep | Mountain breezes; above 1,500m = zero bugs |
-| 11 | London, England | 2–3/10 | May–Sep | Cool rainy climate; indoor culture |
-| 12 | Puebla, Mexico | 2–3/10 | Oct–Apr | HIGH altitude Mexican city; authentic colonial |
-| 13 | New Zealand (North Island) | 3–4/10 | Year-round | No snakes; no disease-carrying mosquitoes; sandfly zones marked |
-| 14 | Sedona, Arizona | 2–3/10 | Mar–May & Oct–Nov | Red rock desert; zero standing water |
+## 🔬 Sources Used in Fresh Research
 
-Plus: **Global Month-by-Month Bug-Free Safety Calendar**, **Universal Bug-Phobe Travel Kit**, and **42+ source citations**.
+| Source | Type |
+|---|---|
+| Explore.com (Jan 2024) — Best vacation destinations where mosquitoes are not a problem | Travel Journalism |
+| Cheapism — Where to Vacation if You Hate Bugs (2024) | Travel Industry |
+| MosquitoSquad (Apr 2023) — Best Mosquito-Free Holiday Destinations | Entomology |
+| RustourismNews (Mar 2025) — Mosquito-Free Destinations You Need to Visit | Travel News |
+| Ourhotels.is — Why Iceland Has No Mosquitoes | Destination Tourism Board |
+| dignitytravel.biz — Does Iceland Have Mosquitoes: Bug-Free Travel Paradise Explained | Travel Journalism |
+| AtacamaChileTours / adventuretripr.com / desertsoftheworld.com — Atacama seasonal data | Destination Tourism |
+| Maldives-magazine.com / travellersworldwide.com — Maldives dry/wet season data | Destination Tourism |
+| weathercuracao.com / sefariadventurescuracao.com — Curaçao insect data | Destination Tourism |
+| Yodl.travel / besttimestovisit.com — Canary Islands seasonal data | Destination Tourism |
+| Campervaniceland.com — Iceland seasonal mosquito data | Travel Journalism |
+| mosquitoindex.com — Iceland Mosquito Risk Index 2026 | Entomology |
+| findingouradventure.com — Canary Islands month-by-month guide | Travel Journalism |
+| Reddit r/CampingGear — Atacama bug reports | Community |
+| CNN — Soneva Fushi Maldives mosquito-free initiative | News |
+| bigisland-tours.com / howtoliveinhawaii.com / ontheeve.com / taketravelinfo.com — Kona data | Destination Tourism |
+| CDC Travelers' Health — Destination Notices | Official |
+| nomads.com — Places Without Mosquitos database | Database |
+| ScienceABC.com — Why Are There Few or No Mosquitoes in Some Places? | Science |
+| Your personal travel reports & community PRs | Community |
 
 ---
 
-## 🐛 Sources Used in Original Research
+🚀🐛❌ **Bug-free lands are waiting for you.** Every destination on this list is proof that even the most bug-reluctant traveler can explore our planet safely. Stay informed, plan your seasons smart, and never let a six-legged creature steal your sunset.
 
-This guide compiles data from original web searches across 42+ credible sources:
-
-### Official & Scientific
-- CDC Travelers' Health (wwwnc.cdc.gov/travel) — Avoid bug bites, destination notices
-- ScienceABC.com — "Why Are There Few or No Mosquitoes in Some Places?"
-- Nomad List — Places Without Mosquitos database (nomads.com)
-
-### Travel Journalism & Industry
-- Explore.com (Jan 2024) — Best vacation destinations where mosquitoes are not a problem
-- Cheapism — Best places to vacation if you hate bugs (2024)
-- MosquitoSquad (Apr 2023) — Best mosquito-free holiday destinations
-- RustourismNews (Mar 2025) — Mosquito-free destinations you need to visit
-
-### Destination-Specific Tourism Boards
-- Guide to Iceland / adventures.is — Iceland monthly weather + mosquito status
-- AtacamaChileTours / adventuretripr.com / desertsoftheworld.com — Atacama seasonal data
-- Maldives-magazine.com / travellersworldwide.com — Maldives dry/wet season data
-- weathercuracao.com / travellersworldwide.com / seafariadventurescuracao.com — Curaçao data
-- Yodl.travel / Climates to Travel / besttimestovisit.com — Montserrat data
-- bigisland-tours.com / howtoliveinhawaii.com / ontheeve.com / taketravelinfo.com — Kona data
-- accuweather.com / citizendailypost.com / portugalist.com — Madeira data
-- nomadasaurus.com / travellersworldwide.com / adventuresmithexplorations.com — Antarctica data
-- sedonabest.com / national-park.com — Sedona monthly data
-- findingouradventure.com / enjoycanaryislands.com — Canary Islands data
-
----
-
-Happy (bug-free) travels! 🌍✈️🐛❌🚀
+*Last updated: July 2026 — Community Research Contribution*
