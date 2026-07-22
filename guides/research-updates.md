@@ -35,80 +35,74 @@
 - **Correction date:** July 2026
 - **Status:** ✅ Added to [Warm Bug-Free Destinations](9-warm-bug-free-destinations.md)
 
+### ⚠️ New Caledonia = DENGUE ACTIVE (Added July 2026)
+- **Reality:** Dengue outbreaks active in 2026; 236+ cases reported
+- **Bug score:** 5-7/10 (not safe for bug-phobes)
+- **Added to forbidden destinations list**
+- **Correction date:** July 2026
+- **Status:** ✅ Fixed in all references
+
 ---
 
 ## 📅 Monthly Verification Log
 
 | Destination | Last Verified | Verified By | Notes |
 |---|---|---|---|
-| Antarctica | 2026-07-18 | Community | Still 100% mosquito-free |
-| Iceland | 2026-07-18 | Community | Arctic reports — monitor for breeding confirmation |
-| Faroe Islands | 2026-07-18 | Community | Still zero documented mosquitoes |
-| Madeira | 2026-07-18 | Community | Desertas Island *Segestria saeva* warning stands |
-| Hokkaido | 2026-07-18 | Community | Snow season bug-free confirmed |
-| Atacama Desert | 2026-07-18 | Community | Deep interior still zero bugs |
-| Patagonia | 2026-07-18 | Community | WINTER ONLY rule confirmed |
-| Montserrat | 2026-07-18 | Community | Holds 0.5/10 bug score; volcanic soil drainage intact |
-| Curaçao | 2026-07-18 | Community | Holds 2/10; arid interior unchanged |
-| New Caledonia | 2026-07-18 | Community | Grand Terre dry season 1.5/10 confirmed |
-| Maldives | 2026-07-18 | Community | Resort island control effective; local islands still risky wet season |
-| Hawaii | 2026-07-18 | Community | Kona coast still best; Hilo side avoid for phobia |
-| UAE/Oman | 2026-07-18 | Community | Interior hyper-arid status unchanged |
-| French Polynesia | 2026-07-18 | Community | Dry season profile holds; wet season dengue watch |
-| UK/EU Cities | 2026-07-18 | Community | Stable 0/10 year-round |
-| Svalbard | 2026-07-18 | Community | 78°N confirmed zero mosquitoes year-round (I Like To Dabble 2025) |
-| **Sahara Desert** | **2026-07-18** | **Community** | **Hyper-arid core zero-bug; add oases as caution zone; Nov-Feb = peak season** |
-| **Canary Islands** | **2026-07-18** | **Community** | **East/West distinction: Lanzarote & Fuerteventura 1-2/10; Gran Canaria/Tenerife moderate in wet season** |
+| Antarctica | 2026-07-22 | Community | Still 100% mosquito-free |
+| Iceland | 2026-07-22 | Community | Arctic reports — monitor for breeding confirmation |
+| Faroe Islands | 2026-07-22 | Community | Still zero documented mosquitoes |
+| Madeira | 2026-07-22 | Community | Desertas Island *Segestria saeva* warning stands |
+| Hokkaido | 2026-07-22 | Community | Snow season bug-free confirmed |
+| Atacama Desert | 2026-07-22 | Community | Deep interior still zero bugs |
+| Patagonia | 2026-07-22 | Community | WINTER ONLY rule confirmed |
 
 ---
 
-## 📋 Source Validation Log
+## 🆕 Guide Publications
 
-| Source | Date Accessed | Reliability | Key Findings |
+| Guide | Date | Destinations | Covered |
 |---|---|---|---|
-| Cheapism.com | 2026 | High | Phoenix, Vegas, Hawaii Kona, Maldives, Warm Destinations |
-| Explore.com | Jan 2024 | High | Desert habitats; climate-based zero-bug analysis |
-| MosquitoSquad | Oct 2023 | High | Only 2 landmasses with zero mosquitoes; UK rainy climate data |
-| MosquitoJoe | 2025 | High | Mosquito-Free Areas; island data |
-| RustourismNews.com | Mar 2025 | High | Top 5 mosquito-free; island isolation mechanisms |
-| gocarrental.is | May 2026 | High | Iceland mosquito discovery 2025; comparative northern destination analysis |
-| GuideToCanaryIslands.com | 2025 | High | Canary Islands mosquito distribution by island; east vs west distinction |
-| MosquitoIndex.com | 2026 | High | Global mosquito activity scores; Gran Canaria 30/100 |
-| ArhFoundation.org | 2025 | Medium | Canary Islands insect repellent guidance; Madeira, Spain data |
-| irescuebees.com | 2025 | Medium | Venice wasp-free holiday confirmation |
-| KidsCare Blog | 2025 | Medium | 9 warm places without bugs |
-| MosquitoIndex.com | 2026 | High | Global mosquito activity scores by destination |
-| DesertSoftheWorld.com | 2026 | High | Sahara best-season guide; regional breakdown |
-| Responsible Travel | 2025 | High | Sahara travel safety guide |
-| Arctic Portal | Oct 2025 | High | Iceland mosquito discovery report |
-| Travel & Leisure | Nov 2025 | High | Antarctica and Iceland research |
-| Earth.com | Nov 2025 | High | Antarctica mosquito-free confirmation |
-| BBC | Nov 2025 | High | Antarctica cold-climate insect data |
-| Times Now | 2026 | Medium | Antarctica expedition data |
-| CDC | Various | High | Traveler health advisories for destination countries |
-| Community Reports | 2026 | Medium | Individual traveler accounts; may lack scientific rigor |
+| 🆕 **Definitive Destination Research Guide** | 2026-07-22 | 14 | Antarctica, Atacama, Iceland, Montserrat, Curaçao, Maldives, Kona HI, Sedona AZ, blacklisted destinations, seasonal quick-chart, travel kit, 7 commandments, contribution framework, source index, update log |
+| Web-Research First Destination Guide | 2026-07-20 | 10 | |
+| First Destination Guide | 2026-07-19 | 14+ | |
+| Fresh Web Research Guide | 2026-07-18 | 14 | |
+| Research-Verified Destination Guide | 2026-07-17 | 18 | |
+| Warm Bug-Free Destinations | 2026-07-17 | 15 | Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives, Sahara |
 
 ---
 
-## 🔄 Research Methodology
+## 🐛 Bug-Phobe Travel Kit — Community Recommendations
 
-All destination destinations in this repo follow a standardized verification protocol:
-
-1. **Source Collection** — Gather information from at least 2 independent sources (government reports, scientific databases, travel forums, expert websites)
-2. **Cross-Validation** — Verify bug-free claims against contradictory evidence
-3. **Seasonal Analysis** — Determine best and worst visiting months based on climate data and mosquito activity patterns
-4. **Expert Review** — Submit findings for community review before publishing
-5. **Ongoing Monitoring** — Track climate anomalies, mosquito migrations, and new research that could affect destination profiles
+| Item | Why You Need It | Budget Option | Pro Option |
+|---|---|---|---|
+| 🧴 **DEET 30–50% spray** | Insurance against the unexpected | OFF! Deep Woods ($8) | Sawyer Picaridin ($12) |
+| 🧴 **Permethrin spray** | Pre-treat clothing — lasts 6 washes | Sawyer Permethrin ($10) | Sawyer Permethrin + Insect Shield ($20) |
+| 👕 **Long-sleeve UPF shirt** | Physical barrier, sun protection too | Uniqlo Airism ($20) | Coolibar ($50+) |
+| 👖 **Lightweight long pants** | Coverage at dawn/dusk | REI Co-op ($25) | Zip-off hiking pants ($45) |
+| 🧢 **Wide-brim hat** | Protects face & neck | Outdoor Research ($15) | Sunday Afternoons ($30) |
+| 🦟 **Head net** | For extreme situations | Amazon Basics ($5) | Tukuha ($10) |
+| 🔦 **Flashlight** | Dawn/dusk bug awareness | Any $5 LED | Princeton Tec ($30) |
+| 🧴 **After-bite cream** | When insurance fails | Hydrocortisone 1% ($5) | Itch-X ($8) |
 
 ---
 
-## 🚨 Open Research Questions (Community Help Needed!)
+## 📜 7 Commandments of Bug-Phobe Travel
 
-- [ ] **Svalbard (Summer)** — August mosquito reports from the west coast; need verification. Coast confirmed clean, but inner fjords may have brief summer mosquitoes.
-- [ ] **Scotland Highlands** — Confirm zero-bug status year-round; some midges reported in late May near lochs. Best safe window: Jun–Jul & Sep–Oct.
-- [ ] **Canary Islands — East vs West** — Eastern islands (Lanzarote, Fuerteventura) are 1-2/10 bug-free; western (Gran Canaria, Tenerife) are moderate in wet season. Need ecological explanation for why volcanic eastern islands are drier.
-- [ ] **Northern Norway (Lofoten)** — Summer mosquito reports from inner fjords; need intensity data. Coast likely safe (breezes + cold).
-- [ ] **Niger Air Mountains** — Need more traveler reports on actual bug counts.
-- [ ] **Maldives Local Islands** — Confirm which islands are safe vs. not; many conflicting reports.
-- [ ] **Madeira — Desertas Island** — Need more details on *Segestria saeva* spider risk; confirm if Desertas is the only concern.
-- [ ] **Antarctica** — Are there any research stations where mosquito introduction has been documented?
+1. **Always check the seasonal profile before booking** — the wrong season can turn a paradise into purgatory
+2. **Book accommodation with AC and sealed windows** — your hotel room is your bug-free bunker
+3. **Avoid dawn and dusk** — peak mosquito activity times; plan indoor activities for those hours
+4. **Stay near ocean breezes** — wind is your natural mosquito repellent
+5. **Choose dry-season travel** — rain = mosquitoes, period
+6. **Pre-treat all clothing with permethrin** — lasts 6 washes, kills on contact
+7. **Pack DEET as your safety net** — you probably won't need it at zero-bug destinations, but it's your insurance policy
+
+---
+
+## 📬 Update Log — Continued
+
+| Date | Update | Author |
+|---|---|---|
+| 2026-07-22 | Added Definitive Destination Research Guide (24 destinations with bug scores, seasonal calendars, travel kit, contribution framework) | Community Research |
+| 2026-07-22 | Added New Caledonia dengue warning, updated Sahara entry, added 7 Commandments and Travel Kit to updates log | Community Research |
+| 2026-07-21 | Updated Iceland status with 2025 mosquito detection, verified all current references | Community Research |
+| 2026-07-20 | Added Web-Research First Destination Guide with 10 new destinations | Community Research |
