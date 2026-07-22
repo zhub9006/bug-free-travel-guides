@@ -21,11 +21,12 @@
 
 1. ⭐ **[Definitive Destination Research Guide](guides/26-definitive-destination-research-guide.md)** — **14 verified bug-free destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations of WHY each place is bug-free, budget tiers, forbidden destinations, a universal bug-phobe travel kit, and a community contribution framework** — **UPDATED for 2026!** ⭐
 2. ⭐ **[Web-Research First Destination Guide](guides/0-web-research-first-guide.md)** — 10 verified bug-free destinations with full bug scores, seasonal safety calendars, bug-phobe travel kit, budget tiers, and 20+ source citations — UPDATED for 2026! ⭐
-3. **Research-Verified Destination Guide** → ⭐ [Research-Verified Destination Guide](guides/23-research-verified-destination-guide.md) — 18 verified destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations, and budget tiers ✨
-4. ⭐ **[Fresh Web Research Guide](guides/18-fresh-web-research-guide.md)** — 14 newly verified bug-free destinations with bug scores, seasonal calendars, budget tiers, bug-phobe travel kit, and 12+ source citations ✨
-5. **Quick reference?** → [Quick-Reference Guide](guides/2-bug-free-destinations-quick-reference.md) — destinations at a glance with bug scores, best months, and budgets ⭐
-6. **Tropical beaches?** → [Tropical & Beach Destinations Deep-Dive](guides/3-bug-free-tropical-beach-destinations.md) — 8 safe tropical spots + forbidden destinations list ⭐
-7. **Warm without bugs?** → [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) — Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more! ⭐
+3. ⭐ **[Fresh Bug-Free Destinations Guide 2026](guides/fresh-bug-free-destinations-2026.md)** — **Latest research compilation: 13 verified bug-free destinations with full bug scores, month-by-month seasonal safety calendars, scientific explanations, global month-by-month safety calendar, universal bug-phobe travel kit, quick-reference summary table, and community contribution framework** — July 2026 EDITION ⭐
+4. **Research-Verified Destination Guide** → ⭐ [Research-Verified Destination Guide](guides/23-research-verified-destination-guide.md) — 18 verified destinations with bug scores, month-by-month seasonal safety calendars, scientific explanations, and budget tiers ✨
+5. ⭐ **[Fresh Web Research Guide](guides/18-fresh-web-research-guide.md)** — 14 newly verified bug-free destinations with bug scores, seasonal calendars, budget tiers, bug-phobe travel kit, and 12+ source citations ✨
+6. **Quick reference?** → [Quick-Reference Guide](guides/2-bug-free-destinations-quick-reference.md) — destinations at a glance with bug scores, best months, and budgets ⭐
+7. **Tropical beaches?** → [Tropical & Beach Destinations Deep-Dive](guides/3-bug-free-tropical-beach-destinations.md) — 8 safe tropical spots + forbidden destinations list ⭐
+8. **Warm without bugs?** → [Warm & Bug-Free Destinations Guide](guides/9-warm-bug-free-destinations.md) — Phoenix, Las Vegas, Dubai, Canary Islands, Venice, Maldives & more! ⭐
 
 ---
 
@@ -33,7 +34,8 @@
 
 #️⃣ | Guide | Destinations | Focus | Status
 ---|---|---|---|---
-⭐ | [**Definitive Destination Research Guide**](guides/26-definitive-destination-research-guide.md) | 14 | Full research with seasonal calendars, budget tiers, forbidden destinations, travel kit, contribution framework | 🆕 NEW
+⭐ | [**Definitive Destination Research Guide**](guides/26-definitive-destination-research-guide.md) | 14 | Full research with seasonal calendars, budget tiers, forbidden destinations, travel kit, contribution framework | 🔥 NEW
+⭐ | [**Fresh Bug-Free Destinations Guide 2026**](guides/fresh-bug-free-destinations-2026.md) | 13 | Latest verified research — bug scores, seasonal calendars, global month-by-month planner, travel kit, quick-reference table | 🌟 LATEST
 0 | [Web-Research First Destination Guide](guides/0-web-research-first-guide.md) | 10 | Quick-reference with full bug scores & seasonal calendars | Updated 2026
 00 | [First Destination Guide](guides/00-first-destination-guide.md) | 14+ | Original flagship guide with bug scores & seasonal breakdowns | Active
 23 | [Research-Verified Destination Guide](guides/23-research-verified-destination-guide.md) | 18 | Scientific deep-dives with bug scores & monthly calendars | Active
@@ -77,7 +79,7 @@ If you are terrified of bugs, **avoid these locations** or travel with extreme c
 |---|---|---|
 | 🇧🇷 **Amazon Basin** | 10/10 | Mosquito heaven; malaria, dengue everywhere |
 | 🇮🇩 **Bali, Indonesia** | 9/10 | Extreme density; dengue in every district |
-| 🇵🇭 **Thailand** | 8/10 | Mosquito heaven; dengue and malaria year-round |
+| 🇹🇭 **Thailand** | 8/10 | Mosquito heaven; dengue and malaria year-round |
 | 🇨🇷 **Costa Rica (lowland)** | 9/10 | Mosquitoes in every lowland jungle destination |
 | 🇸🇨 **Seychelles** | 8/10 | NOT bug-free! Mosquitoes year-round, chikungunya |
 | 🇳🇨 **New Caledonia** | 8/10 | **Dengue-active zone** — 236+ cases in 2026 |
@@ -108,7 +110,7 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 | **Aug** | Antarctica expedition (peak season!), Madeira, Kona Hawaii, US parks | S.E. Asia wet season, Amazon, part of Patagonia |
 | **Sep** | Canary Islands (autumn), UAE/Oman | French Polynesia wet season, Patagonia MELTDOWN |
 
-**Full month-by-month planner:** [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md) and the [Definitive Guide](guides/26-definitive-destination-research-guide.md)!
+**Full month-by-month planner:** [Seasonal Safety Calendar](guides/seasonal-safety-calendar.md) and the [Definitive Guide](guides/26-definitive-destination-research-guide.md) + our [Fresh Research Guide 2026](guides/fresh-bug-free-destinations-2026.md)!
 
 ---
 
@@ -119,6 +121,7 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 ├── guides/
 │   ├── 26-definitive-destination-research-guide.md ← ⭐ NEW! Definitive guide with 14 destinations, travel kit & contribution framework ⭐
 │   ├── 0-web-research-first-guide.md              ← ⭐ NEW! 10 verified bug-free destinations with bug scores & seasonal calendars ⭐
+│   ├── fresh-bug-free-destinations-2026.md        ← 🌟 LATEST RESEARCH: 13 verified destinations, global seasonal planner, travel kit ⭐
 │   ├── 00-first-destination-guide.md              ← Original flagship first destination guide
 │   ├── 00-first-destination-guide-new-research.md ← Updated guide with 18 verified destinations
 │   ├── 18-fresh-web-research-guide.md             ← 14 newly verified destinations with bug scores & seasonal calendars
@@ -145,13 +148,31 @@ We don't just maintain guides — we're building the future of bug-free travel. 
 
 This month, we added:
 - **Definitive Destination Research Guide** (`guides/26-definitive-destination-research-guide.md`) — 14 verified bug-free destinations with full bug scores, seasonal safety calendars, budget tiers, forbidden destinations, a universal bug-phobe travel kit, community contribution framework, and 15+ source citations ⭐ **NEW AND COMPREHENSIVE!**
+- **Fresh Bug-Free Destinations Guide 2026** (`guides/fresh-bug-free-destinations-2026.md`) — Fresh 13-destination research compilation with global seasonal planner, travel kit, quick-reference summary table, and 10+ source citations ⭐ **LATEST DROP!**
 - **Critical updates** — Iceland mosquito alert, New Caledonia dengue warning, Patagonia seasonal caveats, New Caledonia added to forbidden list
 - **Community framework** — Bug-phobe travel kit, 7 Commandments of Bug-Phobe Travel, submission template, and quality standards
 
-Happy (bug-free) travels! 🌍✈️🐛❌🚀
+**Happy (bug-free) travels!** 🌍✈️🐛❌🚀
 
 ## Repository Metadata
 
 - **GitHub:** https://github.com/zhub9006/bug-free-travel-guides
 - **Clone:** `git clone https://github.com/zhub9006/bug-free-travel-guides.git`
 - **License:** MIT
+
+## Repository Structure
+
+### Directories
+- ** guides/**
+- **.github/**
+- **guides/**
+- **templates/**
+
+### Files
+- BUG_FREE_DESTINATIONS.md (9.7 KB)
+- CHANGELOG.md (1.4 KB)
+- CONTRIBUTING.md (5.0 KB)
+- DESTINATION_GUIDES.md (14.1 KB)
+- README.md (11.1 KB)
+- research-updates.md (4.7 KB)
+- submission-template.md (1.3 KB)
