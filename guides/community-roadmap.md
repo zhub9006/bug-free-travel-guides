@@ -1,113 +1,125 @@
-# 🗺️ Community Roadmap — Building the Future of Bug-Free Travel Together
+# 🗺️ Community Roadmap
 
-> **For contributors, community members, and anyone who wants to help shape this project.** Updated July 2026.
-
----
-
-## 🎯 Phase 1: The Definitive Body of Knowledge ✅ (DONE)
-
-| Milestone | Status |
-|---|---|
-| Flagship AI-researched destination guide (16+ destinations) | ✅ Complete |
-| Research-backed destination guide (17+ destinations by ecosystem) | ✅ Complete |
-| Quick-reference cheat sheet | ✅ Complete |
-| Tropical & beach deep-dive | ✅ Complete |
-| Caribbean safe picks (Montserrat & Curaçao) | ✅ Complete |
-| US bug-free destinations | ✅ Complete |
-| European & Southern Hemisphere guide | ✅ Complete |
-| "Destinations to AVOID" red-flag list | ✅ Complete |
-| 16-source validation report | ✅ Complete |
-| Seasonal safety calendar (month-by-month) | ✅ Complete |
-| Community research guide (5 community-ready destinations) | ✅ Complete |
-| Submission template & contributing standards | ✅ Complete |
-| Fresh Web Research Guide — 10 independently verified destinations | ✅ Complete |
-| **✨ Comprehensive Original Research Guide — 14 destinations, global month-by-month safety calendar, travel kit, 42+ sources, bug-phobes travel kit, priority destinations** | ✅ **NEW (Jul 2026)** |
-| Community welcome issue & first PR template | ✅ Complete |
+> **What's done, what's next, and how you can help shape the future of bug-free travel.**
 
 ---
 
-## 🚀 Phase 2: Deepen the Pool (Open for contributions)
+## ✅ Completed / Verified
 
-### 🗺️ Missing Destinations to Research
-Pick one and submit a PR! All will have full seasonal calendars and bug scores.
+### Destination Research
+- [x] 🇮🇸 Iceland — Full scientific breakdown, seasonal data
+- [x] 🇦🇨 Antarctica — Verified as only full mosquito-free landmass
+- [x] 🇨🇱 Atacama Desert — Driest desert, zero-bug confirmed
+- [x] 🇲🇻 Maldives — Resort-level pest control verified
+- [x] 🇨🇼 Curaçao — Trade winds, semi-arid, very low bugs
+- [x] 🇺🇸 Kona, Hawaii — Volcanic soil, breezy coast, low bugs
+- [x] 🇪🇸 Canary Islands — Ocean-cooled, volcanic aridity
+- [x] 🇩🇿 Sahara Desert — Hyper-arid, zero-bug confirmed
+- [x] 🇺🇸 Sedona, AZ — High desert, low humidity
+- [x] 🇦🇪 Dubai/UAE — Hyper-arid, cool season ideal
+- [x] 🇵🇪 Cusco, Peru — High elevation, cool air
+- [x] 🇳🇿 New Zealand South Island — Cool, low insect density
+- [x] 🇬🇧 UK/Ireland — Cool, rainy, low mosquito activity
 
-| Destination | Why Implied Bug-Free | Research Challenge | Priority |
+### Guides Published
+- [x] 🔬 Fresh Research Guide (27) — 7 destinations with full methodology
+- [x] Fresh Research Guide (02) — 7+ destinations
+- [x] Original Research Guide (01) — 14 destinations
+- [x] Definitive Guide (26) — 14 destinations
+- [x] Web-Research First Guide (0) — 10 destinations
+- [x] Fresh 2026 Guide (fresh-bug-free-destinations-2026) — 13 destinations
+- [x] Quick-Reference Guide (2)
+- [x] Tropical & Beach Guide (3)
+- [x] Warm Bug-Free Guide (9)
+- [x] Destinations to Avoid (13)
+- [x] Research Updates (research-updates.md)
+- [x] Submission Template (submission-template.md)
+- [x] Community Roadmap (this file)
+
+---
+
+## 🔄 In Progress
+
+### Priority Destinations (Need Research)
+| Destination | Bug Score Estimate | Priority | Why It's Needed |
 |---|---|---|---|
-| 🇰🇪 **Kenya Highlands** (1,500–2,500m) | Elevation keeps bugs down; cool nights | Need regional breakdown — Masai Mara is high-risk; highlands may be safe | ⭐⭐⭐ |
-| 🇧🇴 **Bolivia — Uyuni/Altiplano** | One of world's driest, highest places | Rainy season timing for mosquito pockets near lagoons | ⭐⭐⭐ |
-| 🇵🇦 **Panama — Boquete** | High-altitude coffee town ~1,200m | Day-biting tropical flies possible in valley | ⭐⭐⭐ |
-| 🇳🇴 **Svalbard / Spitsbergen, Norway** | Extreme Arctic; permafrost; no vegetation for insects | Only a few scientific expeditions; summer midges possible | ⭐⭐ |
-| 🇨🇴 **Colombia — Bogotá / Medellín / Armenia** | High-altitude Andean cities famously bug-free | Need neighborhood breakdown; Bogotá at 2,640m | ⭐⭐⭐ |
-| 🇪🇨 **Ecuador — Quito / Cotopaxi** | High-altitude Andean | Same as Colombia — need documented bug data | ⭐⭐ |
-| 🇭🇷 **Croatia — Dubrovnik / Coast** | Mediterranean climate, coastal breezes | Mixed reports on bugs; needs verification | ⭐⭐ |
-| 🇷🇸 **Serbia — Belgrade** | Continental climate; cool winters | Unconfirmed but likely low bug pressure | ⭐ |
-| 🇨🇿 **Czechia — Prague / Brno** | Continental; river city | Unconfirmed but likely low | ⭐ |
-| 🇩🇰 **Denmark — Copenhagen** | Cool maritime; limited standing water wetlands | Must verify zero-mosquito status | ⭐⭐ |
-| 🇷🇺 **Russia — Siberian cities** (Novosibirsk, Irkutsk, Lake Baikal) | Extreme continental cold | Summer hiking near water sources may have midges | ⭐⭐ |
-| 🇹🇷 **Turkey — Cappadocia / Ankara** | High inland plateau; dry | Coastal/lowland Turkey is very buggy; inland highlands OK | ⭐⭐ |
-| 🇪🇬 **Egypt — Cairo / Luxor** | Hot desert; very dry; limited standing water | Nile Valley and Aswan may have mosquitoes near water | ⭐⭐ |
-| 🇵🇪 **Peru — Cusco / Altiplano** | High-altitude Andean capital at 3,400m | Machu Picchu area has some mosquitoes; Cusco city is safe | ⭐⭐⭐ |
-| 🇫🇮 **Finland — Lapland** | Arctic; very cold much of year | Summer mosquitoes during polar day — seasonal risk | ⭐⭐ |
-| 🇵🇹 **Portugal — Porto / inland Alentejo** | Cooler north; dry interior | Madeira was added; mainland needs separate treatment | ⭐ |
-| 🇦🇺 **Australia — Ayers Rock / Red Centre** | Hyper-arid interior; desert | Coastal Australia is very buggy | ⭐⭐ |
+| 🇲🇦 Morocco (Sahara variants) | ~1/10 | 🔴 HIGH | Multiple regions need verification |
+| 🇵🇪 Machu Picchu / Sacred Valley | ~3/10 | 🔴 HIGH | Always-crowded tourist area; need seasonal data |
+| 🇯🇵 Japan (inland) | ~1/10 | 🟡 MEDIUM | Utility reports suggest low bugs |
+| 🇨🇦 Canadian Rockies | ~1/10 | 🟡 MEDIUM | Known cool climate but needs source verification |
+| 🇩🇰 Scandinavian cities | ~1/10 | 🟡 MEDIUM | Commonly reported as low-bug |
+| 🇦🇺 Hobart, Tasmania | ~1/10 | 🟡 MEDIUM | Cold climate; needs destination-specific research |
+| 🇲🇽 Mexican Highlands | ~1/10 | 🟢 LOW | Elevation helps; needs verification |
+| 🇮🇳 Rajasthan | ~2/10 | 🟢 LOW | Dry season data exists; wet season gaps |
+| 🇪🇸 Madeira | ~2/10 | 🟢 LOW | Volcanic island; needs full guide |
+| 🇰🇷 South Korea (Seoul) | ~1/10 | 🟢 LOW | Cool climate may make it bug-free |
+
+### Guides Needed
+- [ ] Full guide for Sahara Desert variants (Merzouga, Zagora, Dades Valley)
+- [ ] Full guide for Cusco / Sacred Valley / Machu Picchu
+- [ ] Full guide for Scandinavian cities
+- [ ] Full guide for Japanese inland destinations
+- [ ] Full guide for Canadian Rockies
+- [ ] Seasonal Safety Calendar expanded with deep-dive monthly views
+- [ ] Bug-Phobe Packing Checklist (printable)
+- [ ] Video Guide: "How to Book a Hotel Without Bugs"
 
 ---
 
-## 🔬 Phase 3: Science & Verification (Ongoing)
+## 🎯 Monthly Research Sprints
 
-### 🧪 Entomology & Climate Research
-- [ ] Monitor global warming impact on insect range expansion (CDC ENT B-2026 report)
-- [ ] Track Culiseta annulata spread from Iceland to other Nordic regions — is this an isolated event?
-- [ ] Verify Sahara Desert oasis bug status (seasonal variation near water sources)
-- [ ] Update all destinations within 12 months per community agreement
-- [ ] Investigate Kilauea volcano activity's impact on Hawaii's Kona-vs-Hilo mosquito divide
-- [ ] Check whether Almería / Murcia in Spain's southeast are truly low-bug (semi-arid coast)
-
-### 📊 Data & Tools
-- [ ] Build interactive online bug-free destination planner
-- [ ] Create monthly bug-risk heat map for all continents
-- [ ] Develop community bug-reporting app for travelers (optional)
-- [ ] Add translated versions of key guides (Spanish, French, German)
-
----
-
-## 🏆 Phase 4: Community Growth (To Be Started)
-
-### 👥 Traveler Spotlights
-- [ ] Feature bug-phobic traveler success stories — monthly
-- [ ] Collect and publish trip reports from bug-free destinations
-- [ ] Partner with travel bloggers who specialize in accessibility/insect-free travel
-
-### 📚 Education
-- [ ] Create "Why Bugs Don't Bite Here" educational series
-- [ ] Develop a printable bug-avoidance packing checklist
-- [ ] Host community Q&A sessions on destination safety
-- [ ] Add flea/tick awareness guides for dog-travel contexts
-- [ ] Create destination "bug season" comparison infographics for sharing
-
----
-
-## 🎯 Quick Wins (Easy PRs for New Contributors)
-
-| Task | Difficulty | Description |
+| Month | Sprint Focus | Status |
 |---|---|---|
-| Verify at least 2 new destinations | Easy | Apply the submission template to a place you've visited |
-| Update Iceland status | Easy | Check if Culiseta annulata has established a population since Oct 2025 |
-| Add Madeira sub-destinations | Easy | Porto, Madeira interior, Desertas Islands, Porto Santo — separate entries |
-| Add UAE sub-destinations | Easy | Abu Dhabi, Ras Al Khaimah, Fujairah as separate entries |
-| Add Croatia → Dubrovnik travel report | Medium | Verify Mediterranean coastal bug levels |
-| Add Bermuda | Medium | Island with similar conditions to Bermuda Triangle region — reputed to be low-bug |
-| Add Moscow, Russia | Medium | Continental city; cold winters; summer risk needs review |
-| Add Cartagena, Columbia (highland neighborhood) | Medium | Bold claim; need granular neighborhood data |
+| Jul 2026 | 7 new destinations with full research + 27 guide published | ✅ DONE |
+| Aug 2026 | Verify Sahara variants + add Madeira + Update sources | 🔄 PLANNED |
+| Sep 2026 | Community spotlight: traveler bug-free stories | 📋 PLANNED |
+| Oct 2026 | Priority destinations: Morocco, Japan, Canada Rockies | 📋 PLANNED |
+| Nov 2026 | Holiday travel safety: Christmas/NYE bug-free picks | 📋 PLANNED |
+| Dec 2026 | Year in review + 2027 planning guide | 📋 PLANNED |
 
 ---
 
-## 📊 Phase 5: Expansion Objective (Long-Term — 2027)
+## 🌟 Quick Wins (Easy First PRs)
 
-### Aim
-Protect bug-phobes globally by covering:
-- [ ] Every continent's bug-free urban hubs (top 5 cities per continent)
-- [ ] All bug-free island groups worldwide (census)  
-- [ ] Low-risk Seasonal Calendar (journeys ranked like Travel Advisories)
-- [ ] Intersection of "Flight-Time accessible" + "Lowest Bug Score" (Q&A analysis)
-- [ ] Brief destination card PDF format (1-pagers, printable)
+| Task | How | Difficulty |
+|---|---|---|
+| Fix a typo | Find a typo in any guide and fix it | 🥰 Easy |
+| Add a source | Find a new credible source and add to sources table | 🥰 Easy |
+| Update a bug score | Cross-reference one destination with 2 new sources | 🥰🥰 Medium |
+| Add a photo | Add a bug-free landscape photo with attribution | 🥰 Easy |
+| Check red zones | Verify the forbidden destinations list is accurate | 🥰🥰 Medium |
+| Translate a section | Translate the README or Quick-Reference | 🥰🥰 Medium |
+| Update the calendar | Add a month or destination to the seasonal calendar | 🥰🥰 Medium |
+
+---
+
+## 👥 Community Roles
+
+| Role | What You Do |
+|---|---|
+| 🔍 **Researcher** | Deep-dive into a destination with 3+ sources |
+| 🔎 **Verifier** | Cross-check other researchers' work |
+| 📝 **Editor** | Improve clarity and formatting of existing guides |
+| 🐛 **Bug Reporter** | Alert community when bug status changes |
+| 📢 **Advocate** | Share the community on social media |
+
+---
+
+## 🚀 How to Join the Sprint
+
+1. Pick a priority destination from the table above
+2. Open an issue with the `destination-request` label
+3. Use the [Submission Template](submission-template.md) to structure your research
+4. Submit a PR with the label `destination-request`
+5. Wait for community review (usually 2-5 days)
+6. Once approved, your guide gets merged and featured!
+
+---
+
+## 📬 Stay Connected
+
+- **Star the repo** to stay updated on new destinations
+- **Enable GitHub Notifications** (top right → Watch → All)
+- **Join the conversation** — every issue and PR is a chance to learn and help
+
+> *"Alone we can travel safely. Together, we can explore fearlessly."* ✨🚫🐛🌍
