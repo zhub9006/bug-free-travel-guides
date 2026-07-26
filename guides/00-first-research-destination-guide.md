@@ -3,6 +3,8 @@
 > **✨ FOUNDING GUIDE!** 12 deeply-researched bug-free destinations with bug scores, month-by-month seasonal safety calendars, budget tiers, global safety calendar, science explanations, bug-phobe travel kit, 7 commandments, and community contribution framework.
 >
 > **Last Updated:** July 2026 | **Sources:** 42+ | **Research Verified:** ✅
+>
+> **✨ THIS IS THE FIRST GUIDE IN THE REPO — START HERE! ✨**
 
 ---
 
@@ -14,11 +16,11 @@ Our proprietary **Bug Phobia Scale (1-10):**
 |-------|---------|
 | **1-3** | ✅ Safe! Minimal to no bugs. No special precautions needed. |
 | **4-6** | ⚠️ Moderate. Low bug presence. Precautions recommended seasonally. |
-| **7-10** | 🚨 Danger Zone. High bug density. Avoid if bug-phobic. |
+| **7-10** | 😨 Danger Zone. High bug density. Avoid if bug-phobic. |
 
 ---
 
-## 🪖 1. Antarctica 🇦🇶 — The Ultimate Bug-Free Guarantee (Bug Score: 1/10)
+## 🐋 1. Antarctica 🇦🇶 — The Ultimate Bug-Free Guarantee (Bug Score: 1/10)
 
 **Only landmass on Earth with a FULL mosquito-free guarantee.**
 
@@ -26,6 +28,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - There are literally **no mosquitoes in Antarctica**. The extreme cold, lack of standing water, and absence of vegetation make it physically impossible for mosquitoes to survive, breed, or even fly.
 - Temperatures rarely exceed 0°C in summer and can drop to -60°C in winter.
 - The continent has no permanent human settlements or standing water sources.
+- No insects exist at all — not just mosquitoes, but no flies, no ants, no beetles.
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -40,7 +43,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 | Dec | 1/10 | ✅ YES | 24h daylight returns. Peak cruise season. |
 
 **💰 Budget Tiers:**
-- 🟢 **Budget:** $4,000-$6,000 (expedition cruise,shared cabins, 7-10 days)
+- 🟢 **Budget:** $4,000-$6,000 (expedition cruise, shared cabins, 7-10 days)
 - 🟡 **Mid-Range:** $6,000-$12,000 (standard Antarctic cruise, some luxury options)
 - 🔴 **Luxury:** $12,000-$40,000+ (ultra-luxury ships, fly-cruise combos, private expeditions)
 
@@ -58,12 +61,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 
 ## 🇮🇸 2. Iceland — Nordic Bug-Free Paradise (Bug Score: 2/10)
 
-**One of only two places on Earth with zero native mosquitoes.**
+**One of only two places on Earth with zero native mosquitoes — now partially updated 🚨**
 
 **Why it's bug-free:**
-- **No mosquitoes native to Iceland.** The only known mosquito was preserved in a jar at the Icelandic Institute of Natural History — an accidental transplant from Greenland, not a breeding population.
+- **No mosquitoes native to Iceland.** The only known mosquito was preserved in a jar at the Icelandic Institute of Natural History — an accidental transplant from Greenland, not a breeding population — *until October 2025*.
 - Scientists believe Iceland's **oceanic climate with three freeze-thaw cycles per year** prevents mosquitoes from establishing. Other theories: soil chemistry and water composition are inhospitable to larvae.
 - Despite being on the same latitude as Fairbanks, Alaska (the "mosquito state bird"), Iceland has remarkably few insects.
+- **⚠️ CRITICAL UPDATE (Oct 2025):** Three *Culiseta annulata* specimens were found near Kjós valley, 30km north of Reykjavík. This is Iceland's first mosquito discovery in recorded history. Scientists believe climate change may allow breeding populations to establish. **Verify before booking.**
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -85,7 +89,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 **💰 Budget Tiers:**
 - 🟢 **Budget:** $80-$150/day (hostel, B&B, cooking your own meals with supermarket ingredients)
 - 🟡 **Mid-Range:** $150-$300/day (guesthouses, hotel mid-range, eating out at casual restaurants)
-- 🔴 **Luxury:** $300-$800+/day ( boutique hotels, puffin tours, glacier lagoon closeups)
+- 🔴 **Luxury:** $300-$800+/day (boutique hotels, puffin tours, glacier lagoon closeups)
 
 **🎯 Best Seasons:**
 - **Bug-phobe priority:** October-April (maximum bug safety, northern lights, ice caves)
@@ -94,9 +98,10 @@ Our proprietary **Bug Phobia Scale (1-10):**
 
 **⚠️ Important Notes:**
 - Midges (small flies) can appear near lakes in late May/June — NOT mosquitoes but can bother bug-phobes
-- October-April has near-zero bug activity — ideal for severe phobias
+- October-April has near-zero bug activity — ideal for severe phobes
+- Iceland is no longer guaranteed bug-free — monitor for breeding population confirmation
 
-**📚 Sources:** Explore.com — Best Vacation Destinations Where Pesky Mosquitoes Will Not Be Your Problem, MosquitoSquad — Best Mosquito-Free Holiday Destinations, Mosquito Index — Iceland Mosquito Risk Index, Icelandic Institute of Natural History
+**📚 Sources:** Explore.com — Best Vacation Destinations Where Pesky Mosquitoes Will Not Be Your Problem, MosquitoSquad — Best Mosquito-Free Holiday Destinations, Mosquito Index — Iceland Mosquito Risk Index, Icelandic Institute of Natural History, The Washington Post (Oct 2025 mosquito discovery), CNN (Oct 2025 mosquito discovery)
 
 ---
 
@@ -109,6 +114,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - Mosquitoes require standing water to lay eggs and for larvae to develop. In one of the driest places on the planet, standing water is almost non-existent.
 - The high altitude (2,400-4,300m in San Pedro de Atacama) means cooler nighttime temperatures that further deter insect activity.
 - Minimal human population means minimal standing water from irrigation.
+- The landscape is essentially a moonscape — no marshes, no ponds, no puddles.
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -138,12 +144,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - Visit during the dry season (May-November) for absolute minimum bug exposure
 - Avoid January-February (hot/rainy season) — *occasional* insects after rare rain events
 - Altitude sickness is a possibility in San Pedro de Atacama (2,400m+)
+- The desert's otherworldly landscape (Mars-like, salt flats, volcanoes) makes it a unique destination
 
-**📚 Sources:** Atacama Chile Tours, AdventureTripr, Takes Travel Info, Travel + Leisure Atacama Guide, Explore.com — Best Vacation Destinations
+**📚 Sources:** Atacama Chile Tours, AdventureTripr, PureTravel — When to Visit the Atacama Desert?, Travel + Leisure Atacama Guide, Explore.com — Best Vacation Destinations
 
 ---
 
-## 🌴 4. Curaçao — Dry, Breezy Caribbean Bug Refuge (Bug Score: 3/10)
+## 🇨🇼 4. Curaçao — Dry, Breezy Caribbean Bug Refuge (Bug Score: 3/10)
 
 **Southern Caribbean island where trade winds and aridity keep mosquitoes at bay.**
 
@@ -151,6 +158,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - Unlike most Caribbean islands, Curaçao has **very low humidity and constant trade winds** (Easterlies) that prevent stagnant water from accumulating.
 - The island's **dry season** sees virtually no mosquitoes because of minimal rainfall and no standing water for breeding.
 - The **Aedes aegypti** mosquito (which carries dengue) is the main concern, but it breeds in standing water, which is rare in Curaçao's arid landscape.
+- The southern Caribbean is coastal desert with limited vegetation.
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -166,7 +174,8 @@ Our proprietary **Bug Phobia Scale (1-10):**
 | Aug | 3/10 | ⚠️ WATCH | Rainy season begins. Insects increasing, especially at dusk. |
 | Sep | 3/10 | ⚠️ WATCH | Peak rainy. High humidity, standing water, heavy bug activity. |
 | Oct | 3/10 | ❌ NO | Rainy peak. Maximum mosquito activity. Avoid. |
-| Nov | 3/10 | ❌ NO | Still rainy. Dengue risk highest. |n| Dec | 3/10 | ⚠️ CAUTION | Rainy season fading. Still cautious. |
+| Nov | 3/10 | ❌ NO | Still rainy. Dengue risk highest. |
+| Dec | 3/10 | ⚠️ CAUTION | Rainy season fading. Still cautious. |
 
 **💰 Budget Tiers:**
 - 🟢 **Budget:** $60-$120/day
@@ -179,12 +188,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - **Dengue risk** rises in rainy season — use DEET (25-30%) even outside peak months
 - Curaçao's famous **Punda & Otrobanda** districts are busy, low-bug urban zones
 - Beach resorts on the western coast where breezes keep mosquitoes away
+- The island has no rivers or significant standing water — natural mosquito barrier
 
 **📚 Sources:** CuracaoTodo FAQ, Mosquitoes on Curaçao (naarcuracao.com), MyCuracao Guide, Curacao Insider, Travel2Curacao, Kleincuracao.deals, CDC Travelers' Health
 
 ---
 
-## 🌋 5. Montserrat — The Forbidden Volcanic Bug Sanctuary (Bug Score: 2/10)
+## 🇲🇸 5. Montserrat — The Forbidden Volcanic Bug Sanctuary (Bug Score: 2/10)
 
 **A Caribbean island where volcanic activity creates mosquito-free conditions.**
 
@@ -193,6 +203,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - Lava rock, sparse vegetation, and minimal standing water produce an environment mosquitoes simply cannot colonize.
 - The island is largely uninhabited in the exclusion zone (>60% of the island), meaning fewer humans = less standing water infrastructure = fewer mosquito habitats.
 - It is one of only a handful of places in the Caribbean with virtually zero reported mosquito problems.
+- The Soufrière Hills volcano has buried the former capital and created a unique, largely uninhabited landscape.
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -222,12 +233,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - Montserrat is NOT for casual tourists — it's rugged, limited infrastructure, requires adventurous spirit
 - The Exclusion Zone (former capital Plymouth buried under lava) is accessible but requires guided tours
 - Access: Fly from Antigua (~20 min) or take the ferry from Antigua
+- Hurricane season can be a factor — check weather forecast before booking
 
 **📚 Sources:** Yodl Travel — Best Time to Visit Montserrat, 360 Nations, RustourismNews — Mosquito-Free Destinations
 
 ---
 
-## 🏝️ 6. Maldives — Private Island Paradise (Bug Score: 4/10 — NEEDS CAUTIONARY UPDATE)
+## 🇲🇻 6. Maldives — Private Island Paradise (Bug Score: 4/10 — NEEDS CAUTIONARY UPDATE)
 
 **Once bug-free. Now needs cautious verification.**
 
@@ -236,7 +248,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - The Maldives consists of approximately 1,200 islands, many of which are tiny and isolated.
 - Low-lying geography and constant ocean breezes on most resorts create unfavorable mosquito breeding conditions.
 
-**⚠️ CRITICAL UPDATE (2026):** The Maldives is NO LONGER considered a 0-bug destination. The Mosquito Index gives it a **60/100 (High)** mosquito activity rating, with **peak season May-November**. However, **December-April (dry season)** on the outer islands keeps mosquito activity significantly lower (score ~25-35/100).
+**⚠️ CRITICAL UPDATE (2026):** The Maldives is NO LONGER considered a completely bug-free destination. The Mosquito Index gives it a **60/100 (High)** mosquito activity rating, with **peak season May-November**. However, December-April (dry season) on the outer islands keeps mosquito activity significantly lower (score ~25-35/100).
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -266,8 +278,9 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - **Verify bug management** when booking — choose resorts with active mosquito control programs
 - Inhabited local islands (not resorts) have **much higher mosquito activity**
 - Carry DEET regardless
+- Stick to outer islands (Laamu, Raa, Haa Dhaalu, etc.) for the lowest bug exposure
 
-**📚 Sources:** Mosquito Index — Maldives (60/100), FollowMe To Maldives, Luxatolls, Iuliia Tore / RustourismNews
+**📚 Sources:** Mosquito Index — Maldives (60/100), FollowMe To Maldives, Luxatolls, Iuliia Tore / RustourismNews, CNN — Soneva Fushi mosquito-free initiative
 
 ---
 
@@ -311,12 +324,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - **AVOID Hilo & Puna** (eastern/rainy side) — these areas are mosquito heaven
 - Do NOT wander near forest reserves or steam vents at dawn/dusk
 - Kona coffee farms at elevation (~300-600m) have fewer mosquitoes than floor-level
+- The Big Island's leeward side is the key differentiator
 
 **📚 Sources:** Mosquito Index — Hawaii Mosquito Forecast (Feb = 20/100), Big Island Tours, MosquitoCast — Hawaii Forecast, Explore.com, Hawaii Guide
 
 ---
 
-## 🏔️ 8. Puebla, Mexico — High-Altitude Mexican Refuge (Bug Score: 3/10)
+## 🇲🇽 8. Puebla, Mexico — High-Altitude Mexican Refuge (Bug Score: 3/10)
 
 **Beautiful high-elevation Mexican city where altitude shuts the mosquitoes out.**
 
@@ -325,6 +339,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - **High altitude = cooler temperatures = fewer insects.** Most tropical mosquitoes thrive below 1,500 meters.
 - The city is NOT in a tropical lowland, so the classic Central American mosquito superhighway doesn't reach here.
 - Puebla's proximity to Popocatépetl volcano and the cooler mountain climate creates conditions where mosquitoes can't breed.
+- The dry season (November-May) is essentially mosquito-free.
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -353,12 +368,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 **⚠️ Important Notes:**
 - Puebla at elevation can be **chilly at night** — pack layers
 - **Don't venture into the lowland Tropical Pueblos** (like Palenque, Chiapas) where malaria and dengue are endemic
+- City center is generally safer than rural outskirts during rainy season
 
 **📚 Sources:** Mexico Travel & Leisure — Best Time to Visit Puebla, MosquitoSquad — Places Without Mosquitoes Outside The US, Explore.com
 
 ---
 
-## 🌋 9. Canary Islands, Spain — Volcanic Bug-Free Spring (Bug Score: 3/10)
+## 🇪🇸 9. Canary Islands, Spain — Volcanic Bug-Free Spring (Bug Score: 3/10)
 
 **Subtropical Atlantic islands where constant trade winds + arid eastern half keep bugs low.**
 
@@ -367,6 +383,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - The **eastern islands** (Lanzarote, Fuerteventura) are extremely **arid and sun-drenched** — no standing water = no mosquitoes.
 - **Higher elevations** on Tenerife, La Palma, and Gran Canaria have cooler, windier climates where insects are sparse.
 - The Canary Islands are NOT a Caribbean island — no intense tropical mosquito ecology.
+- The archipelago's volcanic, porous geology means water drains quickly through the rock.
 
 **⚠️ Important Note:** The **western islands** (La Gomera, El Hierro) are wetter and more lush — slightly more mosquitoes. Stick to **Lanzarote, Fuerteventura**, or the **eastern/treeless parts** of Tenerife.
 
@@ -380,9 +397,9 @@ Our proprietary **Bug Phobia Scale (1-10):**
 | Apr | 2/10 | ✅ YES | Perfect month. Lanzarote & Fuerteventura ideal bug-free. |
 | May | 3/10 | ✅ YES | Good. Tourist season starts → slight increase. |
 | Jun | 3/10 | ✅ YES | Warm. Beginning to get crowded. Bugs still low on eastern islands. |
-| Jul | 3/10 | ⚠️ WATCH | Peak touristseason. Bugs slightly↑ on popular west coasts. |
+| Jul | 3/10 | ⚠️ WATCH | Peak tourist season. Bugs slightly↑ on popular west coasts. |
 | Aug | 3/10 | ⚠️ WATCH | Peak hot. Spanish holiday peak. Bug counts highest of the year. |
-| Sep | 3/10 | ⚠️ WATCH | Still hot but crowdspouring in. Minor bug uptick. |
+| Sep | 3/10 | ⚠️ WATCH | Still hot but crowds pouring in. Minor bug uptick. |
 | Oct | 2/10 | ✅ YES | Autumn. Warm but less crowded. Bugs dropping. |
 | Nov | 2/10 | ✅ YES | Autumn. Mild & dry. Excellent bug safety. |
 | Dec | 2/10 | ✅ YES | Cool. Great for hiking & volcano visits. Low bugs. |
@@ -398,20 +415,22 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - **Lanzarote & Fuerteventura** = driest, most arid, fewest bugs
 - **Tenerife/Grand Canary** central-western beaches can have slightly more mosquitoes — choose eastern-facing or elevated hotels
 - El Hierro & La Gomera = wetter, more tropical, more bugs — avoid if severe phobia
+- Aedes aegypti has been detected in port areas but is NOT endemic — risk is low for travelers
 
-**📚 Sources:** FindingOurAdventure — Best Time to Visit Canary Islands, bigcanaria.com Mosquito info, MosquitoSquad, RustourismNews
+**📚 Sources:** FindingOurAdventure — Best Time to Visit Canary Islands, bigcanaria.com Mosquito info, MosquitoSquad, RustourismNews, GuideToCanaryIslands — Mosquitoes in the Canaries
 
 ---
 
-## 🏙️ 10. London, England — The Cool Rainy City (Bug Score: 2/10)
+## 🇬🇧 10. London, England — The Cool Rainy City (Bug Score: 2/10)
 
 **London's rainy conditions and cool temperatures keep it from becoming an ideal mosquito breeding ground.**
 
 **Why it's virtually bug-free:**
 - **London's cool, temperate climate** (average temps 2-22°C) does NOT support mosquito breeding. Mosquitoes need warmth (20-30°C minimum) and standing water to reproduce efficiently.
 - Constant **rainfall** means water drains through London's well-maintained sewer/urban drainage systems.
-- **Urban density** (Buildings, concrete, underground Tube) creates a naturally bug-unfriendly environment.
-- London gets about 750mm rain/year — well-drained and managed.
+- **Urban density** (buildings, concrete, underground Tube) creates a naturally bug-unfriendly environment.
+- London gets about 750mm rain/year — well-drained and managed by the Thames Barrier system.
+- Even in summer, London rarely reaches the sustained temperatures needed for mosquito breeding.
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -440,12 +459,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 **⚠️ Important Notes:**
 - London's bug safety is primarily climate-driven — mosquitoes simply cannot breed in London's temperatures
 - The only insects you might see are rare horseflies or midges near the Thames near reed beds in June-August
+- The only real "bug" risk is the occasional horsefly near the Thames, not mosquitoes
 
 **📚 Sources:** MosquitoSquad — Places Without Mosquitoes Outside of the US, Explore.com Lowbug Destinations
 
 ---
 
-## 🏜️ 11. Sedona, Arizona — Desert Bug Frontier (Bug Score: 2/10)
+## 🇺🇸 11. Sedona, Arizona — Desert Bug Frontier (Bug Score: 2/10)
 
 **Arizona's red rock desert where aridity + elevation = zero mosquito zone.**
 
@@ -453,7 +473,8 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - Sedona's **high desert climate** (~1,300-1,500m elevation) means **extremely low humidity** and **minimal standing water**.
 - Average annual rainfall is just ~470mm — mostly from brief monsoon thunderstorms that drain instantly through red sandstone.
 - Sedona's **rocky, mineral soil** doesn't retain water the way loam/earth soils do. Water percolates through sand and rock immediately.
-- The dry air means mosquitoes dehydrate quickly even if laid eggs.
+- The dry air means mosquitoes dehydrate quickly even if eggs are laid.
+- Unlike the Southwest's lower desert (Phoenix, Las Vegas), Sedona's elevation keeps it cooler and drier.
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -482,12 +503,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 **⚠️ Important Notes:**
 - July-September (monsoon) brings occasional gnats/fly-flies — not mosquitoes, but can be confused
 - Unlike desert destinations in the tropics, Sedona is **cold in winter**
+- The red rock formations create natural wind tunnels that keep insects away
 
 **📚 Sources:** MosquitoSquad — Sedona (hot place without mosquitoes), Explore.com, Atacama Desert (arid comparison), Mosquito Joe — Mosquito-Free Areas
 
 ---
 
-## 🌊 12. Madeira (Portugal) — Atlantic Bug-Buffered Escape (Bug Score: 3/10)
+## 🇵🇹 12. Madeira (Portugal) — Atlantic Bug-Buffered Escape (Bug Score: 3/10)
 
 **Volcanic island in the Atlantic with mountain winds that blow mosquitoes away.**
 
@@ -495,7 +517,7 @@ Our proprietary **Bug Phobia Scale (1-10):**
 - Madeira is a volcanic island with steep mountains creating **microclimates** — higher elevations are often too windy and cool for mosquitoes.
 - The **northeast trade winds** (especially on the northeast coast) keep mosquito populations very low.
 - Most resort towns are on **sunny southern/southwest coasts** where Atlantic breezes discourage insects.
-- The Canary Islands are not a Caribbean island — no intense tropical mosquito ecology.
+- The island's steep, rocky terrain means minimal flat water habitats for mosquito breeding.
 
 **🗓️ Month-by-Month Seasonal Safety Calendar:**
 
@@ -524,12 +546,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 **⚠️ Important Notes:**
 - Madeira has never been known as a mosquito hotspot — even during the rainy season, bug presence is negligible compared to Caribbean or SE Asian islands
 - Funchal near the harbor area can temporarily trap some midges at dusk — very rare
+- The island's laurel forests and botanical gardens are the only areas with slightly higher humidity and bug potential
 
 **📚 Sources:** MosquitoSquad, RustourismNews, Madeira Tourism Board, NomadList Places Without Mosquitos database
 
 ---
 
-## 🗺️ Global Bug-Free Month-by-Month Safety Calendar (Quick Reference)
+## 🌍 Global Bug-Free Month-by-Month Safety Calendar (Quick Reference)
 
 **Top Destinations by Month (Bug-Phobe Reference):**
 
@@ -548,11 +571,13 @@ Our proprietary **Bug Phobia Scale (1-10):**
 | **Nov** | London | Iceland | Madeira | Patagonia |
 | **Dec** | London | Iceland | Madeira | Bali, Amazon |
 
+**💡 Pro tip:** December-March is the safest global window for bug-phobes because Northern hemisphere winter = Southern hemisphere summer in bug-free zones; Northern cold = zero bugs.
+
 ---
 
-## 🎒 Universal Bug-Phobe Travel Kit
+## 🌿 Universal Bug-Phobe Travel Kit
 
-### 🧴 Essential Repellent Tier
+### 🦟 Essential Repellent Tier
 
 | Item | Purpose | Specification |
 |------|---------|---------------|
@@ -561,16 +586,16 @@ Our proprietary **Bug Phobia Scale (1-10):**
 | Permethrin 0.5% | Pre-treat clothing | Spray on outer layers; NOT skin use |
 | Clip-on fan repeller | Creates wind barrier deterrent | Clip to belt/backpack |
 
-### 🍃 Physical Barrier Tier
+### 🧴 Physical Barrier Tier
 
 | Item | Purpose |
 |------|---------|
 | Permethrin-treated clothing | Mosquitoes can't bite through treated fabric |
 | Mosquito head net ($3) | Full head/facial protection |
 | Mosquito coil/smart repellent ($5) | Creates 5m radius protected zone |
-| Compact hand fan | In-phone pocket — steady breeze stop mosquitoes |
+| Compact hand fan | In-pocket — steady breeze stops mosquitoes |
 
-### 🛏️ Accommodation Tier
+### 🏨 Accommodation Tier
 
 | Item | Purpose |
 |------|---------|
@@ -585,40 +610,41 @@ Our proprietary **Bug Phobia Scale (1-10):**
 
 1. ⏰ **Timing > Spray** — right season prevents 80% of bug problems
 2. 🔬 **Science > Hype** — look at ingredients, not marketing
-3. 🧭 **Timing varies by species** — mosquitoes are DUSK & DAWN active; ticks are DAY active
-4. 📊 **Check live climate data** — not just calendars (monsoon/rise shifts seasonality yearly)
-5. 🛏️ **Hotels matter** (AC + screens = your first line of defence)
+3. 🐛 **Timing varies by species** — mosquitoes are DUSK & DAWN active; ticks are DAY active
+4. 📊 **Check live climate data** — not just calendars (monsoon shifts seasonality yearly)
+5. 🏨 **Hotels matter** (AC + screens = your first line of defence)
 6. 🚫 **Avoid, don't just manage** — if a destination has a wet season with high humidity and bugs (score ≥7), choose a different destination
-7. 📣 **Report & share** — document what you saw. Community knowledge is the roadmap for safe travel
+7. 📝 **Report & share** — document what you saw. Community knowledge is the roadmap for safe travel
 
 ---
 
 ## 📚 Research Sources (42+ Total)
 
-| Source | Type | Priority |
-|--------|------|----------|
-| Explore.com — Best Vacation Destinations Where Mosquitoes Are Not a Problem | Travel Journalism | Primary |
-| Cheapism — Where to Vacation if You Hate Bugs (2024) | Travel Industry | Primary |
-| MosquitoSquad — Best Mosquito-Free Holiday Destinations (Apr 2023) | Entomology | Primary |
-| RustourismNews — Mosquito-Free Destinations You Need to Visit (Mar 2025) | Travel News | Primary |
-| Mosquito Joe — Where Are There No Mosquitoes? | Entomology | Primary |
-| CDC Travelers' Health — Destination Notices | Official Government | Primary |
-| Atacama Chile Tours, AdventureTripr, Takes Travel Info | Destination Tourism | Primary |
-| Mosquito Index — Iceland, Hawaii, Maldives, Global Risk | Entomology Data | Primary |
-| MosquitoCast — Hawaii Mosquito Forecast | Entomology | Primary |
-| CuracaoTodo, Mosquitoes on Curaçao, MyCuracao Guide, Travel2Curacao | Destination Travel | Primary |
-| Yodl Travel, 360 Nations — Montserrat | Destination Tourism | Primary |
-| Maldives Magazine, Luxatolls, FollowMe To Maldives | Destination Tourism | Primary |
-| MosquitoSquad — Sedona, AZ, Places Without Mosquitoes Outside The US | Entomology | Secondary |
-| NomadList Places Without Mosquitos Database | Database | Secondary |
-| Antarctic Tourism, Cruise Critic — Best Time to Visit Antarctica | Official Science | Secondary |
-| FindingOurAdventure — Best Time to Visit Canary Islands | Destination Tourism | Secondary |
-| Big Island Tours, howtoliveinhawaii.com — Hawaii Kona | Destination Tourism | Secondary |
-| Mexico Travel & Leisure — Best Time to Visit Puebla | Destination Tourism | Secondary |
-| Travellers Worldwide, Seafari Adventures | Destination Tourism | Secondary |
-| RustourismNews (multiple) | Travel News | Secondary |
-| Council tourism boards across 14 countries | Official | Secondary |
-| BBC/NPR/Reuters — Ecosystem + Climate + Travel | News | Reference |
+| Source | Type |
+|--------|------|
+| Explore.com — Best Vacation Destinations Where Mosquitoes Are Not a Problem | Travel Journalism |
+| Cheapism — Where to Vacation if You Hate Bugs (2024) | Travel Industry |
+| MosquitoSquad — Best Mosquito-Free Holiday Destinations (Apr 2023) | Entomology |
+| RustourismNews — Mosquito-Free Destinations You Need to Visit (Mar 2025) | Travel News |
+| Mosquito Joe — Where Are There No Mosquitoes? | Entomology |
+| CDC Travelers' Health — Destination Notices | Official Government |
+| Atacama Chile Tours, AdventureTripr, PureTravel | Destination Tourism |
+| Mosquito Index — Iceland, Hawaii, Maldives, Global Risk | Entomology Data |
+| MosquitoCast — Hawaii Mosquito Forecast | Entomology |
+| CuracaoTodo, Mosquitoes on Curaçao, MyCuracao Guide | Destination Travel |
+| Yodl Travel, 360 Nations — Montserrat | Destination Tourism |
+| Maldives Magazine, Luxatolls, FollowMe To Maldives | Destination Tourism |
+| MosquitoSquad — Sedona, AZ, Places Without Mosquitoes | Entomology |
+| NomadList Places Without Mosquitos Database | Database |
+| Antarctic Tourism, Cruise Critic — Antarctica Weather | Official Science |
+| FindingOurAdventure — Canary Islands Weather | Destination Tourism |
+| Big Island Tours, howtoliveinhawaii.com — Hawaii Kona | Destination Tourism |
+| Mexico Travel & Leisure — Puebla | Destination Tourism |
+| Travellers Worldwide, Seafari Adventures | Destination Tourism |
+| GuideToCanaryIslands — Mosquitoes in the Canaries | Destination Travel |
+| CNN, Washington Post, NPR — Iceland Mosquito Discovery (Oct 2025) | News |
+| County tourism boards across 14 countries | Official |
+| BBC / NPR / Reuters — Ecosystem + Climate + Travel | News |
 
 ---
 
